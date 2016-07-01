@@ -6,25 +6,27 @@
           <script>
           var visualization = d3plus.viz()
           .container("#scatter")
-          .data("encuentros_participacion.json")
+          .data("encuentros_participacion_10000hab.json")
           .type("scatter")
           .width(false)
           .height(false)
           .resize(true)
-          .id(["comuna"])
+          .id(["region","comuna"])
           .size("pob14_comuna")
-          .x("encuentros_poblacion")
-          .y("indice_participacion")
+          .x("encuentros_poblacion_10000hab")
+          .y("pcent_votos")
+          .color("color")
+          .depth(1)
           .format({
             "text": function(text, params) {
               if (text === "pob14_comuna") {
-                return "Población de la comuna";
+                return "Población";
               }
-              if (text === "encuentros_poblacion") {
+              if (text === "encuentros_poblacion_10000hab") {
                 return "Encuentros locales por cada 10,000 habitantes mayores de 14 años";
               }
-              if (text === "indice_participacion") {
-                return "Participación";
+              if (text === "pcent_votos") {
+                return "% de participación en elecciones presidenciales";
               }
               else {
                 return d3plus.string.title(text, params);
@@ -32,17 +34,19 @@
             },
             "number": function(number, params) {
               var formatted = d3plus.number.format(number, params);
-              if (params.key === "indice_participacion") {
+              if (params.key === "pcent_votos") {
                 return formatted + "%";
               }
               else {
                 return formatted;
               }
-            }  
+            }
           })
           .font({"family": "Lato"})
-          .title("Encuentros locales versus participación en elecciones en Santiago")
-          .tooltip(["pob14_comuna","indice_participacion","encuentros_poblacion"])
+          .title("Encuentros locales versus participación en elecciones")
+          .title({"sub": "Comunas con más de 10,000 habitantes mayores de 14 años"})
+          .tooltip(["pob14_comuna","pcent_votos","encuentros_poblacion_10000hab"])
+          .legend({"order": {"sort": "desc", "value": "region"}})
           .draw()
           </script>
 <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet" type="text/css">

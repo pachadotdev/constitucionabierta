@@ -1,14 +1,44 @@
 setwd("~/constitucionabierta")
 library(XLConnect)
+library(d3plus)
+#d3plus()
 
-encuentros_participacion <- readWorksheetFromFile("encuentros_participacion.xlsx", sheet = "Sheet1", region = "A1:D53")
-encuentros_participacion_json <- toJSON(encuentros_participacion, pretty=TRUE)
+colores <- c("#333333",colorRampPalette(c("#0054a4","#ed1c24","#fffa85","#fc7058","#6c82a3","#804a62"))(15))
+write.csv(colores,"colores.csv")
 
-encuentros_idh <- readWorksheetFromFile("encuentros_idh.xlsx", sheet = "Sheet1", region = "A1:D39")
-encuentros_idh_json <- toJSON(encuentros_idh, pretty=TRUE)
+datos_finales <- read.csv("sintesis_datos_pacha.csv")
+
+datos_finales_metropolitana = readWorksheetFromFile("participacion_rm.xlsx", sheet = "Sheet1", region = "A1:D53")
+
+comunas_10000hab <- datos_finales[,c("region","comuna","pob14_comuna","encuentros_poblacion_10000hab","color")]
+comunas_10000hab = subset(comunas_10000hab, pob14_comuna > 10000)
+comunas_10000hab = comunas_10000hab[order(comunas_10000hab$pob14_comuna,decreasing = TRUE),]
+comunas_10000hab = comunas_10000hab[order(comunas_10000hab$encuentros_poblacion,decreasing = TRUE),]
+comunas_10000hab = comunas_10000hab[1:20,]
+comunas_10000hab$comuna = as.factor(comunas_10000hab$comuna)
+comunas_10000hab$region = as.factor(comunas_10000hab$region)
+
+encuentros_participacion_metropolitana = subset(datos_finales_metropolitana, pob14_comuna > 10000)
+encuentros_participacion_metropolitana$color = "#717290"
+
+encuentros_idh_10000hab <- datos_finales[,c("region","comuna","pob14_comuna","encuentros_poblacion_10000hab","idh","color")]
+encuentros_idh_10000hab = subset(encuentros_idh_10000hab, pob14_comuna > 10000)
+
+encuentros_participacion_10000hab <- datos_finales[,c("region","comuna","pob14_comuna","encuentros_poblacion_10000hab","pcent_votos","color")]
+encuentros_participacion_10000hab = subset(encuentros_participacion_10000hab, pob14_comuna > 10000)
+
+#################
 
 setwd("~/constitucionabierta/gh-pages")
-library(d3plus)
-d3plus()
-write(encuentros_participacion_json, "encuentros_participacion.json")
-write(encuentros_idh_json, "encuentros_idh.json")
+
+comunas_10000hab_json <- toJSON(comunas_10000hab, pretty=TRUE)
+write(comunas_10000hab_json, "comunas_10000hab.json")
+
+encuentros_participacion_metropolitana_json <- toJSON(encuentros_participacion_metropolitana, pretty=TRUE)
+write(encuentros_participacion_metropolitana_json, "encuentros_participacion_metropolitana.json")
+
+encuentros_idh_10000hab_json <- toJSON(encuentros_idh_10000hab, pretty=TRUE)
+write(encuentros_idh_10000hab_json, "encuentros_idh_10000hab.json")
+
+encuentros_participacion_10000hab_json <- toJSON(encuentros_participacion_10000hab, pretty=TRUE)
+write(encuentros_participacion_10000hab_json, "encuentros_participacion_10000hab.json")
