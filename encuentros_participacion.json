@@ -1,0 +1,314 @@
+[
+  {
+    "comuna": "Santiago",
+    "pob14_comuna": 139180,
+    "indice_participacion": 68.6176,
+    "encuentros_poblacion": 66.8918
+  },
+  {
+    "comuna": "Cerrillos",
+    "pob14_comuna": 51997,
+    "indice_participacion": 51.4703,
+    "encuentros_poblacion": 9.8083
+  },
+  {
+    "comuna": "Cerro Navia",
+    "pob14_comuna": 103064,
+    "indice_participacion": 45.1292,
+    "encuentros_poblacion": 4.4632
+  },
+  {
+    "comuna": "Conchalí",
+    "pob14_comuna": 86984,
+    "indice_participacion": 56.8633,
+    "encuentros_poblacion": 10.9215
+  },
+  {
+    "comuna": "El Bosque",
+    "pob14_comuna": 132573,
+    "indice_participacion": 41.6299,
+    "encuentros_poblacion": 8.6745
+  },
+  {
+    "comuna": "Estación Central",
+    "pob14_comuna": 91416,
+    "indice_participacion": 54.3231,
+    "encuentros_poblacion": 10.1733
+  },
+  {
+    "comuna": "Huechuraba",
+    "pob14_comuna": 64436,
+    "indice_participacion": 42.7913,
+    "encuentros_poblacion": 9.4668
+  },
+  {
+    "comuna": "Independencia",
+    "pob14_comuna": 42814,
+    "indice_participacion": 68.5593,
+    "encuentros_poblacion": 19.6198
+  },
+  {
+    "comuna": "La Cisterna",
+    "pob14_comuna": 58255,
+    "indice_participacion": 59.2876,
+    "encuentros_poblacion": 9.6129
+  },
+  {
+    "comuna": "La Florida",
+    "pob14_comuna": 323562,
+    "indice_participacion": 37.4942,
+    "encuentros_poblacion": 8.7155
+  },
+  {
+    "comuna": "La Granja",
+    "pob14_comuna": 97086,
+    "indice_participacion": 40.1757,
+    "encuentros_poblacion": 4.8411
+  },
+  {
+    "comuna": "La Pintana",
+    "pob14_comuna": 152565,
+    "indice_participacion": 28.2778,
+    "encuentros_poblacion": 3.9327
+  },
+  {
+    "comuna": "La Reina",
+    "pob14_comuna": 77244,
+    "indice_participacion": 56.5843,
+    "encuentros_poblacion": 33.4007
+  },
+  {
+    "comuna": "Las Condes",
+    "pob14_comuna": 238274,
+    "indice_participacion": 53.0658,
+    "encuentros_poblacion": 19.3894
+  },
+  {
+    "comuna": "Lo Barnechea",
+    "pob14_comuna": 83064,
+    "indice_participacion": 41.5005,
+    "encuentros_poblacion": 10.5942
+  },
+  {
+    "comuna": "Lo Espejo",
+    "pob14_comuna": 77441,
+    "indice_participacion": 47.7925,
+    "encuentros_poblacion": 7.2313
+  },
+  {
+    "comuna": "Lo Prado",
+    "pob14_comuna": 73017,
+    "indice_participacion": 52.4933,
+    "encuentros_poblacion": 15.065
+  },
+  {
+    "comuna": "Macul",
+    "pob14_comuna": 80607,
+    "indice_participacion": 54.566,
+    "encuentros_poblacion": 17.9885
+  },
+  {
+    "comuna": "Maipú",
+    "pob14_comuna": 654544,
+    "indice_participacion": 20.488,
+    "encuentros_poblacion": 3.0861
+  },
+  {
+    "comuna": "Ñuñoa",
+    "pob14_comuna": 123519,
+    "indice_participacion": 71.7064,
+    "encuentros_poblacion": 38.0508
+  },
+  {
+    "comuna": "Pedro Aguirre Cerda",
+    "pob14_comuna": 75873,
+    "indice_participacion": 56.5603,
+    "encuentros_poblacion": 18.8473
+  },
+  {
+    "comuna": "Peñalolén",
+    "pob14_comuna": 192217,
+    "indice_participacion": 38.1891,
+    "encuentros_poblacion": 8.6361
+  },
+  {
+    "comuna": "Providencia",
+    "pob14_comuna": 108741,
+    "indice_participacion": 64.2545,
+    "encuentros_poblacion": 58.9474
+  },
+  {
+    "comuna": "Pudahuel",
+    "pob14_comuna": 206973,
+    "indice_participacion": 28.4467,
+    "encuentros_poblacion": 2.8023
+  },
+  {
+    "comuna": "Quilicura",
+    "pob14_comuna": 154585,
+    "indice_participacion": 27.6637,
+    "encuentros_poblacion": 4.2048
+  },
+  {
+    "comuna": "Quinta Normal",
+    "pob14_comuna": 70949,
+    "indice_participacion": 56.2305,
+    "encuentros_poblacion": 26.357
+  },
+  {
+    "comuna": "Recoleta",
+    "pob14_comuna": 100228,
+    "indice_participacion": 54.0867,
+    "encuentros_poblacion": 26.6393
+  },
+  {
+    "comuna": "Renca",
+    "pob14_comuna": 100676,
+    "indice_participacion": 41.6266,
+    "encuentros_poblacion": 4.0725
+  },
+  {
+    "comuna": "San Joaquín",
+    "pob14_comuna": 64226,
+    "indice_participacion": 54.4764,
+    "encuentros_poblacion": 10.1205
+  },
+  {
+    "comuna": "San Miguel",
+    "pob14_comuna": 58490,
+    "indice_participacion": 66.6234,
+    "encuentros_poblacion": 21.5421
+  },
+  {
+    "comuna": "San Ramón",
+    "pob14_comuna": 65385,
+    "indice_participacion": 53.4649,
+    "encuentros_poblacion": 6.7294
+  },
+  {
+    "comuna": "Vitacura",
+    "pob14_comuna": 65275,
+    "indice_participacion": 75.0303,
+    "encuentros_poblacion": 27.4224
+  },
+  {
+    "comuna": "Puente Alto",
+    "pob14_comuna": 561464,
+    "indice_participacion": 19.1647,
+    "encuentros_poblacion": 7.1777
+  },
+  {
+    "comuna": "Pirque",
+    "pob14_comuna": 17991,
+    "indice_participacion": 47.3848,
+    "encuentros_poblacion": 12.2283
+  },
+  {
+    "comuna": "San José De Maipo",
+    "pob14_comuna": 11632,
+    "indice_participacion": 56.4993,
+    "encuentros_poblacion": 20.6327
+  },
+  {
+    "comuna": "Colina",
+    "pob14_comuna": 84107,
+    "indice_participacion": 33.9508,
+    "encuentros_poblacion": 7.3716
+  },
+  {
+    "comuna": "Lampa",
+    "pob14_comuna": 46979,
+    "indice_participacion": 36.3567,
+    "encuentros_poblacion": 5.5344
+  },
+  {
+    "comuna": "Tiltil",
+    "pob14_comuna": 12156,
+    "indice_participacion": 46.693,
+    "encuentros_poblacion": 13.9849
+  },
+  {
+    "comuna": "San Bernardo",
+    "pob14_comuna": 232557,
+    "indice_participacion": 32.3955,
+    "encuentros_poblacion": 3.913
+  },
+  {
+    "comuna": "Buin",
+    "pob14_comuna": 56534,
+    "indice_participacion": 45.9829,
+    "encuentros_poblacion": 4.4221
+  },
+  {
+    "comuna": "Calera De Tango",
+    "pob14_comuna": 20746,
+    "indice_participacion": 46.5777,
+    "encuentros_poblacion": 3.3741
+  },
+  {
+    "comuna": "Paine",
+    "pob14_comuna": 48929,
+    "indice_participacion": 41.5337,
+    "encuentros_poblacion": 4.0876
+  },
+  {
+    "comuna": "Melipilla",
+    "pob14_comuna": 81778,
+    "indice_participacion": 46.2092,
+    "encuentros_poblacion": 5.625
+  },
+  {
+    "comuna": "Alhué",
+    "pob14_comuna": 3664,
+    "indice_participacion": 58.0513,
+    "encuentros_poblacion": 8.1878
+  },
+  {
+    "comuna": "Curacaví",
+    "pob14_comuna": 23008,
+    "indice_participacion": 47.0315,
+    "encuentros_poblacion": 4.7809
+  },
+  {
+    "comuna": "María Pinto",
+    "pob14_comuna": 9081,
+    "indice_participacion": 50.3138,
+    "encuentros_poblacion": 6.6072
+  },
+  {
+    "comuna": "San Pedro",
+    "pob14_comuna": 6155,
+    "indice_participacion": 58.2453,
+    "encuentros_poblacion": 6.4988
+  },
+  {
+    "comuna": "Talagante",
+    "pob14_comuna": 57975,
+    "indice_participacion": 41.323,
+    "encuentros_poblacion": 5.3471
+  },
+  {
+    "comuna": "El Monte",
+    "pob14_comuna": 23389,
+    "indice_participacion": 50.0321,
+    "encuentros_poblacion": 5.1306
+  },
+  {
+    "comuna": "Isla De Maipo",
+    "pob14_comuna": 24250,
+    "indice_participacion": 44.7175,
+    "encuentros_poblacion": 7.0103
+  },
+  {
+    "comuna": "Padre Hurtado",
+    "pob14_comuna": 37634,
+    "indice_participacion": 40.7424,
+    "encuentros_poblacion": 3.72
+  },
+  {
+    "comuna": "Peñaflor",
+    "pob14_comuna": 64961,
+    "indice_participacion": 41.2878,
+    "encuentros_poblacion": 6.7733
+  }
+]

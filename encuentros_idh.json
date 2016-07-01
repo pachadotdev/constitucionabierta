@@ -1,0 +1,230 @@
+[
+  {
+    "comuna": "Santiago",
+    "encuentros_poblacion": 66.8918,
+    "idh": 0.807,
+    "pob14_comuna": 139180
+  },
+  {
+    "comuna": "Providencia",
+    "encuentros_poblacion": 58.9474,
+    "idh": 0.911,
+    "pob14_comuna": 108741
+  },
+  {
+    "comuna": "Ñuñoa",
+    "encuentros_poblacion": 38.0508,
+    "idh": 0.86,
+    "pob14_comuna": 123519
+  },
+  {
+    "comuna": "Recoleta",
+    "encuentros_poblacion": 26.6393,
+    "idh": 0.697,
+    "pob14_comuna": 100228
+  },
+  {
+    "comuna": "Las Condes",
+    "encuentros_poblacion": 19.3894,
+    "idh": 0.933,
+    "pob14_comuna": 238274
+  },
+  {
+    "comuna": "Valparaíso",
+    "encuentros_poblacion": 14.9123,
+    "idh": 0.701,
+    "pob14_comuna": 219953
+  },
+  {
+    "comuna": "Calama",
+    "encuentros_poblacion": 14.2581,
+    "idh": 0.757,
+    "pob14_comuna": 110113
+  },
+  {
+    "comuna": "Concepción",
+    "encuentros_poblacion": 14.0289,
+    "idh": 0.757,
+    "pob14_comuna": 185332
+  },
+  {
+    "comuna": "Arica",
+    "encuentros_poblacion": 13.8143,
+    "idh": 0.736,
+    "pob14_comuna": 137539
+  },
+  {
+    "comuna": "Iquique",
+    "encuentros_poblacion": 13.3671,
+    "idh": 0.766,
+    "pob14_comuna": 145881
+  },
+  {
+    "comuna": "Valdivia",
+    "encuentros_poblacion": 13.0168,
+    "idh": 0.754,
+    "pob14_comuna": 128296
+  },
+  {
+    "comuna": "Copiapó",
+    "encuentros_poblacion": 11.4063,
+    "idh": 0.725,
+    "pob14_comuna": 123616
+  },
+  {
+    "comuna": "La Serena",
+    "encuentros_poblacion": 11.1478,
+    "idh": 0.781,
+    "pob14_comuna": 165952
+  },
+  {
+    "comuna": "Curicó",
+    "encuentros_poblacion": 10.9508,
+    "idh": 0.71,
+    "pob14_comuna": 110494
+  },
+  {
+    "comuna": "Temuco",
+    "encuentros_poblacion": 10.9251,
+    "idh": 0.763,
+    "pob14_comuna": 240731
+  },
+  {
+    "comuna": "Osorno",
+    "encuentros_poblacion": 10.8221,
+    "idh": 0.7,
+    "pob14_comuna": 128441
+  },
+  {
+    "comuna": "Chillán",
+    "encuentros_poblacion": 10.4784,
+    "idh": 0.714,
+    "pob14_comuna": 140289
+  },
+  {
+    "comuna": "Viña del Mar",
+    "encuentros_poblacion": 9.8458,
+    "idh": 0.766,
+    "pob14_comuna": 236650
+  },
+  {
+    "comuna": "Puerto Montt",
+    "encuentros_poblacion": 9.7898,
+    "idh": 0.718,
+    "pob14_comuna": 184886
+  },
+  {
+    "comuna": "Talca",
+    "encuentros_poblacion": 9.6197,
+    "idh": 0.731,
+    "pob14_comuna": 191274
+  },
+  {
+    "comuna": "La Florida",
+    "encuentros_poblacion": 8.7155,
+    "idh": 0.804,
+    "pob14_comuna": 323562
+  },
+  {
+    "comuna": "El Bosque",
+    "encuentros_poblacion": 8.6745,
+    "idh": 0.711,
+    "pob14_comuna": 132573
+  },
+  {
+    "comuna": "Peñalolén",
+    "encuentros_poblacion": 8.6361,
+    "idh": 0.743,
+    "pob14_comuna": 192217
+  },
+  {
+    "comuna": "Rancagua",
+    "encuentros_poblacion": 8.5892,
+    "idh": 0.732,
+    "pob14_comuna": 193265
+  },
+  {
+    "comuna": "Antofagasta",
+    "encuentros_poblacion": 8.4608,
+    "idh": 0.734,
+    "pob14_comuna": 284842
+  },
+  {
+    "comuna": "Puente Alto",
+    "encuentros_poblacion": 7.1777,
+    "idh": 0.773,
+    "pob14_comuna": 561464
+  },
+  {
+    "comuna": "Quilpué",
+    "encuentros_poblacion": 7.1697,
+    "idh": 0.752,
+    "pob14_comuna": 129712
+  },
+  {
+    "comuna": "Los Ángeles",
+    "encuentros_poblacion": 6.6386,
+    "idh": 0.696,
+    "pob14_comuna": 153648
+  },
+  {
+    "comuna": "Coquimbo",
+    "encuentros_poblacion": 6.5779,
+    "idh": 0.731,
+    "pob14_comuna": 165707
+  },
+  {
+    "comuna": "Villa Alemana",
+    "encuentros_poblacion": 5.8498,
+    "idh": 0.755,
+    "pob14_comuna": 104277
+  },
+  {
+    "comuna": "Cerro Navia",
+    "encuentros_poblacion": 4.4632,
+    "idh": 0.683,
+    "pob14_comuna": 103064
+  },
+  {
+    "comuna": "Quilicura",
+    "encuentros_poblacion": 4.2048,
+    "idh": 0.782,
+    "pob14_comuna": 154585
+  },
+  {
+    "comuna": "Renca",
+    "encuentros_poblacion": 4.0725,
+    "idh": 0.709,
+    "pob14_comuna": 100676
+  },
+  {
+    "comuna": "La Pintana",
+    "encuentros_poblacion": 3.9327,
+    "idh": 0.679,
+    "pob14_comuna": 152565
+  },
+  {
+    "comuna": "San Bernardo",
+    "encuentros_poblacion": 3.913,
+    "idh": 0.712,
+    "pob14_comuna": 232557
+  },
+  {
+    "comuna": "Talcahuano",
+    "encuentros_poblacion": 3.7873,
+    "idh": 0.731,
+    "pob14_comuna": 137302
+  },
+  {
+    "comuna": "Maipú",
+    "encuentros_poblacion": 3.0861,
+    "idh": 0.902,
+    "pob14_comuna": 654544
+  },
+  {
+    "comuna": "Pudahuel",
+    "encuentros_poblacion": 2.8023,
+    "idh": 0.735,
+    "pob14_comuna": 206973
+  }
+]
