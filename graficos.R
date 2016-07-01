@@ -51,14 +51,14 @@ elas_votos_10000hab = subset(elas_votos_10000hab, pob14_comuna > 10000)
 
 setwd("~/constitucionabierta/gh-pages")
 
+encuentros_participacion_metropolitana_json <- toJSON(encuentros_participacion_metropolitana, pretty=TRUE)
+write(encuentros_participacion_metropolitana_json, "encuentros_participacion_metropolitana.json")
+
 comunas_10000hab_json <- toJSON(comunas_10000hab, pretty=TRUE)
 write(comunas_10000hab_json, "comunas_10000hab.json")
 
 regiones_10000hab_json <- toJSON(regiones_10000hab, pretty=TRUE)
 write(regiones_10000hab_json, "regiones_10000hab.json")
-
-encuentros_participacion_metropolitana_json <- toJSON(encuentros_participacion_metropolitana, pretty=TRUE)
-write(encuentros_participacion_metropolitana_json, "encuentros_participacion_metropolitana.json")
 
 encuentros_idh_10000hab_json <- toJSON(encuentros_idh_10000hab, pretty=TRUE)
 write(encuentros_idh_10000hab_json, "encuentros_idh_10000hab.json")
