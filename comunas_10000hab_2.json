@@ -1,0 +1,142 @@
+[
+  {
+    "region": "Aisén",
+    "comuna": "Coihaique",
+    "pob14_comuna": 43784,
+    "encuentros_poblacion_10000hab": 26.2653,
+    "color": "#A97A82"
+  },
+  {
+    "region": "Los Ríos",
+    "comuna": "Paillaco",
+    "pob14_comuna": 15513,
+    "encuentros_poblacion_10000hab": 23.851,
+    "color": "#785E79"
+  },
+  {
+    "region": "Coquimbo",
+    "comuna": "Los Vilos",
+    "pob14_comuna": 14704,
+    "encuentros_poblacion_10000hab": 22.4429,
+    "color": "#EE2B2A"
+  },
+  {
+    "region": "Maule",
+    "comuna": "Romeral",
+    "pob14_comuna": 11390,
+    "encuentros_poblacion_10000hab": 19.3152,
+    "color": "#FEE67E"
+  },
+  {
+    "region": "Aisén",
+    "comuna": "Aisén ",
+    "pob14_comuna": 20384,
+    "encuentros_poblacion_10000hab": 18.6421,
+    "color": "#A97A82"
+  },
+  {
+    "region": "Magallanes",
+    "comuna": "Punta Arenas",
+    "pob14_comuna": 98697,
+    "encuentros_poblacion_10000hab": 18.339,
+    "color": "#76809D"
+  },
+  {
+    "region": "O'Higgins",
+    "comuna": "Pichilemu",
+    "pob14_comuna": 11855,
+    "encuentros_poblacion_10000hab": 17.714,
+    "color": "#FBCA70"
+  },
+  {
+    "region": "O'Higgins",
+    "comuna": "Machalí",
+    "pob14_comuna": 26400,
+    "encuentros_poblacion_10000hab": 17.4242,
+    "color": "#FBCA70"
+  },
+  {
+    "region": "Maule",
+    "comuna": "San Javier",
+    "pob14_comuna": 31879,
+    "encuentros_poblacion_10000hab": 17.2527,
+    "color": "#FEE67E"
+  },
+  {
+    "region": "Maule",
+    "comuna": "Cauquenes",
+    "pob14_comuna": 33809,
+    "encuentros_poblacion_10000hab": 17.1552,
+    "color": "#FEE67E"
+  },
+  {
+    "region": "Maule",
+    "comuna": "Maule ",
+    "pob14_comuna": 16376,
+    "encuentros_poblacion_10000hab": 17.0982,
+    "color": "#FEE67E"
+  },
+  {
+    "region": "Los Lagos",
+    "comuna": "Frutillar",
+    "pob14_comuna": 14059,
+    "encuentros_poblacion_10000hab": 17.0709,
+    "color": "#DD7368"
+  },
+  {
+    "region": "Atacama",
+    "comuna": "Tierra Amarilla",
+    "pob14_comuna": 10548,
+    "encuentros_poblacion_10000hab": 16.1168,
+    "color": "#A92C48"
+  },
+  {
+    "region": "Valparaíso",
+    "comuna": "Valparaíso",
+    "pob14_comuna": 219953,
+    "encuentros_poblacion_10000hab": 15.7761,
+    "color": "#F47B4D"
+  },
+  {
+    "region": "Tarapacá",
+    "comuna": "Iquique",
+    "pob14_comuna": 145881,
+    "encuentros_poblacion_10000hab": 15.6977,
+    "color": "#0054A4"
+  },
+  {
+    "region": "Valparaíso",
+    "comuna": "Los Andes",
+    "pob14_comuna": 58054,
+    "encuentros_poblacion_10000hab": 15.6751,
+    "color": "#F47B4D"
+  },
+  {
+    "region": "Biobío",
+    "comuna": "Concepción",
+    "pob14_comuna": 185332,
+    "encuentros_poblacion_10000hab": 15.3778,
+    "color": "#FDB56E"
+  },
+  {
+    "region": "Coquimbo",
+    "comuna": "Salamanca",
+    "pob14_comuna": 20413,
+    "encuentros_poblacion_10000hab": 15.1864,
+    "color": "#EE2B2A"
+  },
+  {
+    "region": "Antofagasta",
+    "comuna": "Calama",
+    "pob14_comuna": 110113,
+    "encuentros_poblacion_10000hab": 15.0754,
+    "color": "#544076"
+  },
+  {
+    "region": "Valparaíso",
+    "comuna": "Algarrobo",
+    "pob14_comuna": 10102,
+    "encuentros_poblacion_10000hab": 14.8485,
+    "color": "#F47B4D"
+  }
+]

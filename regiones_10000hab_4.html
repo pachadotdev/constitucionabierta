@@ -2,11 +2,11 @@
   <meta charset="utf-8">
     <script src="d3plus/d3.min.js"></script>
       <script src="d3plus/d3plus.min.js"></script>
-          <div id="comunas_10000hab"></div>
+          <div id="comunas_10000hab_4"></div>
           <script>
-          var data = "comunas_10000hab.json";
+          var data = "comunas_10000hab_2.json";
           var visualization = d3plus.viz()
-          .container("#comunas_10000hab")
+          .container("#comunas_10000hab_4")
           .data(data)
           .type("bar")
           .width(false)
@@ -34,8 +34,7 @@
             }
           })
           .font({"family": "Lato"})
-          .title("Encuentros locales en comunas con más de 10,000 habitantes mayores de 14 años")
-          .title({"sub": "Correspondiente a los 20 valores más grandes"})
+          .title("Encuentros locales en comunas con más de 10,000 habitantes mayores de 14 años en regiones")
           .icon({"style": "knockout", "value": "image"})
           .tooltip(["pob14_comuna","idh","encuentros_poblacion"])
           .legend(false)
