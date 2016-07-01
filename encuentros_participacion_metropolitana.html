@@ -11,7 +11,7 @@
           .width(false)
           .height(false)
           .resize(true)
-          .id(["comuna"])
+          .id(["region","comuna"])
           .size("pob14_comuna")
           .x("encuentros_poblacion")
           .y("indice_participacion")
@@ -44,6 +44,7 @@
           .font({"family": "Lato"})
           .title("Encuentros locales versus participación en elecciones en Santiago")
           .tooltip(["pob14_comuna","pcent_votos","encuentros_poblacion"])
+          .active({"value": function(d){ return d["pob14_comuna"] > 10000; }, "spotlight":true})
           .draw()
           </script>
 <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet" type="text/css">
