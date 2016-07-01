@@ -27,6 +27,9 @@ encuentros_idh_10000hab = subset(encuentros_idh_10000hab, pob14_comuna > 10000)
 encuentros_participacion_10000hab <- datos_finales[,c("region","comuna","pob14_comuna","encuentros_poblacion_10000hab","pcent_votos","color")]
 encuentros_participacion_10000hab = subset(encuentros_participacion_10000hab, pob14_comuna > 10000)
 
+elas_votos_10000hab <- datos_finales[,c("region","comuna","pob14_comuna","pcent_elas","pcent_votos","color")]
+elas_votos_10000hab = subset(elas_votos_10000hab, pob14_comuna > 10000)
+
 #################
 
 setwd("~/constitucionabierta/gh-pages")
@@ -42,3 +45,6 @@ write(encuentros_idh_10000hab_json, "encuentros_idh_10000hab.json")
 
 encuentros_participacion_10000hab_json <- toJSON(encuentros_participacion_10000hab, pretty=TRUE)
 write(encuentros_participacion_10000hab_json, "encuentros_participacion_10000hab.json")
+
+elas_votos_10000hab_json <- toJSON(elas_votos_10000hab, pretty=TRUE)
+write(elas_votos_10000hab_json, "elas_votos_10000hab.json")
