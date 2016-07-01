@@ -30,7 +30,6 @@ comunas_10000hab_2 = subset(comunas_10000hab_2, region != "Metropolitana")
 comunas_10000hab_2 = subset(comunas_10000hab_2, pob14_comuna > 10000)
 comunas_10000hab_2 = comunas_10000hab_2[order(comunas_10000hab_2$pob14_comuna,decreasing = TRUE),]
 comunas_10000hab_2 = comunas_10000hab_2[order(comunas_10000hab_2$encuentros_poblacion,decreasing = TRUE),]
-comunas_10000hab_2 = comunas_10000hab_2[1:20,]
 comunas_10000hab_2$comuna = ifelse(comunas_10000hab_2$comuna == "Maule","Maule ",as.character(comunas_10000hab_2$comuna))
 comunas_10000hab_2$comuna = ifelse(comunas_10000hab_2$comuna == "Coquimbo","Coquimbo ",as.character(comunas_10000hab_2$comuna))
 comunas_10000hab_2$comuna = ifelse(comunas_10000hab_2$comuna == "Antofagasta","Antofagasta ",as.character(comunas_10000hab_2$comuna))
