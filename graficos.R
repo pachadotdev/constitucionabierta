@@ -25,6 +25,19 @@ comunas_10000hab$comuna = ifelse(comunas_10000hab$comuna == "Aisén","Aisén ",a
 comunas_10000hab$comuna = as.factor(comunas_10000hab$comuna)
 comunas_10000hab$region = as.factor(comunas_10000hab$region)
 
+comunas_10000hab_2 <- datos_finales[,c("region","comuna","pob14_comuna","encuentros_poblacion_10000hab","color")]
+comunas_10000hab_2 = subset(comunas_10000hab_2, region != "Metropolitana")
+comunas_10000hab_2 = subset(comunas_10000hab_2, pob14_comuna > 10000)
+comunas_10000hab_2 = comunas_10000hab_2[order(comunas_10000hab_2$pob14_comuna,decreasing = TRUE),]
+comunas_10000hab_2 = comunas_10000hab_2[order(comunas_10000hab_2$encuentros_poblacion,decreasing = TRUE),]
+comunas_10000hab_2 = comunas_10000hab_2[1:20,]
+comunas_10000hab_2$comuna = ifelse(comunas_10000hab_2$comuna == "Maule","Maule ",as.character(comunas_10000hab_2$comuna))
+comunas_10000hab_2$comuna = ifelse(comunas_10000hab_2$comuna == "Coquimbo","Coquimbo ",as.character(comunas_10000hab_2$comuna))
+comunas_10000hab_2$comuna = ifelse(comunas_10000hab_2$comuna == "Antofagasta","Antofagasta ",as.character(comunas_10000hab_2$comuna))
+comunas_10000hab_2$comuna = ifelse(comunas_10000hab_2$comuna == "Aisén","Aisén ",as.character(comunas_10000hab_2$comuna))
+comunas_10000hab_2$comuna = as.factor(comunas_10000hab_2$comuna)
+comunas_10000hab_2$region = as.factor(comunas_10000hab_2$region)
+
 regiones_10000hab <- datos_finales[,c("region","comuna","pob14_comuna","encuentros_poblacion_10000hab","pcent_elas","pcent_votos","color")]
 #regiones_10000hab = subset(regiones_10000hab, pob14_comuna > 10000)
 regiones_10000hab = regiones_10000hab[order(regiones_10000hab$pob14_comuna,decreasing = TRUE),]
@@ -57,6 +70,9 @@ write(encuentros_participacion_metropolitana_json, "encuentros_participacion_met
 comunas_10000hab_json <- toJSON(comunas_10000hab, pretty=TRUE)
 write(comunas_10000hab_json, "comunas_10000hab.json")
 
+comunas_10000hab_2_json <- toJSON(comunas_10000hab_2, pretty=TRUE)
+write(comunas_10000hab_2_json, "comunas_10000hab_2.json")
+
 regiones_10000hab_json <- toJSON(regiones_10000hab, pretty=TRUE)
 write(regiones_10000hab_json, "regiones_10000hab.json")
 
@@ -68,3 +84,5 @@ write(encuentros_participacion_10000hab_json, "encuentros_participacion_10000hab
 
 elas_votos_10000hab_json <- toJSON(elas_votos_10000hab, pretty=TRUE)
 write(elas_votos_10000hab_json, "elas_votos_10000hab.json")
+
+
