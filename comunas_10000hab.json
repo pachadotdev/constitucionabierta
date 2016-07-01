@@ -1,0 +1,142 @@
+[
+  {
+    "region": "Metropolitana",
+    "comuna": "Santiago",
+    "pob14_comuna": 139180,
+    "encuentros_poblacion_10000hab": 69.3347,
+    "color": "#717290"
+  },
+  {
+    "region": "Metropolitana",
+    "comuna": "Providencia",
+    "pob14_comuna": 108741,
+    "encuentros_poblacion_10000hab": 60.3268,
+    "color": "#717290"
+  },
+  {
+    "region": "Metropolitana",
+    "comuna": "Ñuñoa",
+    "pob14_comuna": 123519,
+    "encuentros_poblacion_10000hab": 40.3986,
+    "color": "#717290"
+  },
+  {
+    "region": "Metropolitana",
+    "comuna": "La Reina",
+    "pob14_comuna": 77244,
+    "encuentros_poblacion_10000hab": 35.472,
+    "color": "#717290"
+  },
+  {
+    "region": "Metropolitana",
+    "comuna": "Recoleta",
+    "pob14_comuna": 100228,
+    "encuentros_poblacion_10000hab": 27.8365,
+    "color": "#717290"
+  },
+  {
+    "region": "Metropolitana",
+    "comuna": "Vitacura",
+    "pob14_comuna": 65275,
+    "encuentros_poblacion_10000hab": 27.4224,
+    "color": "#717290"
+  },
+  {
+    "region": "Aisén",
+    "comuna": "Coihaique",
+    "pob14_comuna": 43784,
+    "encuentros_poblacion_10000hab": 26.2653,
+    "color": "#A97A82"
+  },
+  {
+    "region": "Metropolitana",
+    "comuna": "Quinta Normal",
+    "pob14_comuna": 70949,
+    "encuentros_poblacion_10000hab": 26.0751,
+    "color": "#717290"
+  },
+  {
+    "region": "Los Ríos",
+    "comuna": "Paillaco",
+    "pob14_comuna": 15513,
+    "encuentros_poblacion_10000hab": 23.851,
+    "color": "#785E79"
+  },
+  {
+    "region": "Coquimbo",
+    "comuna": "Los Vilos",
+    "pob14_comuna": 14704,
+    "encuentros_poblacion_10000hab": 22.4429,
+    "color": "#EE2B2A"
+  },
+  {
+    "region": "Metropolitana",
+    "comuna": "Independencia",
+    "pob14_comuna": 42814,
+    "encuentros_poblacion_10000hab": 22.4226,
+    "color": "#717290"
+  },
+  {
+    "region": "Metropolitana",
+    "comuna": "San José de Maipo",
+    "pob14_comuna": 11632,
+    "encuentros_poblacion_10000hab": 22.3521,
+    "color": "#717290"
+  },
+  {
+    "region": "Metropolitana",
+    "comuna": "San Miguel",
+    "pob14_comuna": 58490,
+    "encuentros_poblacion_10000hab": 21.7131,
+    "color": "#717290"
+  },
+  {
+    "region": "Metropolitana",
+    "comuna": "Las Condes",
+    "pob14_comuna": 238274,
+    "encuentros_poblacion_10000hab": 19.8511,
+    "color": "#717290"
+  },
+  {
+    "region": "Metropolitana",
+    "comuna": "Pedro Aguirre Cerda",
+    "pob14_comuna": 75873,
+    "encuentros_poblacion_10000hab": 19.7699,
+    "color": "#717290"
+  },
+  {
+    "region": "Maule",
+    "comuna": "Romeral",
+    "pob14_comuna": 11390,
+    "encuentros_poblacion_10000hab": 19.3152,
+    "color": "#FEE67E"
+  },
+  {
+    "region": "Aisén",
+    "comuna": "Aisén",
+    "pob14_comuna": 20384,
+    "encuentros_poblacion_10000hab": 18.6421,
+    "color": "#A97A82"
+  },
+  {
+    "region": "Metropolitana",
+    "comuna": "Macul",
+    "pob14_comuna": 80607,
+    "encuentros_poblacion_10000hab": 18.4847,
+    "color": "#717290"
+  },
+  {
+    "region": "Magallanes",
+    "comuna": "Punta Arenas",
+    "pob14_comuna": 98697,
+    "encuentros_poblacion_10000hab": 18.339,
+    "color": "#76809D"
+  },
+  {
+    "region": "O'Higgins",
+    "comuna": "Pichilemu",
+    "pob14_comuna": 11855,
+    "encuentros_poblacion_10000hab": 17.714,
+    "color": "#FBCA70"
+  }
+]
