@@ -2,6 +2,7 @@ setwd("~/constitucionabierta")
 library(XLConnect)
 library(d3plus)
 library(plyr)
+library(rCharts)
 #d3plus()
 
 colores <- c("#333333",colorRampPalette(c("#0054a4","#ed1c24","#fffa85","#fc7058","#6c82a3","#804a62"))(15))
