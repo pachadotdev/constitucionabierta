@@ -14,8 +14,10 @@ datos_finales_metropolitana = readWorksheetFromFile("participacion_rm.xlsx", she
 encuentros_participacion_metropolitana = subset(datos_finales_metropolitana, pob14_comuna > 10000)
 encuentros_participacion_metropolitana$color = "#717290"
 
-datos_10000hab <- datos_finales[,c("region","comuna","pob14_comuna","encuentros_poblacion_10000hab","pcent_elas","pcent_votos","idh","color")]
+datos_10000hab <- datos_finales[,c("region","comuna","pob14_comuna","encuentros_poblacion","encuentros_poblacion_10000hab","pcent_elas","pcent_votos","idh","color")]
 datos_10000hab = subset(datos_10000hab, pob14_comuna > 10000)
+datos_10000hab = datos_10000hab[order(datos_10000hab$pob14_comuna,decreasing = TRUE),]
+datos_10000hab = datos_10000hab[order(datos_10000hab$encuentros_poblacion,decreasing = TRUE),]
 datos_10000hab$comuna = ifelse(datos_10000hab$comuna == "Maule","Maule ",as.character(datos_10000hab$comuna))
 datos_10000hab$comuna = ifelse(datos_10000hab$comuna == "Coquimbo","Coquimbo ",as.character(datos_10000hab$comuna))
 datos_10000hab$comuna = ifelse(datos_10000hab$comuna == "Antofagasta","Antofagasta ",as.character(datos_10000hab$comuna))
@@ -24,7 +26,7 @@ datos_10000hab$comuna = ifelse(datos_10000hab$comuna == "Valparaíso","Valparaí
 datos_10000hab$comuna = as.factor(datos_10000hab$comuna)
 datos_10000hab$region = as.factor(datos_10000hab$region)
 
-datos_totales <- datos_finales[,c("region","comuna","pob14_comuna","encuentros_poblacion_10000hab","pcent_elas","pcent_votos","idh","color")]
+datos_totales <- datos_finales[,c("region","comuna","pob14_comuna","encuentros_poblacion","encuentros_poblacion_10000hab","pcent_elas","pcent_votos","idh","color")]
 datos_totales$comuna = ifelse(datos_totales$comuna == "Maule","Maule ",as.character(datos_totales$comuna))
 datos_totales$comuna = ifelse(datos_totales$comuna == "Coquimbo","Coquimbo ",as.character(datos_totales$comuna))
 datos_totales$comuna = ifelse(datos_totales$comuna == "Antofagasta","Antofagasta ",as.character(datos_totales$comuna))
@@ -32,6 +34,15 @@ datos_totales$comuna = ifelse(datos_totales$comuna == "Aisén","Aisén ",as.char
 datos_totales$comuna = ifelse(datos_totales$comuna == "Valparaíso","Valparaíso ",as.character(datos_totales$comuna))
 datos_totales$comuna = as.factor(datos_totales$comuna)
 datos_totales$region = as.factor(datos_totales$region)
+
+resumen_por_region <- datos_finales[,c("region","pob14_comuna","encuentros_poblacion","pcent_elas","pcent_votos","color")]
+resumen_por_region = aggregate(. ~ region, resumen_por_region, sum)
+names(resumen_por_region)[names(resumen_por_region) == "pob14_comuna"] <- "pob_region"
+resumen_por_region$encuentros_10000hab = 10000*resumen_por_region$encuentros_poblacion/resumen_por_region$pob_region
+
+write.xlsx(resumen_por_region,"resumen_por_region.xlsx")
+
+write.xlsx(datos_10000hab[1:20,],"20_comunas_mas_grandes.xlsx")
 
 #################
 
