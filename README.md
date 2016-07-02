@@ -2,8 +2,6 @@
 
 Visita [http://constitucionabierta.cl/](http://constitucionabierta.cl/)
 
-![alt text](http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png "Bajo Licencia Creative Commons")
-
 ## Creative Commons
 
 ![alt text](http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png "Under Creative Commons license")
