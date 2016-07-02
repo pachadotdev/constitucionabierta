@@ -3,14 +3,17 @@
     "region": "Tarapacá",
     "comuna": "Iquique",
     "pob14_comuna": 145881,
+    "encuentros_poblacion_10000hab": 15.6977,
     "pcent_elas": 1.52,
     "pcent_votos": 0.82,
+    "idh": 0.766,
     "color": "#0054A4"
   },
   {
     "region": "Tarapacá",
     "comuna": "Alto Hospicio",
     "pob14_comuna": 62947,
+    "encuentros_poblacion_10000hab": 4.7659,
     "pcent_elas": 0.2,
     "pcent_votos": 0.2,
     "color": "#0054A4"
@@ -19,390 +22,487 @@
     "region": "Tarapacá",
     "comuna": "Pica",
     "pob14_comuna": 17334,
+    "encuentros_poblacion_10000hab": 8.0766,
     "pcent_elas": 0.09,
     "pcent_votos": 0.03,
+    "idh": 0.793,
     "color": "#0054A4"
   },
   {
     "region": "Tarapacá",
     "comuna": "Pozo Almonte",
     "pob14_comuna": 13529,
+    "encuentros_poblacion_10000hab": 11.8264,
     "pcent_elas": 0.11,
     "pcent_votos": 0.05,
+    "idh": 0.722,
     "color": "#0054A4"
   },
   {
     "region": "Antofagasta",
-    "comuna": "Antofagasta",
+    "comuna": "Antofagasta ",
     "pob14_comuna": 284842,
+    "encuentros_poblacion_10000hab": 9.3736,
     "pcent_elas": 1.78,
     "pcent_votos": 1.32,
+    "idh": 0.734,
     "color": "#544076"
   },
   {
     "region": "Antofagasta",
     "comuna": "Calama",
     "pob14_comuna": 110113,
+    "encuentros_poblacion_10000hab": 15.0754,
     "pcent_elas": 1.11,
     "pcent_votos": 0.68,
+    "idh": 0.757,
     "color": "#544076"
   },
   {
     "region": "Antofagasta",
     "comuna": "Tocopilla",
     "pob14_comuna": 16233,
+    "encuentros_poblacion_10000hab": 8.0084,
     "pcent_elas": 0.09,
     "pcent_votos": 0.13,
+    "idh": 0.69,
     "color": "#544076"
   },
   {
     "region": "Atacama",
     "comuna": "Copiapó",
     "pob14_comuna": 123616,
+    "encuentros_poblacion_10000hab": 12.2961,
     "pcent_elas": 1.01,
     "pcent_votos": 0.67,
+    "idh": 0.725,
     "color": "#A92C48"
   },
   {
     "region": "Atacama",
     "comuna": "Vallenar",
     "pob14_comuna": 35719,
+    "encuentros_poblacion_10000hab": 11.7584,
     "pcent_elas": 0.28,
     "pcent_votos": 0.29,
+    "idh": 0.731,
     "color": "#A92C48"
   },
   {
     "region": "Atacama",
     "comuna": "Caldera",
     "pob14_comuna": 11573,
+    "encuentros_poblacion_10000hab": 10.369,
     "pcent_elas": 0.08,
     "pcent_votos": 0.09,
+    "idh": 0.741,
     "color": "#A92C48"
   },
   {
     "region": "Atacama",
     "comuna": "Tierra Amarilla",
     "pob14_comuna": 10548,
+    "encuentros_poblacion_10000hab": 16.1168,
     "pcent_elas": 0.11,
     "pcent_votos": 0.08,
+    "idh": 0.686,
     "color": "#A92C48"
   },
   {
     "region": "Coquimbo",
     "comuna": "La Serena",
     "pob14_comuna": 165952,
+    "encuentros_poblacion_10000hab": 12.353,
     "pcent_elas": 1.36,
     "pcent_votos": 1.07,
+    "idh": 0.781,
     "color": "#EE2B2A"
   },
   {
     "region": "Coquimbo",
-    "comuna": "Coquimbo",
+    "comuna": "Coquimbo ",
     "pob14_comuna": 165707,
+    "encuentros_poblacion_10000hab": 7.7848,
     "pcent_elas": 0.86,
     "pcent_votos": 0.96,
+    "idh": 0.731,
     "color": "#EE2B2A"
   },
   {
     "region": "Coquimbo",
     "comuna": "Ovalle",
     "pob14_comuna": 86022,
+    "encuentros_poblacion_10000hab": 6.7425,
     "pcent_elas": 0.39,
     "pcent_votos": 0.61,
+    "idh": 0.725,
     "color": "#EE2B2A"
   },
   {
     "region": "Coquimbo",
     "comuna": "Illapel",
     "pob14_comuna": 24322,
+    "encuentros_poblacion_10000hab": 13.9791,
     "pcent_elas": 0.23,
     "pcent_votos": 0.2,
+    "idh": 0.667,
     "color": "#EE2B2A"
   },
   {
     "region": "Coquimbo",
     "comuna": "Monte Patria",
     "pob14_comuna": 24268,
+    "encuentros_poblacion_10000hab": 10.7137,
     "pcent_elas": 0.17,
     "pcent_votos": 0.2,
+    "idh": 0.653,
     "color": "#EE2B2A"
   },
   {
     "region": "Coquimbo",
     "comuna": "Salamanca",
     "pob14_comuna": 20413,
+    "encuentros_poblacion_10000hab": 15.1864,
     "pcent_elas": 0.21,
     "pcent_votos": 0.16,
+    "idh": 0.676,
     "color": "#EE2B2A"
   },
   {
     "region": "Coquimbo",
     "comuna": "Vicuña",
     "pob14_comuna": 19999,
+    "encuentros_poblacion_10000hab": 6.5003,
     "pcent_elas": 0.09,
     "pcent_votos": 0.17,
+    "idh": 0.716,
     "color": "#EE2B2A"
   },
   {
     "region": "Coquimbo",
     "comuna": "Los Vilos",
     "pob14_comuna": 14704,
+    "encuentros_poblacion_10000hab": 22.4429,
     "pcent_elas": 0.22,
     "pcent_votos": 0.13,
+    "idh": 0.675,
     "color": "#EE2B2A"
   },
   {
     "region": "Valparaíso",
     "comuna": "Viña del Mar",
     "pob14_comuna": 236650,
+    "encuentros_poblacion_10000hab": 10.2261,
     "pcent_elas": 1.61,
     "pcent_votos": 2.03,
+    "idh": 0.766,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
-    "comuna": "Valparaíso",
+    "comuna": "Valparaíso ",
     "pob14_comuna": 219953,
+    "encuentros_poblacion_10000hab": 15.7761,
     "pcent_elas": 2.31,
     "pcent_votos": 1.76,
+    "idh": 0.701,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "Quilpué",
     "pob14_comuna": 129712,
+    "encuentros_poblacion_10000hab": 8.249,
     "pcent_elas": 0.71,
     "pcent_votos": 0.86,
+    "idh": 0.752,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "Villa Alemana",
     "pob14_comuna": 104277,
+    "encuentros_poblacion_10000hab": 6.2334,
     "pcent_elas": 0.43,
     "pcent_votos": 0.61,
+    "idh": 0.755,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "San Antonio",
     "pob14_comuna": 77673,
+    "encuentros_poblacion_10000hab": 8.6259,
     "pcent_elas": 0.45,
     "pcent_votos": 0.57,
+    "idh": 0.697,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "Quillota",
     "pob14_comuna": 69550,
+    "encuentros_poblacion_10000hab": 10.3523,
     "pcent_elas": 0.48,
     "pcent_votos": 0.5,
+    "idh": 0.726,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "San Felipe",
     "pob14_comuna": 59329,
+    "encuentros_poblacion_10000hab": 11.9672,
     "pcent_elas": 0.47,
     "pcent_votos": 0.41,
+    "idh": 0.73,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "Los Andes",
     "pob14_comuna": 58054,
+    "encuentros_poblacion_10000hab": 15.6751,
     "pcent_elas": 0.61,
     "pcent_votos": 0.39,
+    "idh": 0.756,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "Concón",
     "pob14_comuna": 46445,
+    "encuentros_poblacion_10000hab": 10.3348,
     "pcent_elas": 0.32,
     "pcent_votos": 0.28,
+    "idh": 0.781,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "La Calera",
     "pob14_comuna": 42119,
+    "encuentros_poblacion_10000hab": 6.6478,
     "pcent_elas": 0.19,
     "pcent_votos": 0.33,
+    "idh": 0.7,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "Limache",
     "pob14_comuna": 35479,
+    "encuentros_poblacion_10000hab": 8.4557,
     "pcent_elas": 0.2,
     "pcent_votos": 0.26,
+    "idh": 0.722,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "La Ligua",
     "pob14_comuna": 29727,
+    "encuentros_poblacion_10000hab": 10.0918,
     "pcent_elas": 0.2,
     "pcent_votos": 0.23,
+    "idh": 0.708,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "Casablanca",
     "pob14_comuna": 22655,
+    "encuentros_poblacion_10000hab": 6.1797,
     "pcent_elas": 0.09,
     "pcent_votos": 0.16,
+    "idh": 0.712,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "Quintero",
     "pob14_comuna": 19971,
+    "encuentros_poblacion_10000hab": 6.5094,
     "pcent_elas": 0.09,
     "pcent_votos": 0.16,
+    "idh": 0.733,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "Nogales",
     "pob14_comuna": 19585,
+    "encuentros_poblacion_10000hab": 5.1059,
     "pcent_elas": 0.07,
     "pcent_votos": 0.15,
+    "idh": 0.689,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "Cartagena",
     "pob14_comuna": 19474,
+    "encuentros_poblacion_10000hab": 9.7566,
     "pcent_elas": 0.13,
     "pcent_votos": 0.14,
+    "idh": 0.708,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "Llaillay",
     "pob14_comuna": 18285,
+    "encuentros_poblacion_10000hab": 5.469,
     "pcent_elas": 0.07,
     "pcent_votos": 0.16,
+    "idh": 0.676,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "Cabildo",
     "pob14_comuna": 15902,
+    "encuentros_poblacion_10000hab": 9.4328,
     "pcent_elas": 0.1,
     "pcent_votos": 0.14,
+    "idh": 0.671,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "Hijuelas",
     "pob14_comuna": 14305,
+    "encuentros_poblacion_10000hab": 3.4953,
     "pcent_elas": 0.03,
     "pcent_votos": 0.11,
+    "idh": 0.672,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "San Esteban",
     "pob14_comuna": 13757,
+    "encuentros_poblacion_10000hab": 7.269,
     "pcent_elas": 0.07,
     "pcent_votos": 0.12,
+    "idh": 0.732,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "Putaendo",
     "pob14_comuna": 13312,
+    "encuentros_poblacion_10000hab": 6.0096,
     "pcent_elas": 0.05,
     "pcent_votos": 0.11,
+    "idh": 0.674,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "Puchuncaví",
     "pob14_comuna": 12925,
+    "encuentros_poblacion_10000hab": 7.7369,
     "pcent_elas": 0.07,
     "pcent_votos": 0.1,
+    "idh": 0.734,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "Olmué",
     "pob14_comuna": 12590,
+    "encuentros_poblacion_10000hab": 13.5028,
     "pcent_elas": 0.11,
     "pcent_votos": 0.11,
+    "idh": 0.701,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "La Cruz",
     "pob14_comuna": 12380,
+    "encuentros_poblacion_10000hab": 8.0775,
     "pcent_elas": 0.07,
     "pcent_votos": 0.11,
+    "idh": 0.763,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "El Quisco",
     "pob14_comuna": 12281,
+    "encuentros_poblacion_10000hab": 7.3284,
     "pcent_elas": 0.06,
     "pcent_votos": 0.09,
+    "idh": 0.745,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "Santa María",
     "pob14_comuna": 11142,
+    "encuentros_poblacion_10000hab": 7.18,
     "pcent_elas": 0.05,
     "pcent_votos": 0.1,
+    "idh": 0.699,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "Catemu",
     "pob14_comuna": 10265,
+    "encuentros_poblacion_10000hab": 8.7677,
     "pcent_elas": 0.06,
     "pcent_votos": 0.09,
+    "idh": 0.669,
     "color": "#F47B4D"
   },
   {
     "region": "Valparaíso",
     "comuna": "Algarrobo",
     "pob14_comuna": 10102,
+    "encuentros_poblacion_10000hab": 14.8485,
     "pcent_elas": 0.1,
     "pcent_votos": 0.09,
+    "idh": 0.722,
     "color": "#F47B4D"
   },
   {
     "region": "O'Higgins",
     "comuna": "Rancagua",
     "pob14_comuna": 193265,
+    "encuentros_poblacion_10000hab": 8.9514,
     "pcent_elas": 1.15,
     "pcent_votos": 1.33,
+    "idh": 0.732,
     "color": "#FBCA70"
   },
   {
     "region": "O'Higgins",
     "comuna": "San Fernando",
     "pob14_comuna": 56885,
+    "encuentros_poblacion_10000hab": 11.4266,
     "pcent_elas": 0.43,
     "pcent_votos": 0.45,
+    "idh": 0.725,
     "color": "#FBCA70"
   },
   {
     "region": "O'Higgins",
     "comuna": "Rengo",
     "pob14_comuna": 46657,
+    "encuentros_poblacion_10000hab": 5.1439,
     "pcent_elas": 0.16,
     "pcent_votos": 0.37,
+    "idh": 0.68,
     "color": "#FBCA70"
   },
   {
     "region": "O'Higgins",
     "comuna": "San Vicente de Tagua Tagua",
     "pob14_comuna": 36615,
+    "encuentros_poblacion_10000hab": 6.0085,
     "pcent_elas": 0.15,
     "pcent_votos": 0.3,
     "color": "#FBCA70"
@@ -411,342 +511,427 @@
     "region": "O'Higgins",
     "comuna": "Santa Cruz",
     "pob14_comuna": 28677,
+    "encuentros_poblacion_10000hab": 9.7639,
     "pcent_elas": 0.19,
     "pcent_votos": 0.23,
+    "idh": 0.719,
     "color": "#FBCA70"
   },
   {
     "region": "O'Higgins",
     "comuna": "Chimbarongo",
     "pob14_comuna": 26929,
+    "encuentros_poblacion_10000hab": 6.6842,
     "pcent_elas": 0.12,
     "pcent_votos": 0.22,
+    "idh": 0.674,
     "color": "#FBCA70"
   },
   {
     "region": "O'Higgins",
     "comuna": "Machalí",
     "pob14_comuna": 26400,
+    "encuentros_poblacion_10000hab": 17.4242,
     "pcent_elas": 0.31,
     "pcent_votos": 0.23,
+    "idh": 0.73,
     "color": "#FBCA70"
   },
   {
     "region": "O'Higgins",
     "comuna": "Graneros",
     "pob14_comuna": 23694,
+    "encuentros_poblacion_10000hab": 10.1291,
     "pcent_elas": 0.16,
     "pcent_votos": 0.21,
+    "idh": 0.691,
     "color": "#FBCA70"
   },
   {
     "region": "O'Higgins",
     "comuna": "Mostazal",
     "pob14_comuna": 20458,
+    "encuentros_poblacion_10000hab": 6.8433,
     "pcent_elas": 0.09,
     "pcent_votos": 0.16,
+    "idh": 0.691,
     "color": "#FBCA70"
   },
   {
     "region": "O'Higgins",
     "comuna": "Requínoa",
     "pob14_comuna": 19884,
+    "encuentros_poblacion_10000hab": 9.5554,
     "pcent_elas": 0.13,
     "pcent_votos": 0.18,
+    "idh": 0.668,
     "color": "#FBCA70"
   },
   {
     "region": "O'Higgins",
     "comuna": "Las Cabras",
     "pob14_comuna": 18536,
+    "encuentros_poblacion_10000hab": 8.6319,
     "pcent_elas": 0.11,
     "pcent_votos": 0.15,
+    "idh": 0.661,
     "color": "#FBCA70"
   },
   {
     "region": "O'Higgins",
     "comuna": "Doñihue",
     "pob14_comuna": 15590,
+    "encuentros_poblacion_10000hab": 12.1873,
     "pcent_elas": 0.13,
     "pcent_votos": 0.14,
+    "idh": 0.685,
     "color": "#FBCA70"
   },
   {
     "region": "O'Higgins",
     "comuna": "Pichidegua",
     "pob14_comuna": 15267,
+    "encuentros_poblacion_10000hab": 3.275,
     "pcent_elas": 0.03,
     "pcent_votos": 0.13,
+    "idh": 0.652,
     "color": "#FBCA70"
   },
   {
     "region": "O'Higgins",
     "comuna": "Coltauco",
     "pob14_comuna": 13759,
+    "encuentros_poblacion_10000hab": 5.0876,
     "pcent_elas": 0.05,
     "pcent_votos": 0.11,
+    "idh": 0.644,
     "color": "#FBCA70"
   },
   {
     "region": "O'Higgins",
     "comuna": "Nancagua",
     "pob14_comuna": 13438,
+    "encuentros_poblacion_10000hab": 11.9065,
     "pcent_elas": 0.11,
     "pcent_votos": 0.12,
+    "idh": 0.665,
     "color": "#FBCA70"
   },
   {
     "region": "O'Higgins",
     "comuna": "Peumo",
     "pob14_comuna": 12011,
+    "encuentros_poblacion_10000hab": 7.4931,
     "pcent_elas": 0.06,
     "pcent_votos": 0.11,
+    "idh": 0.674,
     "color": "#FBCA70"
   },
   {
     "region": "O'Higgins",
     "comuna": "Pichilemu",
     "pob14_comuna": 11855,
+    "encuentros_poblacion_10000hab": 17.714,
     "pcent_elas": 0.14,
     "pcent_votos": 0.1,
+    "idh": 0.677,
     "color": "#FBCA70"
   },
   {
     "region": "O'Higgins",
     "comuna": "Chépica",
     "pob14_comuna": 11081,
+    "encuentros_poblacion_10000hab": 6.3171,
     "pcent_elas": 0.05,
     "pcent_votos": 0.1,
+    "idh": 0.637,
     "color": "#FBCA70"
   },
   {
     "region": "O'Higgins",
     "comuna": "Malloa",
     "pob14_comuna": 10714,
+    "encuentros_poblacion_10000hab": 3.7334,
     "pcent_elas": 0.03,
     "pcent_votos": 0.1,
+    "idh": 0.649,
     "color": "#FBCA70"
   },
   {
     "region": "O'Higgins",
     "comuna": "Olivar",
     "pob14_comuna": 10394,
+    "encuentros_poblacion_10000hab": 6.7347,
     "pcent_elas": 0.05,
     "pcent_votos": 0.1,
+    "idh": 0.661,
     "color": "#FBCA70"
   },
   {
     "region": "Maule",
     "comuna": "Talca",
     "pob14_comuna": 191274,
+    "encuentros_poblacion_10000hab": 10.2994,
     "pcent_elas": 1.31,
     "pcent_votos": 1.32,
+    "idh": 0.731,
     "color": "#FEE67E"
   },
   {
     "region": "Maule",
     "comuna": "Curicó",
     "pob14_comuna": 110494,
+    "encuentros_poblacion_10000hab": 11.6748,
     "pcent_elas": 0.86,
     "pcent_votos": 0.85,
+    "idh": 0.71,
     "color": "#FEE67E"
   },
   {
     "region": "Maule",
     "comuna": "Linares",
     "pob14_comuna": 71167,
+    "encuentros_poblacion_10000hab": 11.2412,
     "pcent_elas": 0.53,
     "pcent_votos": 0.61,
+    "idh": 0.71,
     "color": "#FEE67E"
   },
   {
     "region": "Maule",
     "comuna": "Constitución",
     "pob14_comuna": 40788,
+    "encuentros_poblacion_10000hab": 3.9227,
     "pcent_elas": 0.11,
     "pcent_votos": 0.3,
+    "idh": 0.715,
     "color": "#FEE67E"
   },
   {
     "region": "Maule",
     "comuna": "Cauquenes",
     "pob14_comuna": 33809,
+    "encuentros_poblacion_10000hab": 17.1552,
     "pcent_elas": 0.39,
     "pcent_votos": 0.31,
+    "idh": 0.656,
     "color": "#FEE67E"
   },
   {
     "region": "Maule",
     "comuna": "Molina",
     "pob14_comuna": 33638,
+    "encuentros_poblacion_10000hab": 5.9457,
     "pcent_elas": 0.13,
     "pcent_votos": 0.32,
+    "idh": 0.663,
     "color": "#FEE67E"
   },
   {
     "region": "Maule",
     "comuna": "San Javier",
     "pob14_comuna": 31879,
+    "encuentros_poblacion_10000hab": 17.2527,
     "pcent_elas": 0.37,
     "pcent_votos": 0.3,
+    "idh": 0.654,
     "color": "#FEE67E"
   },
   {
     "region": "Maule",
     "comuna": "San Clemente",
     "pob14_comuna": 29880,
+    "encuentros_poblacion_10000hab": 7.0281,
     "pcent_elas": 0.14,
     "pcent_votos": 0.28,
+    "idh": 0.659,
     "color": "#FEE67E"
   },
   {
     "region": "Maule",
     "comuna": "Parral",
     "pob14_comuna": 29738,
+    "encuentros_poblacion_10000hab": 6.7254,
     "pcent_elas": 0.13,
     "pcent_votos": 0.31,
+    "idh": 0.656,
     "color": "#FEE67E"
   },
   {
     "region": "Maule",
     "comuna": "Longaví",
     "pob14_comuna": 22673,
+    "encuentros_poblacion_10000hab": 5.2926,
     "pcent_elas": 0.08,
     "pcent_votos": 0.21,
+    "idh": 0.626,
     "color": "#FEE67E"
   },
   {
     "region": "Maule",
     "comuna": "Teno",
     "pob14_comuna": 21609,
+    "encuentros_poblacion_10000hab": 6.4788,
     "pcent_elas": 0.09,
     "pcent_votos": 0.17,
+    "idh": 0.648,
     "color": "#FEE67E"
   },
   {
     "region": "Maule",
-    "comuna": "Maule",
+    "comuna": "Maule ",
     "pob14_comuna": 16376,
+    "encuentros_poblacion_10000hab": 17.0982,
     "pcent_elas": 0.19,
     "pcent_votos": 0.15,
+    "idh": 0.681,
     "color": "#FEE67E"
   },
   {
     "region": "Maule",
     "comuna": "Sagrada Familia",
     "pob14_comuna": 14692,
+    "encuentros_poblacion_10000hab": 2.7226,
     "pcent_elas": 0.03,
     "pcent_votos": 0.14,
+    "idh": 0.672,
     "color": "#FEE67E"
   },
   {
     "region": "Maule",
     "comuna": "Colbún",
     "pob14_comuna": 14362,
+    "encuentros_poblacion_10000hab": 7.6591,
     "pcent_elas": 0.07,
     "pcent_votos": 0.14,
+    "idh": 0.638,
     "color": "#FEE67E"
   },
   {
     "region": "Maule",
     "comuna": "Retiro",
     "pob14_comuna": 13682,
+    "encuentros_poblacion_10000hab": 2.9235,
     "pcent_elas": 0.03,
     "pcent_votos": 0.13,
+    "idh": 0.649,
     "color": "#FEE67E"
   },
   {
     "region": "Maule",
     "comuna": "Yerbas Buenas",
     "pob14_comuna": 13349,
+    "encuentros_poblacion_10000hab": 6.7421,
     "pcent_elas": 0.06,
     "pcent_votos": 0.12,
+    "idh": 0.64,
     "color": "#FEE67E"
   },
   {
     "region": "Maule",
     "comuna": "Villa Alegre",
     "pob14_comuna": 11604,
+    "encuentros_poblacion_10000hab": 6.0324,
     "pcent_elas": 0.05,
     "pcent_votos": 0.11,
+    "idh": 0.648,
     "color": "#FEE67E"
   },
   {
     "region": "Maule",
     "comuna": "Romeral",
     "pob14_comuna": 11390,
+    "encuentros_poblacion_10000hab": 19.3152,
     "pcent_elas": 0.15,
     "pcent_votos": 0.11,
+    "idh": 0.668,
     "color": "#FEE67E"
   },
   {
     "region": "Maule",
     "comuna": "Río Claro",
     "pob14_comuna": 10206,
+    "encuentros_poblacion_10000hab": 2.9394,
     "pcent_elas": 0.02,
     "pcent_votos": 0.1,
+    "idh": 0.671,
     "color": "#FEE67E"
   },
   {
     "region": "Biobío",
     "comuna": "Concepción",
     "pob14_comuna": 185332,
+    "encuentros_poblacion_10000hab": 15.3778,
     "pcent_elas": 1.9,
     "pcent_votos": 1.46,
+    "idh": 0.757,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Los Ángeles",
     "pob14_comuna": 153648,
+    "encuentros_poblacion_10000hab": 6.3782,
     "pcent_elas": 0.65,
     "pcent_votos": 1.07,
+    "idh": 0.696,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Chillán",
     "pob14_comuna": 140289,
+    "encuentros_poblacion_10000hab": 11.4763,
     "pcent_elas": 1.07,
     "pcent_votos": 1.12,
+    "idh": 0.714,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Talcahuano",
     "pob14_comuna": 137302,
+    "encuentros_poblacion_10000hab": 3.9329,
     "pcent_elas": 0.36,
     "pcent_votos": 0.9,
+    "idh": 0.731,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Chiguayante",
     "pob14_comuna": 95519,
+    "encuentros_poblacion_10000hab": 4.7111,
     "pcent_elas": 0.3,
     "pcent_votos": 0.46,
+    "idh": 0.764,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Coronel",
     "pob14_comuna": 84885,
+    "encuentros_poblacion_10000hab": 5.4191,
     "pcent_elas": 0.31,
     "pcent_votos": 0.62,
+    "idh": 0.682,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "San Pedro de la Paz",
     "pob14_comuna": 74640,
+    "encuentros_poblacion_10000hab": 6.0289,
     "pcent_elas": 0.3,
     "pcent_votos": 0.56,
+    "idh": 0.787,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Hualpén",
     "pob14_comuna": 69577,
+    "encuentros_poblacion_10000hab": 6.6114,
     "pcent_elas": 0.31,
     "pcent_votos": 0.58,
     "color": "#FDB56E"
@@ -755,494 +940,616 @@
     "region": "Biobío",
     "comuna": "Tomé",
     "pob14_comuna": 44255,
+    "encuentros_poblacion_10000hab": 4.9712,
     "pcent_elas": 0.15,
     "pcent_votos": 0.38,
+    "idh": 0.668,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Penco",
     "pob14_comuna": 42014,
+    "encuentros_poblacion_10000hab": 2.3802,
     "pcent_elas": 0.07,
     "pcent_votos": 0.35,
+    "idh": 0.689,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "San Carlos",
     "pob14_comuna": 40670,
+    "encuentros_poblacion_10000hab": 6.147,
     "pcent_elas": 0.17,
     "pcent_votos": 0.37,
+    "idh": 0.653,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Lota",
     "pob14_comuna": 37377,
+    "encuentros_poblacion_10000hab": 4.0132,
     "pcent_elas": 0.1,
     "pcent_votos": 0.39,
+    "idh": 0.643,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Arauco",
     "pob14_comuna": 31961,
+    "encuentros_poblacion_10000hab": 5.0061,
     "pcent_elas": 0.11,
     "pcent_votos": 0.24,
+    "idh": 0.704,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Cañete",
     "pob14_comuna": 25474,
+    "encuentros_poblacion_10000hab": 10.9916,
     "pcent_elas": 0.19,
     "pcent_votos": 0.21,
+    "idh": 0.641,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Curanilahue",
     "pob14_comuna": 23199,
+    "encuentros_poblacion_10000hab": 10.3453,
     "pcent_elas": 0.16,
     "pcent_votos": 0.22,
+    "idh": 0.643,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Cabrero",
     "pob14_comuna": 22845,
+    "encuentros_poblacion_10000hab": 3.0641,
     "pcent_elas": 0.05,
     "pcent_votos": 0.19,
+    "idh": 0.635,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Chillán Viejo",
     "pob14_comuna": 22531,
+    "encuentros_poblacion_10000hab": 5.7698,
     "pcent_elas": 0.09,
     "pcent_votos": 0.17,
+    "idh": 0.732,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Mulchén",
     "pob14_comuna": 21468,
+    "encuentros_poblacion_10000hab": 6.9871,
     "pcent_elas": 0.1,
     "pcent_votos": 0.2,
+    "idh": 0.639,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Nacimiento",
     "pob14_comuna": 19837,
+    "encuentros_poblacion_10000hab": 4.0329,
     "pcent_elas": 0.05,
     "pcent_votos": 0.17,
+    "idh": 0.656,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Lebu",
     "pob14_comuna": 19215,
+    "encuentros_poblacion_10000hab": 9.3677,
     "pcent_elas": 0.12,
     "pcent_votos": 0.16,
+    "idh": 0.633,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Coihueco",
     "pob14_comuna": 18936,
+    "encuentros_poblacion_10000hab": 10.5619,
     "pcent_elas": 0.13,
     "pcent_votos": 0.17,
+    "idh": 0.639,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Hualqui",
     "pob14_comuna": 17130,
+    "encuentros_poblacion_10000hab": 2.3351,
     "pcent_elas": 0.03,
     "pcent_votos": 0.15,
+    "idh": 0.666,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Bulnes",
     "pob14_comuna": 16859,
+    "encuentros_poblacion_10000hab": 9.4905,
     "pcent_elas": 0.11,
     "pcent_votos": 0.17,
+    "idh": 0.626,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Yumbel",
     "pob14_comuna": 16418,
+    "encuentros_poblacion_10000hab": 6.0909,
     "pcent_elas": 0.07,
     "pcent_votos": 0.17,
+    "idh": 0.597,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Laja",
     "pob14_comuna": 15817,
+    "encuentros_poblacion_10000hab": 5.6901,
     "pcent_elas": 0.06,
     "pcent_votos": 0.16,
+    "idh": 0.665,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Los Álamos",
     "pob14_comuna": 15543,
+    "encuentros_poblacion_10000hab": 6.4338,
     "pcent_elas": 0.07,
     "pcent_votos": 0.14,
+    "idh": 0.645,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Yungay",
     "pob14_comuna": 14678,
+    "encuentros_poblacion_10000hab": 8.1755,
     "pcent_elas": 0.08,
     "pcent_votos": 0.12,
+    "idh": 0.669,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Quillón",
     "pob14_comuna": 12519,
+    "encuentros_poblacion_10000hab": 4.7927,
     "pcent_elas": 0.04,
     "pcent_votos": 0.12,
+    "idh": 0.59,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Coelemu",
     "pob14_comuna": 12382,
+    "encuentros_poblacion_10000hab": 7.2686,
     "pcent_elas": 0.06,
     "pcent_votos": 0.14,
+    "idh": 0.611,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "San Ignacio",
     "pob14_comuna": 12221,
+    "encuentros_poblacion_10000hab": 3.2731,
     "pcent_elas": 0.03,
     "pcent_votos": 0.12,
+    "idh": 0.618,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Santa Bárbara",
     "pob14_comuna": 11405,
+    "encuentros_poblacion_10000hab": 7.0145,
     "pcent_elas": 0.05,
     "pcent_votos": 0.09,
+    "idh": 0.637,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Tucapel",
     "pob14_comuna": 10657,
+    "encuentros_poblacion_10000hab": 5.6301,
     "pcent_elas": 0.04,
     "pcent_votos": 0.1,
+    "idh": 0.655,
     "color": "#FDB56E"
   },
   {
     "region": "Biobío",
     "comuna": "Santa Juana",
     "pob14_comuna": 10567,
+    "encuentros_poblacion_10000hab": 5.6781,
     "pcent_elas": 0.04,
     "pcent_votos": 0.09,
+    "idh": 0.626,
     "color": "#FDB56E"
   },
   {
     "region": "Araucanía",
     "comuna": "Temuco",
     "pob14_comuna": 240731,
+    "encuentros_poblacion_10000hab": 11.7974,
     "pcent_elas": 1.89,
     "pcent_votos": 1.54,
+    "idh": 0.763,
     "color": "#FC835E"
   },
   {
     "region": "Araucanía",
     "comuna": "Padre las Casas",
     "pob14_comuna": 56600,
+    "encuentros_poblacion_10000hab": 5.477,
     "pcent_elas": 0.21,
     "pcent_votos": 0.36,
+    "idh": 0.662,
     "color": "#FC835E"
   },
   {
     "region": "Araucanía",
     "comuna": "Villarrica",
     "pob14_comuna": 43695,
+    "encuentros_poblacion_10000hab": 7.0946,
     "pcent_elas": 0.21,
     "pcent_votos": 0.32,
+    "idh": 0.698,
     "color": "#FC835E"
   },
   {
     "region": "Araucanía",
     "comuna": "Angol",
     "pob14_comuna": 39555,
+    "encuentros_poblacion_10000hab": 13.6519,
     "pcent_elas": 0.36,
     "pcent_votos": 0.35,
+    "idh": 0.707,
     "color": "#FC835E"
   },
   {
     "region": "Araucanía",
     "comuna": "Lautaro",
     "pob14_comuna": 27399,
+    "encuentros_poblacion_10000hab": 9.4894,
     "pcent_elas": 0.17,
     "pcent_votos": 0.24,
+    "idh": 0.669,
     "color": "#FC835E"
   },
   {
     "region": "Araucanía",
     "comuna": "Victoria",
     "pob14_comuna": 26026,
+    "encuentros_poblacion_10000hab": 6.9162,
     "pcent_elas": 0.12,
     "pcent_votos": 0.23,
+    "idh": 0.686,
     "color": "#FC835E"
   },
   {
     "region": "Araucanía",
     "comuna": "Nueva Imperial",
     "pob14_comuna": 25104,
+    "encuentros_poblacion_10000hab": 7.5685,
     "pcent_elas": 0.13,
     "pcent_votos": 0.23,
+    "idh": 0.629,
     "color": "#FC835E"
   },
   {
     "region": "Araucanía",
     "comuna": "Pucón",
     "pob14_comuna": 24098,
+    "encuentros_poblacion_10000hab": 7.4695,
     "pcent_elas": 0.12,
     "pcent_votos": 0.14,
+    "idh": 0.767,
     "color": "#FC835E"
   },
   {
     "region": "Araucanía",
     "comuna": "Freire",
     "pob14_comuna": 21387,
+    "encuentros_poblacion_10000hab": 4.6757,
     "pcent_elas": 0.07,
     "pcent_votos": 0.16,
+    "idh": 0.614,
     "color": "#FC835E"
   },
   {
     "region": "Araucanía",
     "comuna": "Carahue",
     "pob14_comuna": 19146,
+    "encuentros_poblacion_10000hab": 6.2676,
     "pcent_elas": 0.08,
     "pcent_votos": 0.18,
+    "idh": 0.604,
     "color": "#FC835E"
   },
   {
     "region": "Araucanía",
     "comuna": "Pitrufquén",
     "pob14_comuna": 18898,
+    "encuentros_poblacion_10000hab": 5.2916,
     "pcent_elas": 0.07,
     "pcent_votos": 0.16,
+    "idh": 0.663,
     "color": "#FC835E"
   },
   {
     "region": "Araucanía",
     "comuna": "Vilcún",
     "pob14_comuna": 18118,
+    "encuentros_poblacion_10000hab": 8.2791,
     "pcent_elas": 0.1,
     "pcent_votos": 0.17,
+    "idh": 0.643,
     "color": "#FC835E"
   },
   {
     "region": "Araucanía",
     "comuna": "Loncoche",
     "pob14_comuna": 16887,
+    "encuentros_poblacion_10000hab": 9.4747,
     "pcent_elas": 0.11,
     "pcent_votos": 0.16,
+    "idh": 0.652,
     "color": "#FC835E"
   },
   {
     "region": "Araucanía",
     "comuna": "Collipulli",
     "pob14_comuna": 16374,
+    "encuentros_poblacion_10000hab": 9.1609,
     "pcent_elas": 0.1,
     "pcent_votos": 0.17,
+    "idh": 0.633,
     "color": "#FC835E"
   },
   {
     "region": "Araucanía",
     "comuna": "Cunco",
     "pob14_comuna": 14670,
+    "encuentros_poblacion_10000hab": 7.4983,
     "pcent_elas": 0.07,
     "pcent_votos": 0.13,
+    "idh": 0.659,
     "color": "#FC835E"
   },
   {
     "region": "Araucanía",
     "comuna": "Traiguén",
     "pob14_comuna": 14067,
+    "encuentros_poblacion_10000hab": 9.9524,
     "pcent_elas": 0.09,
     "pcent_votos": 0.15,
+    "idh": 0.657,
     "color": "#FC835E"
   },
   {
     "region": "Araucanía",
     "comuna": "Teodoro Schmidt",
     "pob14_comuna": 12552,
+    "encuentros_poblacion_10000hab": 8.7635,
     "pcent_elas": 0.07,
     "pcent_votos": 0.12,
+    "idh": 0.607,
     "color": "#FC835E"
   },
   {
     "region": "Araucanía",
     "comuna": "Gorbea",
     "pob14_comuna": 12402,
+    "encuentros_poblacion_10000hab": 11.2885,
     "pcent_elas": 0.09,
     "pcent_votos": 0.12,
+    "idh": 0.644,
     "color": "#FC835E"
   },
   {
     "region": "Araucanía",
     "comuna": "Curacautín",
     "pob14_comuna": 12126,
+    "encuentros_poblacion_10000hab": 12.3701,
     "pcent_elas": 0.1,
     "pcent_votos": 0.13,
+    "idh": 0.657,
     "color": "#FC835E"
   },
   {
     "region": "Araucanía",
     "comuna": "Saavedra",
     "pob14_comuna": 10375,
+    "encuentros_poblacion_10000hab": 6.747,
     "pcent_elas": 0.05,
     "pcent_votos": 0.09,
+    "idh": 0.574,
     "color": "#FC835E"
   },
   {
     "region": "Los Lagos",
     "comuna": "Puerto Montt",
     "pob14_comuna": 184886,
+    "encuentros_poblacion_10000hab": 10.4389,
     "pcent_elas": 1.29,
     "pcent_votos": 1.04,
+    "idh": 0.718,
     "color": "#DD7368"
   },
   {
     "region": "Los Lagos",
     "comuna": "Osorno",
     "pob14_comuna": 128441,
+    "encuentros_poblacion_10000hab": 11.6785,
     "pcent_elas": 1,
     "pcent_votos": 0.99,
+    "idh": 0.7,
     "color": "#DD7368"
   },
   {
     "region": "Los Lagos",
     "comuna": "Castro",
     "pob14_comuna": 40391,
+    "encuentros_poblacion_10000hab": 8.9129,
     "pcent_elas": 0.24,
     "pcent_votos": 0.24,
+    "idh": 0.72,
     "color": "#DD7368"
   },
   {
     "region": "Los Lagos",
     "comuna": "Ancud",
     "pob14_comuna": 32530,
+    "encuentros_poblacion_10000hab": 5.5334,
     "pcent_elas": 0.12,
     "pcent_votos": 0.25,
+    "idh": 0.705,
     "color": "#DD7368"
   },
   {
     "region": "Los Lagos",
     "comuna": "Puerto Varas",
     "pob14_comuna": 31260,
+    "encuentros_poblacion_10000hab": 11.8362,
     "pcent_elas": 0.25,
     "pcent_votos": 0.27,
+    "idh": 0.748,
     "color": "#DD7368"
   },
   {
     "region": "Los Lagos",
     "comuna": "Calbuco",
     "pob14_comuna": 27175,
+    "encuentros_poblacion_10000hab": 4.0478,
     "pcent_elas": 0.07,
     "pcent_votos": 0.18,
+    "idh": 0.642,
     "color": "#DD7368"
   },
   {
     "region": "Los Lagos",
     "comuna": "Quellón",
     "pob14_comuna": 25058,
+    "encuentros_poblacion_10000hab": 7.9815,
     "pcent_elas": 0.13,
     "pcent_votos": 0.13,
+    "idh": 0.67,
     "color": "#DD7368"
   },
   {
     "region": "Los Lagos",
     "comuna": "Purranque",
     "pob14_comuna": 16184,
+    "encuentros_poblacion_10000hab": 14.2116,
     "pcent_elas": 0.15,
     "pcent_votos": 0.16,
+    "idh": 0.627,
     "color": "#DD7368"
   },
   {
     "region": "Los Lagos",
     "comuna": "Frutillar",
     "pob14_comuna": 14059,
+    "encuentros_poblacion_10000hab": 17.0709,
     "pcent_elas": 0.16,
     "pcent_votos": 0.13,
+    "idh": 0.669,
     "color": "#DD7368"
   },
   {
     "region": "Los Lagos",
     "comuna": "Llanquihue",
     "pob14_comuna": 13982,
+    "encuentros_poblacion_10000hab": 8.5825,
     "pcent_elas": 0.08,
     "pcent_votos": 0.13,
+    "idh": 0.695,
     "color": "#DD7368"
   },
   {
     "region": "Los Lagos",
     "comuna": "Los Muermos",
     "pob14_comuna": 12815,
+    "encuentros_poblacion_10000hab": 6.2427,
     "pcent_elas": 0.05,
     "pcent_votos": 0.12,
+    "idh": 0.648,
     "color": "#DD7368"
   },
   {
     "region": "Los Lagos",
     "comuna": "Chonchi",
     "pob14_comuna": 11675,
+    "encuentros_poblacion_10000hab": 5.1392,
     "pcent_elas": 0.04,
     "pcent_votos": 0.09,
+    "idh": 0.641,
     "color": "#DD7368"
   },
   {
     "region": "Los Lagos",
     "comuna": "Dalcahue",
     "pob14_comuna": 11418,
+    "encuentros_poblacion_10000hab": 1.7516,
     "pcent_elas": 0.01,
     "pcent_votos": 0.07,
+    "idh": 0.69,
     "color": "#DD7368"
   },
   {
     "region": "Los Lagos",
     "comuna": "Maullín",
     "pob14_comuna": 10849,
+    "encuentros_poblacion_10000hab": 11.9827,
     "pcent_elas": 0.09,
     "pcent_votos": 0.1,
+    "idh": 0.691,
     "color": "#DD7368"
   },
   {
     "region": "Los Lagos",
     "comuna": "Río Negro",
     "pob14_comuna": 10335,
+    "encuentros_poblacion_10000hab": 10.6434,
     "pcent_elas": 0.07,
     "pcent_votos": 0.11,
+    "idh": 0.633,
     "color": "#DD7368"
   },
   {
     "region": "Aisén",
     "comuna": "Coihaique",
     "pob14_comuna": 43784,
+    "encuentros_poblacion_10000hab": 26.2653,
     "pcent_elas": 0.77,
     "pcent_votos": 0.31,
     "color": "#A97A82"
   },
   {
     "region": "Aisén",
-    "comuna": "Aisén",
+    "comuna": "Aisén ",
     "pob14_comuna": 20384,
+    "encuentros_poblacion_10000hab": 18.6421,
     "pcent_elas": 0.25,
     "pcent_votos": 0.13,
     "color": "#A97A82"
@@ -1251,398 +1558,497 @@
     "region": "Magallanes",
     "comuna": "Punta Arenas",
     "pob14_comuna": 98697,
+    "encuentros_poblacion_10000hab": 18.339,
     "pcent_elas": 1.21,
     "pcent_votos": 0.7,
+    "idh": 0.748,
     "color": "#76809D"
   },
   {
     "region": "Magallanes",
     "comuna": "Natales",
     "pob14_comuna": 16673,
+    "encuentros_poblacion_10000hab": 11.9954,
     "pcent_elas": 0.13,
     "pcent_votos": 0.12,
+    "idh": 0.699,
     "color": "#76809D"
   },
   {
     "region": "Metropolitana",
     "comuna": "Maipú",
     "pob14_comuna": 654544,
+    "encuentros_poblacion_10000hab": 3.3764,
     "pcent_elas": 1.47,
     "pcent_votos": 2.41,
+    "idh": 0.902,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Puente Alto",
     "pob14_comuna": 561464,
+    "encuentros_poblacion_10000hab": 7.6051,
     "pcent_elas": 2.84,
     "pcent_votos": 1.93,
+    "idh": 0.773,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "La Florida",
     "pob14_comuna": 323562,
+    "encuentros_poblacion_10000hab": 8.9318,
     "pcent_elas": 1.92,
     "pcent_votos": 2.18,
+    "idh": 0.804,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Las Condes",
     "pob14_comuna": 238274,
+    "encuentros_poblacion_10000hab": 19.8511,
     "pcent_elas": 3.15,
     "pcent_votos": 2.29,
+    "idh": 0.933,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "San Bernardo",
     "pob14_comuna": 232557,
+    "encuentros_poblacion_10000hab": 4.472,
     "pcent_elas": 0.69,
     "pcent_votos": 1.35,
+    "idh": 0.712,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Pudahuel",
     "pob14_comuna": 206973,
+    "encuentros_poblacion_10000hab": 3.1405,
     "pcent_elas": 0.43,
     "pcent_votos": 1.06,
+    "idh": 0.735,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Peñalolén",
     "pob14_comuna": 192217,
+    "encuentros_poblacion_10000hab": 9.4164,
     "pcent_elas": 1.21,
     "pcent_votos": 1.32,
+    "idh": 0.743,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Quilicura",
     "pob14_comuna": 154585,
+    "encuentros_poblacion_10000hab": 4.4636,
     "pcent_elas": 0.46,
     "pcent_votos": 0.77,
+    "idh": 0.782,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "La Pintana",
     "pob14_comuna": 152565,
+    "encuentros_poblacion_10000hab": 4.3916,
     "pcent_elas": 0.45,
     "pcent_votos": 0.77,
+    "idh": 0.679,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Santiago",
     "pob14_comuna": 139180,
+    "encuentros_poblacion_10000hab": 69.3347,
     "pcent_elas": 6.43,
     "pcent_votos": 1.74,
+    "idh": 0.807,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "El Bosque",
     "pob14_comuna": 132573,
+    "encuentros_poblacion_10000hab": 8.7499,
     "pcent_elas": 0.77,
     "pcent_votos": 0.99,
+    "idh": 0.711,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Ñuñoa",
     "pob14_comuna": 123519,
+    "encuentros_poblacion_10000hab": 40.3986,
     "pcent_elas": 3.32,
     "pcent_votos": 1.62,
+    "idh": 0.86,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Providencia",
     "pob14_comuna": 108741,
+    "encuentros_poblacion_10000hab": 60.3268,
     "pcent_elas": 4.37,
     "pcent_votos": 1.28,
+    "idh": 0.911,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Cerro Navia",
     "pob14_comuna": 103064,
+    "encuentros_poblacion_10000hab": 4.6573,
     "pcent_elas": 0.32,
     "pcent_votos": 0.83,
+    "idh": 0.683,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Renca",
     "pob14_comuna": 100676,
+    "encuentros_poblacion_10000hab": 4.6684,
     "pcent_elas": 0.31,
     "pcent_votos": 0.75,
+    "idh": 0.709,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Recoleta",
     "pob14_comuna": 100228,
+    "encuentros_poblacion_10000hab": 27.8365,
     "pcent_elas": 1.86,
     "pcent_votos": 0.97,
+    "idh": 0.697,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "La Granja",
     "pob14_comuna": 97086,
+    "encuentros_poblacion_10000hab": 5.1501,
     "pcent_elas": 0.33,
     "pcent_votos": 0.7,
+    "idh": 0.689,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Estación Central",
     "pob14_comuna": 91416,
+    "encuentros_poblacion_10000hab": 11.0484,
     "pcent_elas": 0.67,
     "pcent_votos": 0.89,
+    "idh": 0.735,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Conchalí",
     "pob14_comuna": 86984,
+    "encuentros_poblacion_10000hab": 11.0365,
     "pcent_elas": 0.64,
     "pcent_votos": 0.88,
+    "idh": 0.707,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Colina",
     "pob14_comuna": 84107,
+    "encuentros_poblacion_10000hab": 7.6094,
     "pcent_elas": 0.43,
     "pcent_votos": 0.51,
+    "idh": 0.726,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Lo Barnechea",
     "pob14_comuna": 83064,
+    "encuentros_poblacion_10000hab": 11.9185,
     "pcent_elas": 0.66,
     "pcent_votos": 0.62,
+    "idh": 0.912,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Melipilla",
     "pob14_comuna": 81778,
+    "encuentros_poblacion_10000hab": 6.2364,
     "pcent_elas": 0.34,
     "pcent_votos": 0.67,
+    "idh": 0.735,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Macul",
     "pob14_comuna": 80607,
+    "encuentros_poblacion_10000hab": 18.4847,
     "pcent_elas": 0.99,
     "pcent_votos": 0.79,
+    "idh": 0.806,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Lo Espejo",
     "pob14_comuna": 77441,
+    "encuentros_poblacion_10000hab": 7.877,
     "pcent_elas": 0.41,
     "pcent_votos": 0.66,
+    "idh": 0.657,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "La Reina",
     "pob14_comuna": 77244,
+    "encuentros_poblacion_10000hab": 35.472,
     "pcent_elas": 1.82,
     "pcent_votos": 0.8,
+    "idh": 0.883,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Pedro Aguirre Cerda",
     "pob14_comuna": 75873,
+    "encuentros_poblacion_10000hab": 19.7699,
     "pcent_elas": 1,
     "pcent_votos": 0.77,
+    "idh": 0.708,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Lo Prado",
     "pob14_comuna": 73017,
+    "encuentros_poblacion_10000hab": 15.7498,
     "pcent_elas": 0.77,
     "pcent_votos": 0.69,
+    "idh": 0.715,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Quinta Normal",
     "pob14_comuna": 70949,
+    "encuentros_poblacion_10000hab": 26.0751,
     "pcent_elas": 1.23,
     "pcent_votos": 0.71,
+    "idh": 0.723,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "San Ramón",
     "pob14_comuna": 65385,
+    "encuentros_poblacion_10000hab": 7.4941,
     "pcent_elas": 0.33,
     "pcent_votos": 0.62,
+    "idh": 0.679,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Vitacura",
     "pob14_comuna": 65275,
+    "encuentros_poblacion_10000hab": 27.4224,
     "pcent_elas": 1.19,
     "pcent_votos": 0.88,
+    "idh": 0.949,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Peñaflor",
     "pob14_comuna": 64961,
+    "encuentros_poblacion_10000hab": 7.0812,
     "pcent_elas": 0.31,
     "pcent_votos": 0.48,
+    "idh": 0.753,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Huechuraba",
     "pob14_comuna": 64436,
+    "encuentros_poblacion_10000hab": 9.7771,
     "pcent_elas": 0.42,
     "pcent_votos": 0.5,
+    "idh": 0.737,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "San Joaquín",
     "pob14_comuna": 64226,
+    "encuentros_poblacion_10000hab": 10.4319,
     "pcent_elas": 0.45,
     "pcent_votos": 0.63,
+    "idh": 0.719,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "San Miguel",
     "pob14_comuna": 58490,
+    "encuentros_poblacion_10000hab": 21.7131,
     "pcent_elas": 0.85,
     "pcent_votos": 0.7,
+    "idh": 0.765,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "La Cisterna",
     "pob14_comuna": 58255,
+    "encuentros_poblacion_10000hab": 11.1578,
     "pcent_elas": 0.43,
     "pcent_votos": 0.62,
+    "idh": 0.775,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Talagante",
     "pob14_comuna": 57975,
+    "encuentros_poblacion_10000hab": 5.5196,
     "pcent_elas": 0.21,
     "pcent_votos": 0.43,
+    "idh": 0.749,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Buin",
     "pob14_comuna": 56534,
+    "encuentros_poblacion_10000hab": 4.9528,
     "pcent_elas": 0.19,
     "pcent_votos": 0.47,
+    "idh": 0.731,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Cerrillos",
     "pob14_comuna": 51997,
+    "encuentros_poblacion_10000hab": 10.9622,
     "pcent_elas": 0.38,
     "pcent_votos": 0.48,
+    "idh": 0.743,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Paine",
     "pob14_comuna": 48929,
+    "encuentros_poblacion_10000hab": 3.8832,
     "pcent_elas": 0.13,
     "pcent_votos": 0.36,
+    "idh": 0.718,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Lampa",
     "pob14_comuna": 46979,
+    "encuentros_poblacion_10000hab": 6.173,
     "pcent_elas": 0.19,
     "pcent_votos": 0.3,
+    "idh": 0.697,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Independencia",
     "pob14_comuna": 42814,
+    "encuentros_poblacion_10000hab": 22.4226,
     "pcent_elas": 0.64,
     "pcent_votos": 0.53,
+    "idh": 0.709,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Padre Hurtado",
     "pob14_comuna": 37634,
+    "encuentros_poblacion_10000hab": 3.9858,
     "pcent_elas": 0.1,
     "pcent_votos": 0.27,
+    "idh": 0.728,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Isla de Maipo",
     "pob14_comuna": 24250,
+    "encuentros_poblacion_10000hab": 7.8351,
     "pcent_elas": 0.13,
     "pcent_votos": 0.19,
+    "idh": 0.724,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "El Monte",
     "pob14_comuna": 23389,
+    "encuentros_poblacion_10000hab": 5.5582,
     "pcent_elas": 0.09,
     "pcent_votos": 0.21,
+    "idh": 0.688,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Curacaví",
     "pob14_comuna": 23008,
+    "encuentros_poblacion_10000hab": 5.2156,
     "pcent_elas": 0.08,
     "pcent_votos": 0.19,
+    "idh": 0.71,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Calera de Tango",
     "pob14_comuna": 20746,
+    "encuentros_poblacion_10000hab": 3.3741,
     "pcent_elas": 0.05,
     "pcent_votos": 0.17,
+    "idh": 0.792,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Pirque",
     "pob14_comuna": 17991,
+    "encuentros_poblacion_10000hab": 13.34,
     "pcent_elas": 0.16,
     "pcent_votos": 0.15,
+    "idh": 0.807,
     "color": "#717290"
   },
   {
     "region": "Metropolitana",
     "comuna": "Tiltil",
     "pob14_comuna": 12156,
+    "encuentros_poblacion_10000hab": 13.9849,
     "pcent_elas": 0.11,
     "pcent_votos": 0.1,
     "color": "#717290"
@@ -1651,88 +2057,110 @@
     "region": "Metropolitana",
     "comuna": "San José de Maipo",
     "pob14_comuna": 11632,
+    "encuentros_poblacion_10000hab": 22.3521,
     "pcent_elas": 0.17,
     "pcent_votos": 0.12,
+    "idh": 0.759,
     "color": "#717290"
   },
   {
     "region": "Los Ríos",
     "comuna": "Valdivia",
     "pob14_comuna": 128296,
+    "encuentros_poblacion_10000hab": 14.6536,
     "pcent_elas": 1.25,
     "pcent_votos": 0.93,
+    "idh": 0.754,
     "color": "#785E79"
   },
   {
     "region": "Los Ríos",
     "comuna": "La Unión",
     "pob14_comuna": 30587,
+    "encuentros_poblacion_10000hab": 13.7313,
     "pcent_elas": 0.28,
     "pcent_votos": 0.25,
+    "idh": 0.687,
     "color": "#785E79"
   },
   {
     "region": "Los Ríos",
     "comuna": "Panguipulli",
     "pob14_comuna": 27664,
+    "encuentros_poblacion_10000hab": 3.6148,
     "pcent_elas": 0.07,
     "pcent_votos": 0.22,
+    "idh": 0.627,
     "color": "#785E79"
   },
   {
     "region": "Los Ríos",
     "comuna": "Río Bueno",
     "pob14_comuna": 24407,
+    "encuentros_poblacion_10000hab": 9.8332,
     "pcent_elas": 0.16,
     "pcent_votos": 0.22,
+    "idh": 0.624,
     "color": "#785E79"
   },
   {
     "region": "Los Ríos",
     "comuna": "Los Lagos",
     "pob14_comuna": 16248,
+    "encuentros_poblacion_10000hab": 10.4628,
     "pcent_elas": 0.11,
     "pcent_votos": 0.13,
+    "idh": 0.658,
     "color": "#785E79"
   },
   {
     "region": "Los Ríos",
     "comuna": "Paillaco",
     "pob14_comuna": 15513,
+    "encuentros_poblacion_10000hab": 23.851,
     "pcent_elas": 0.25,
     "pcent_votos": 0.15,
+    "idh": 0.647,
     "color": "#785E79"
   },
   {
     "region": "Los Ríos",
     "comuna": "Mariquina",
     "pob14_comuna": 13597,
+    "encuentros_poblacion_10000hab": 6.6191,
     "pcent_elas": 0.06,
     "pcent_votos": 0.13,
+    "idh": 0.653,
     "color": "#785E79"
   },
   {
     "region": "Los Ríos",
     "comuna": "Lanco",
     "pob14_comuna": 12538,
+    "encuentros_poblacion_10000hab": 6.3806,
     "pcent_elas": 0.05,
     "pcent_votos": 0.12,
+    "idh": 0.648,
     "color": "#785E79"
   },
   {
     "region": "Los Ríos",
     "comuna": "Futrono",
     "pob14_comuna": 11533,
+    "encuentros_poblacion_10000hab": 6.9366,
     "pcent_elas": 0.05,
     "pcent_votos": 0.09,
+    "idh": 0.637,
     "color": "#785E79"
   },
   {
     "region": "Arica y Parinacota",
     "comuna": "Arica",
     "pob14_comuna": 137539,
+    "encuentros_poblacion_10000hab": 14.3959,
     "pcent_elas": 1.32,
     "pcent_votos": 0.94,
+    "idh": 0.736,
     "color": "#804A62"
   }
 ]
