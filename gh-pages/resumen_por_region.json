@@ -1,0 +1,137 @@
+[
+  {
+    "region": "Aisén",
+    "pob_region": 79913,
+    "encuentros_poblacion": 197,
+    "pcent_elas": 1.31,
+    "pcent_votos": 0.56,
+    "encuentros_poblacion_10000hab": 24.6518,
+    "color": "#A97A82"
+  },
+  {
+    "region": "Antofagasta",
+    "pob_region": 441747,
+    "encuentros_poblacion": 468,
+    "pcent_elas": 3.13,
+    "pcent_votos": 2.31,
+    "encuentros_poblacion_10000hab": 10.5943,
+    "color": "#544076"
+  },
+  {
+    "region": "Araucanía",
+    "pob_region": 752959,
+    "encuentros_poblacion": 693,
+    "pcent_elas": 4.64,
+    "pcent_votos": 5.99,
+    "encuentros_poblacion_10000hab": 9.2037,
+    "color": "#FC835E"
+  },
+  {
+    "region": "Arica y Parinacota",
+    "pob_region": 141082,
+    "encuentros_poblacion": 208,
+    "pcent_elas": 1.39,
+    "pcent_votos": 0.98,
+    "encuentros_poblacion_10000hab": 14.7432,
+    "color": "#804A62"
+  },
+  {
+    "region": "Atacama",
+    "pob_region": 214466,
+    "encuentros_poblacion": 278,
+    "pcent_elas": 1.85,
+    "pcent_votos": 1.41,
+    "encuentros_poblacion_10000hab": 12.9624,
+    "color": "#A92C48"
+  },
+  {
+    "region": "Biobío",
+    "pob_region": 1602169,
+    "encuentros_poblacion": 1209,
+    "pcent_elas": 8.08,
+    "pcent_votos": 12.87,
+    "encuentros_poblacion_10000hab": 7.546,
+    "color": "#FDB56E"
+  },
+  {
+    "region": "Coquimbo",
+    "pob_region": 562871,
+    "encuentros_poblacion": 620,
+    "pcent_elas": 4.14,
+    "pcent_votos": 3.95,
+    "encuentros_poblacion_10000hab": 11.015,
+    "color": "#EE2B2A"
+  },
+  {
+    "region": "Los Lagos",
+    "pob_region": 651444,
+    "encuentros_poblacion": 656,
+    "pcent_elas": 4.36,
+    "pcent_votos": 4.75,
+    "encuentros_poblacion_10000hab": 10.0699,
+    "color": "#DD7368"
+  },
+  {
+    "region": "Los Ríos",
+    "pob_region": 297164,
+    "encuentros_poblacion": 355,
+    "pcent_elas": 2.36,
+    "pcent_votos": 2.4,
+    "encuentros_poblacion_10000hab": 11.9463,
+    "color": "#785E79"
+  },
+  {
+    "region": "Magallanes",
+    "pob_region": 125850,
+    "encuentros_poblacion": 229,
+    "pcent_elas": 1.54,
+    "pcent_votos": 0.87,
+    "encuentros_poblacion_10000hab": 18.1963,
+    "color": "#76809D"
+  },
+  {
+    "region": "Maule",
+    "pob_region": 792081,
+    "encuentros_poblacion": 831,
+    "pcent_elas": 5.56,
+    "pcent_votos": 6.78,
+    "encuentros_poblacion_10000hab": 10.4914,
+    "color": "#FEE67E"
+  },
+  {
+    "region": "Metropolitana",
+    "pob_region": 5440250,
+    "encuentros_poblacion": 6902,
+    "pcent_elas": 45.97,
+    "pcent_votos": 39.53,
+    "encuentros_poblacion_10000hab": 12.6869,
+    "color": "#717290"
+  },
+  {
+    "region": "O'Higgins",
+    "pob_region": 694233,
+    "encuentros_poblacion": 635,
+    "pcent_elas": 4.25,
+    "pcent_votos": 5.65,
+    "encuentros_poblacion_10000hab": 9.1468,
+    "color": "#FBCA70"
+  },
+  {
+    "region": "Tarapacá",
+    "pob_region": 244042,
+    "encuentros_poblacion": 299,
+    "pcent_elas": 1.98,
+    "pcent_votos": 1.14,
+    "encuentros_poblacion_10000hab": 12.252,
+    "color": "#0054A4"
+  },
+  {
+    "region": "Valparaíso",
+    "pob_region": 1407244,
+    "encuentros_poblacion": 1439,
+    "pcent_elas": 9.59,
+    "pcent_votos": 10.78,
+    "encuentros_poblacion_10000hab": 10.2257,
+    "color": "#F47B4D"
+  }
+]

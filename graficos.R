@@ -1,4 +1,5 @@
 setwd("~/constitucionabierta/archivos")
+library(xlsx)
 library(XLConnect)
 library(d3plus)
 library(plyr)
@@ -35,10 +36,11 @@ datos_totales$comuna = ifelse(datos_totales$comuna == "Valparaíso","Valparaíso
 datos_totales$comuna = as.factor(datos_totales$comuna)
 datos_totales$region = as.factor(datos_totales$region)
 
-resumen_por_region <- datos_finales[,c("region","pob14_comuna","encuentros_poblacion","pcent_elas","pcent_votos","color")]
+resumen_por_region <- datos_finales[,c("region","pob14_comuna","encuentros_poblacion","pcent_elas","pcent_votos")]
 resumen_por_region = aggregate(. ~ region, resumen_por_region, sum)
 names(resumen_por_region)[names(resumen_por_region) == "pob14_comuna"] <- "pob_region"
-resumen_por_region$encuentros_10000hab = 10000*resumen_por_region$encuentros_poblacion/resumen_por_region$pob_region
+resumen_por_region$encuentros_poblacion_10000hab = 10000*resumen_por_region$encuentros_poblacion/resumen_por_region$pob_region
+resumen_por_region = join(resumen_por_region, unique(datos_finales[,c("region","color")]), by="region")
 
 write.xlsx(resumen_por_region,"resumen_por_region.xlsx")
 
@@ -56,3 +58,6 @@ write(datos_10000hab_json, "datos_10000hab.json")
 
 datos_totales_json <- toJSON(datos_totales, pretty=TRUE)
 write(datos_totales_json, "datos_totales.json")
+
+resumen_por_region_json <- toJSON(resumen_por_region, pretty=TRUE)
+write(resumen_por_region_json, "resumen_por_region.json")

@@ -17,7 +17,7 @@ var visualization = d3plus.viz()
       return "Población de la comuna";
     }
     if (text === "encuentros_poblacion_10000hab") {
-      return "Encuentros locales por cada 10,000 habitantes mayores de 14 años";
+      return "Encuentros locales por cada 10.000 habitantes";
     }
     if (text === "idh") {
       return "Índice de Desarrollo Humano"
@@ -28,9 +28,10 @@ var visualization = d3plus.viz()
   },
   "locale": "es_ES"
 })
-.font({"family": "Lato"})
+.font({"family": "Roboto"})
 .title("Encuentros locales versus Índice de Desarrollo Humano por comuna")
-.title({"sub": "Considerando comunas con más de 10.000 habitantes mayores de 14 años"})
+.title({"sub":"Considerando comunas con población de más de 10.000 habitantes"})
 .tooltip(["pob14_comuna","idh","encuentros_poblacion_10000hab"])
 .legend(false)
+.messages({"branding":true})
 .draw()
