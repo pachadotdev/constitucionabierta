@@ -47,6 +47,7 @@ write.xlsx(resumen_por_region,"resumen_por_region.xlsx")
 cuenta_actas = readWorksheetFromFile("cuenta_actas.xlsx", sheet="Sheet1", region = "D1:F68")
 cuenta_actas$fecha = strptime(cuenta_actas$fecha, "%Y-%m-%d")
 cuenta_actas$name = "Cuenta de actas"
+cuenta_actas$color = "#0054A4"
 
 #################
 
