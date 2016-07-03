@@ -1,6 +1,6 @@
 var visualization = d3plus.viz()
-.container("#cuenta_actas")
-.data("cuenta_actas.json")
+.container("#cuenta_encuentros")
+.data("cuenta_encuentros.json")
 .type("line")
 .width(false)
 .height(false)
