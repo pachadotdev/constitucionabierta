@@ -16,8 +16,11 @@ var visualization = d3plus.viz()
     if (text === "pob14_comuna") {
       return "Población";
     }
+    if (text === "encuentros_poblacion") {
+      return "Encuentros locales";
+    }    
     if (text === "encuentros_poblacion_10000hab") {
-      return "Encuentros locales por cada 10,000 habitantes mayores de 14 años";
+      return "Encuentros locales por cada 10,000 habitantes";
     }
     if (text === "pcent_votos") {
       return "% de participación en elecciones presidenciales";
@@ -37,9 +40,11 @@ var visualization = d3plus.viz()
   },
   "locale": "es_ES"
 })
-.font({"family": "Lato"})
-.title("Encuentros locales versus participación en elecciones")
+.font({"family": "Roboto"})
+.title("Encuentros locales versus participación en elecciones por región")
 .tooltip(["pob14_comuna","pcent_votos","encuentros_poblacion_10000hab"])
+.aggs({"encuentros_poblacion_10000hab":"mean"})
 .legend(false)
 .active({"value": function(d){ return d["pob14_comuna"] > 10000; }, "spotlight":true})
+.messages({"branding":true})
 .draw()

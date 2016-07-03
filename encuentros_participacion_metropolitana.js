@@ -16,10 +16,10 @@ var visualization = d3plus.viz()
       return "Población de la comuna";
     }
     if (text === "encuentros_poblacion") {
-      return "Encuentros locales por cada 10,000 habitantes mayores de 14 años";
+      return "Encuentros locales por cada 10.000 habitantes";
     }
     if (text === "indice_participacion") {
-      return "% de participación en elecciones presidenciales";
+      return "% de participación en elecciones municipales";
     }
     else {
       return d3plus.string.title(text, params);
@@ -36,7 +36,9 @@ var visualization = d3plus.viz()
   },
   "locale": "es_ES"
 })
-.font({"family": "Lato"})
+.font({"family": "Roboto"})
 .title("Encuentros locales versus participación en elecciones en las comunas de la RM")
 .tooltip(["pob14_comuna","indice_participacion","encuentros_poblacion"])
+.aggs({"encuentros_poblacion":"mean"})
+.messages({"branding":true})
 .draw()

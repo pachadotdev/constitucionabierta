@@ -17,7 +17,7 @@ var visualization = d3plus.viz()
       return "Población";
     }
     if (text === "encuentros_poblacion_10000hab") {
-      return "Encuentros locales por cada 10,000 habitantes mayores de 14 años";
+      return "Encuentros locales por cada 10.000 habitantes";
     }
     if (text === "pcent_votos") {
       return "% de participación en elecciones presidenciales";
@@ -37,9 +37,11 @@ var visualization = d3plus.viz()
   },
   "locale": "es_ES"
 })
-.font({"family": "Lato"})
-.title("Encuentros locales versus participación en elecciones")
-.title({"sub": "Considerando comunas con más de 10.000 habitantes mayores de 14 años"})
+.font({"family": "Roboto"})
+.title("Encuentros locales versus participación en elecciones por comuna")
+.title({"sub":"Considerando comunas con población de más de 10.000 habitantes"})
 .tooltip(["pob14_comuna","pcent_votos","encuentros_poblacion_10000hab"])
+.aggs({"encuentros_poblacion_10000hab":"mean"})
 .legend(false)
+.messages({"branding":true})
 .draw()

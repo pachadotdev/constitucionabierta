@@ -14,8 +14,11 @@ var visualization = d3plus.viz()
     if (text === "pob14_comuna") {
       return "Población";
     }
+    if (text === "encuentros_poblacion") {
+      return "Encuentros locales";
+    }    
     if (text === "encuentros_poblacion_10000hab") {
-      return "Encuentros locales por cada 10,000 habitantes mayores de 14 años";
+      return "Encuentros locales por cada 10.000 habitantes";
     }
     if (text === "idh") {
       return "Índice de Desarrollo Humano"
@@ -26,12 +29,12 @@ var visualization = d3plus.viz()
   },
   "locale": "es_ES"
 })
-.font({"family": "Lato"})
-.title("Encuentros locales en comunas con más de 10.000 habitantes mayores de 14 años")
+.font({"family": "Roboto"})
 .title("Encuentros locales por región")
 .title({"sub": "Divisiones de acuerdo a la población por zona geográfica respecto del total del país"})
 .icon({"style": "knockout", "value": "image"})
-.tooltip(["pob14_comuna","encuentros_poblacion_10000hab"])
-.labels({"align": "left", "valign": "top"})
+.tooltip(["pob_region","encuentros_poblacion","encuentros_poblacion_10000hab"])
+.aggs({"encuentros_poblacion_10000hab":"mean"})
 .legend(false)
+.messages({"branding":true})
 .draw()

@@ -1,6 +1,6 @@
 var visualization = d3plus.viz()
 .container("#encuentros_vs_idh_regiones")
-.data("datos_10000hab.json")
+.data("datos_totales.json")
 .type("scatter")
 .width(false)
 .height(false)
@@ -17,7 +17,7 @@ var visualization = d3plus.viz()
       return "Población";
     }
     if (text === "encuentros_poblacion_10000hab") {
-      return "Encuentros locales por cada 10,000 habitantes mayores de 14 años";
+      return "Encuentros locales por cada 10.000 habitantes";
     }
     if (text === "idh") {
       return "Índice de Desarrollo Humano"
@@ -28,9 +28,10 @@ var visualization = d3plus.viz()
   },
   "locale": "es_ES"
 })
-.font({"family": "Lato"})
+.font({"family": "Roboto"})
 .title("Encuentros locales versus Índice de Desarrollo Humano por región")
-.title({"sub": "Considerando comunas con más de 10.000 habitantes mayores de 14 años"})
 .tooltip(["pob14_comuna","idh","encuentros_poblacion_10000hab"])
+.aggs({"idh":"mean","encuentros_poblacion_10000hab":"mean"})
 .legend(false)
+.messages({"branding":true})
 .draw()
