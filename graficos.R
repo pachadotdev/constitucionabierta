@@ -26,6 +26,7 @@ datos_10000hab$comuna = ifelse(datos_10000hab$comuna == "Aisén","Aisén ",as.ch
 datos_10000hab$comuna = ifelse(datos_10000hab$comuna == "Valparaíso","Valparaíso ",as.character(datos_10000hab$comuna))
 datos_10000hab$comuna = as.factor(datos_10000hab$comuna)
 datos_10000hab$region = as.factor(datos_10000hab$region)
+write.xlsx(datos_10000hab[1:20,],"20_comunas_mas_grandes.xlsx")
 
 datos_totales <- datos_finales[,c("region","comuna","pob14_comuna","encuentros_poblacion","encuentros_poblacion_10000hab","pcent_elas","pcent_votos","idh","color")]
 datos_totales$comuna = ifelse(datos_totales$comuna == "Maule","Maule ",as.character(datos_totales$comuna))
@@ -41,10 +42,11 @@ resumen_por_region = aggregate(. ~ region, resumen_por_region, sum)
 names(resumen_por_region)[names(resumen_por_region) == "pob14_comuna"] <- "pob_region"
 resumen_por_region$encuentros_poblacion_10000hab = 10000*resumen_por_region$encuentros_poblacion/resumen_por_region$pob_region
 resumen_por_region = join(resumen_por_region, unique(datos_finales[,c("region","color")]), by="region")
-
 write.xlsx(resumen_por_region,"resumen_por_region.xlsx")
 
-write.xlsx(datos_10000hab[1:20,],"20_comunas_mas_grandes.xlsx")
+cuenta_actas = readWorksheetFromFile("cuenta_actas.xlsx", sheet="Sheet1", region = "D1:F68")
+cuenta_actas$fecha = strptime(cuenta_actas$fecha, "%Y-%m-%d")
+cuenta_actas$name = "Cuenta de actas"
 
 #################
 
@@ -61,3 +63,6 @@ write(datos_totales_json, "datos_totales.json")
 
 resumen_por_region_json <- toJSON(resumen_por_region, pretty=TRUE)
 write(resumen_por_region_json, "resumen_por_region.json")
+
+cuenta_actas_json <- toJSON(cuenta_actas, pretty=TRUE)
+write(cuenta_actas_json, "cuenta_actas.json")
