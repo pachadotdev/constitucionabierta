@@ -6,9 +6,10 @@ var visualization = d3plus.viz()
 .height(false)
 .resize(true)
 .id(["name"])
-.x("fecha")
+.x({"value":"fecha","grid": false})
 .time("fecha")
 .y("cuenta")
+.color("color")
 .format({
   "text": function(text, params) {
     if (text === "fecha") {
