@@ -42,7 +42,7 @@ var visualization = d3plus.viz()
       "shortMonths": ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"]
     };
     var localeFormatter = d3.locale(myLocale);
-    var numberFormat = localeFormatter.numberFormat(",.2r");
+    var numberFormat = localeFormatter.numberFormat(",.3r");
     var formatted = d3plus.number.format(number, params);
       if (params.key === "cuenta_acumulada") {
         return numberFormat(number);

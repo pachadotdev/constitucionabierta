@@ -49,6 +49,9 @@ var visualization = d3plus.viz()
       if (params.key === "encuentros") {
         return numberFormat(number);
       }
+      if (params.key === "encuentros_10000hab") {
+        return numberFormat(number);
+      }
       if (params.key === "poblacion") {
         return numberFormat(number);
       }
@@ -63,10 +66,10 @@ var visualization = d3plus.viz()
 })
 .font({"family": "Roboto"})
 .title("Encuentros locales versus participación en elecciones municipales de la Región Metropolitana")
-.title({"sub":"Considerando comunas con población de más de 10.000 habitantes"})
+/*.title({"sub":"Considerando comunas con población de más de 10.000 habitantes"})*/
 .tooltip(["encuentros_10000hab"])
 .tooltip({"share": false})
 .legend(false)
 .messages({"branding":true})
-.aggs({"idh":"mean"})
+.aggs({"idh":"mean","encuentros_10000hab":"mean"})
 .draw();
