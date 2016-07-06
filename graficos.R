@@ -13,13 +13,13 @@ datos_finales <- read.csv("sintesis_datos_pacha.csv")
 
 datos_finales_metropolitana = readWorksheetFromFile("participacion_rm.xlsx", sheet = "Sheet1", region = "A1:D53")
 
-encuentros_participacion_metropolitana = subset(datos_finales_metropolitana, poblacion > 10000)
+#encuentros_participacion_metropolitana = subset(datos_finales_metropolitana, poblacion > 10000)
 encuentros_participacion_metropolitana$color = "#717290"
 
-datos_10000hab <- datos_finales[,c("region","comuna","poblacion","encuentros","pcent_elas","pcent_votos","idh","color")]
-datos_10000hab = subset(datos_10000hab, pob14_comuna > 10000)
-datos_10000hab = datos_10000hab[order(datos_10000hab$pob14_comuna,decreasing = TRUE),]
-datos_10000hab = datos_10000hab[order(datos_10000hab$encuentros_poblacion,decreasing = TRUE),]
+datos_10000hab <- datos_finales[,c("region","comuna","poblacion","encuentros","encuentros_10000hab","pcent_elas","pcent_votos","idh","color")]
+datos_10000hab = subset(datos_10000hab, poblacion > 10000)
+datos_10000hab = datos_10000hab[order(datos_10000hab$poblacion,decreasing = TRUE),]
+datos_10000hab = datos_10000hab[order(datos_10000hab$encuentros,decreasing = TRUE),]
 datos_10000hab$comuna = ifelse(datos_10000hab$comuna == "Maule","Maule ",as.character(datos_10000hab$comuna))
 datos_10000hab$comuna = ifelse(datos_10000hab$comuna == "Coquimbo","Coquimbo ",as.character(datos_10000hab$comuna))
 datos_10000hab$comuna = ifelse(datos_10000hab$comuna == "Antofagasta","Antofagasta ",as.character(datos_10000hab$comuna))
@@ -29,7 +29,7 @@ datos_10000hab$comuna = as.factor(datos_10000hab$comuna)
 datos_10000hab$region = as.factor(datos_10000hab$region)
 write.xlsx(datos_10000hab[1:20,],"20_comunas_mas_grandes.xlsx")
 
-datos_totales <- datos_finales[,c("region","comuna","poblacion","encuentros","pcent_elas","pcent_votos","idh","color")]
+datos_totales <- datos_finales[,c("region","comuna","poblacion","encuentros","encuentros_10000hab","pcent_elas","pcent_votos","idh","color")]
 datos_totales$comuna = ifelse(datos_totales$comuna == "Maule","Maule ",as.character(datos_totales$comuna))
 datos_totales$comuna = ifelse(datos_totales$comuna == "Coquimbo","Coquimbo ",as.character(datos_totales$comuna))
 datos_totales$comuna = ifelse(datos_totales$comuna == "Antofagasta","Antofagasta ",as.character(datos_totales$comuna))
