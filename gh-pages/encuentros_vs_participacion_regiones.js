@@ -1,49 +1,76 @@
 var visualization = d3plus.viz()
 .container("#encuentros_vs_participacion_regiones")
-.data("datos_totales.json")
+.data("datos_10000hab.json")
 .type("scatter")
 .width(false)
 .height(false)
 .resize(true)
 .id(["region","comuna"])
-.size("pob14_comuna")
-.x("encuentros_poblacion_10000hab")
+.size("poblacion")
+.x("encuentros")
 .y("pcent_votos")
 .color("color")
 .depth(0)
 .format({
   "text": function(text, params) {
-    if (text === "pob14_comuna") {
+    if (text === "poblacion") {
       return "Población";
     }
-    if (text === "encuentros_poblacion") {
+    if (text === "encuentros") {
       return "Encuentros locales";
     }    
-    if (text === "encuentros_poblacion_10000hab") {
-      return "Encuentros locales por cada 10,000 habitantes";
+    if (text === "encuentros_10000hab") {
+      return "Encuentros locales por cada 10.000 habitantes";
+    }
+    if (text === "idh") {
+      return "Índice de Desarrollo Humano";
     }
     if (text === "pcent_votos") {
-      return "% de participación en elecciones presidenciales";
+      return "Porcentaje de votos";
     }
     else {
       return d3plus.string.title(text, params);
     }
   },
   "number": function(number, params) {
+    var myLocale = {
+      "decimal": ",",
+      "thousands": ".",
+      "grouping": [3],
+      "currency": ["$", ""],
+      "dateTime": "%a %b %e %X %Y",
+      "date": "%m/%d/%Y",
+      "time": "%H:%M:%S",
+      "periods": ["AM", "PM"],
+      "days": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+      "shortDays": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+      "months": ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"],
+      "shortMonths": ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"]
+    };
+    var localeFormatter = d3.locale(myLocale);
+    var numberFormat = localeFormatter.numberFormat(",.2r");
     var formatted = d3plus.number.format(number, params);
-    if (params.key === "pcent_votos") {
-      return formatted + "%";
-    }
-    else {
-      return formatted;
-    }
+      if (params.key === "encuentros") {
+        return numberFormat(number);
+      }
+      if (params.key === "poblacion") {
+        return numberFormat(number);
+      }
+      if (params.key === "pcent_votos") {
+        return numberFormat(number) + "%";
+      }
+      else {
+        return formatted;
+      }
   },
   "locale": "es_ES"
 })
 .font({"family": "Roboto"})
-.title("Encuentros locales versus participación en elecciones por región")
-.tooltip(["pob14_comuna","pcent_votos","encuentros_poblacion_10000hab"])
-.aggs({"encuentros_poblacion_10000hab":"mean"})
+.title("Encuentros locales versus participación en elecciones presidenciales por regiones")
+.title({"sub":"Considerando comunas con población de más de 10.000 habitantes"})
+.tooltip(["encuentros"])
+.tooltip({"share": false})
 .legend(false)
 .messages({"branding":true})
-.draw()
+.aggs({"idh":"mean"})
+.draw();

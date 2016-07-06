@@ -1,27 +1,58 @@
 var visualization = d3plus.viz()
 .container("#cuenta_acumulada_encuentros")
-.data("cuenta_encuentros.json")
+.data("cuenta_actas.json")
 .type("line")
 .width(false)
 .height(false)
 .resize(true)
 .id(["name"])
-.x({"value":"fecha","grid": false})
+.x({"value":"fecha","grid":false})
 .time("fecha")
 .timeline(false)
 .y("cuenta_acumulada")
 .color("color")
 .format({
   "text": function(text, params) {
-    if (text === "fecha") {
-      return "Fecha";
+    if (text === "cuenta") {
+      return "Encuentros";
     }
     if (text === "cuenta_acumulada") {
-      return "Cuenta acumulada";
+      return "Encuentros a la fecha";
     }
+    if (text === "fecha") {
+      return "Fecha";
+    }    
     else {
       return d3plus.string.title(text, params);
     }
+  },
+  "number": function(number, params) {
+    var myLocale = {
+      "decimal": ",",
+      "thousands": ".",
+      "grouping": [3],
+      "currency": ["$", ""],
+      "dateTime": "%a %b %e %X %Y",
+      "date": "%m/%d/%Y",
+      "time": "%H:%M:%S",
+      "periods": ["AM", "PM"],
+      "days": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+      "shortDays": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+      "months": ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"],
+      "shortMonths": ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"]
+    };
+    var localeFormatter = d3.locale(myLocale);
+    var numberFormat = localeFormatter.numberFormat(",.2r");
+    var formatted = d3plus.number.format(number, params);
+      if (params.key === "cuenta_acumulada") {
+        return numberFormat(number);
+      }
+      if (params.key === "cuenta") {
+        return numberFormat(number);
+      }
+      else {
+        return formatted;
+      }
   },
   "locale": "es_ES"
 })
@@ -29,4 +60,4 @@ var visualization = d3plus.viz()
 .title("Encuentros locales a la fecha")
 .tooltip(["fecha","cuenta_acumulada"])
 .messages({"branding":true})
-.draw()
+.draw();
