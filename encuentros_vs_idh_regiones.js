@@ -6,32 +6,65 @@ var visualization = d3plus.viz()
 .height(false)
 .resize(true)
 .id(["region","comuna"])
-.size("pob14_comuna")
-.x("encuentros_poblacion_10000hab")
+.size("poblacion")
+.x("encuentros")
 .y("idh")
 .color("color")
 .depth(0)
 .format({
   "text": function(text, params) {
-    if (text === "pob14_comuna") {
+    if (text === "poblacion") {
       return "Población";
     }
-    if (text === "encuentros_poblacion_10000hab") {
+    if (text === "encuentros") {
+      return "Encuentros locales";
+    }    
+    if (text === "encuentros_10000hab") {
       return "Encuentros locales por cada 10.000 habitantes";
     }
     if (text === "idh") {
-      return "Índice de Desarrollo Humano"
+      return "Índice de Desarrollo Humano";
     }
     else {
       return d3plus.string.title(text, params);
     }
   },
+  "number": function(number, params) {
+    var myLocale = {
+      "decimal": ",",
+      "thousands": ".",
+      "grouping": [3],
+      "currency": ["$", ""],
+      "dateTime": "%a %b %e %X %Y",
+      "date": "%m/%d/%Y",
+      "time": "%H:%M:%S",
+      "periods": ["AM", "PM"],
+      "days": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+      "shortDays": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+      "months": ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"],
+      "shortMonths": ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"]
+    };
+    var localeFormatter = d3.locale(myLocale);
+    var numberFormat = localeFormatter.numberFormat(",.2r");
+    var formatted = d3plus.number.format(number, params);
+      if (params.key === "encuentros") {
+        return numberFormat(number);
+      }
+      if (params.key === "poblacion") {
+        return numberFormat(number);
+      }
+      else {
+        return formatted;
+      }
+  },
   "locale": "es_ES"
 })
 .font({"family": "Roboto"})
 .title("Encuentros locales versus Índice de Desarrollo Humano por región")
-.tooltip(["pob14_comuna","idh","encuentros_poblacion_10000hab"])
-.aggs({"idh":"mean","encuentros_poblacion_10000hab":"mean"})
+.title({"sub": "Divisiones de acuerdo a la población por zona geográfica respecto del total del país"})
+.tooltip(["encuentros"])
+.tooltip({"share": false})
 .legend(false)
 .messages({"branding":true})
-.draw()
+.aggs({"idh":"mean"})
+.draw();
