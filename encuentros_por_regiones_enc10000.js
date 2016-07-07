@@ -62,7 +62,7 @@ var visualization = d3plus.viz()
 .title({"sub": "Divisiones de acuerdo al número de encuentros por cada 10.000 habitantes por zona geográfica"})
 .tooltip(["encuentros"])
 .tooltip({"share": false})
-.labels({"align": "left", "valign": "top"})
+/*.labels({"align": "left", "valign": "top"})*/
 .legend(false)
 .messages({"branding":true})
 .aggs({"encuentros_10000hab":"mean"})

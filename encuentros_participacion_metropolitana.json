@@ -301,10 +301,31 @@
     "color": "#717290"
   },
   {
+    "comuna": "Alhué",
+    "poblacion": 3664,
+    "indice_participacion": 58.0513,
+    "encuentros_10000hab": 8.1878,
+    "color": "#717290"
+  },
+  {
     "comuna": "Curacaví",
     "poblacion": 23008,
     "indice_participacion": 47.0315,
     "encuentros_10000hab": 4.7809,
+    "color": "#717290"
+  },
+  {
+    "comuna": "María Pinto",
+    "poblacion": 9081,
+    "indice_participacion": 50.3138,
+    "encuentros_10000hab": 6.6072,
+    "color": "#717290"
+  },
+  {
+    "comuna": "San Pedro",
+    "poblacion": 6155,
+    "indice_participacion": 58.2453,
+    "encuentros_10000hab": 6.4988,
     "color": "#717290"
   },
   {

@@ -8,7 +8,8 @@
     "pcent_elas": 6.425,
     "pcent_votos": 1.735,
     "idh": 0.807,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 1
   },
   {
     "region": "Metropolitana",
@@ -19,7 +20,8 @@
     "pcent_elas": 4.368,
     "pcent_votos": 1.28,
     "idh": 0.911,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 2
   },
   {
     "region": "Metropolitana",
@@ -30,7 +32,8 @@
     "pcent_elas": 3.322,
     "pcent_votos": 1.621,
     "idh": 0.86,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 3
   },
   {
     "region": "Metropolitana",
@@ -41,7 +44,8 @@
     "pcent_elas": 3.149,
     "pcent_votos": 2.286,
     "idh": 0.933,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 4
   },
   {
     "region": "Metropolitana",
@@ -52,7 +56,8 @@
     "pcent_elas": 2.843,
     "pcent_votos": 1.932,
     "idh": 0.773,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 5
   },
   {
     "region": "Valparaíso",
@@ -63,7 +68,8 @@
     "pcent_elas": 2.31,
     "pcent_votos": 1.758,
     "idh": 0.701,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 6
   },
   {
     "region": "Metropolitana",
@@ -74,7 +80,8 @@
     "pcent_elas": 1.924,
     "pcent_votos": 2.184,
     "idh": 0.804,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 7
   },
   {
     "region": "Biobío",
@@ -85,7 +92,8 @@
     "pcent_elas": 1.898,
     "pcent_votos": 1.464,
     "idh": 0.757,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 8
   },
   {
     "region": "Araucanía",
@@ -96,7 +104,8 @@
     "pcent_elas": 1.891,
     "pcent_votos": 1.544,
     "idh": 0.763,
-    "color": "#FC835E"
+    "color": "#FC835E",
+    "pos": 9
   },
   {
     "region": "Metropolitana",
@@ -107,7 +116,8 @@
     "pcent_elas": 1.858,
     "pcent_votos": 0.968,
     "idh": 0.697,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 10
   },
   {
     "region": "Metropolitana",
@@ -118,7 +128,8 @@
     "pcent_elas": 1.824,
     "pcent_votos": 0.799,
     "idh": 0.883,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 11
   },
   {
     "region": "Antofagasta",
@@ -129,7 +140,8 @@
     "pcent_elas": 1.778,
     "pcent_votos": 1.32,
     "idh": 0.734,
-    "color": "#544076"
+    "color": "#544076",
+    "pos": 12
   },
   {
     "region": "Valparaíso",
@@ -140,7 +152,8 @@
     "pcent_elas": 1.611,
     "pcent_votos": 2.028,
     "idh": 0.766,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 13
   },
   {
     "region": "Tarapacá",
@@ -151,7 +164,8 @@
     "pcent_elas": 1.525,
     "pcent_votos": 0.821,
     "idh": 0.766,
-    "color": "#0054A4"
+    "color": "#0054A4",
+    "pos": 14
   },
   {
     "region": "Metropolitana",
@@ -162,7 +176,8 @@
     "pcent_elas": 1.471,
     "pcent_votos": 2.41,
     "idh": 0.902,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 15
   },
   {
     "region": "Coquimbo",
@@ -173,7 +188,8 @@
     "pcent_elas": 1.365,
     "pcent_votos": 1.072,
     "idh": 0.781,
-    "color": "#EE2B2A"
+    "color": "#EE2B2A",
+    "pos": 16
   },
   {
     "region": "Arica y Parinacota",
@@ -184,7 +200,8 @@
     "pcent_elas": 1.318,
     "pcent_votos": 0.942,
     "idh": 0.736,
-    "color": "#804A62"
+    "color": "#804A62",
+    "pos": 17
   },
   {
     "region": "Maule",
@@ -195,7 +212,8 @@
     "pcent_elas": 1.312,
     "pcent_votos": 1.321,
     "idh": 0.731,
-    "color": "#FEE67E"
+    "color": "#FEE67E",
+    "pos": 18
   },
   {
     "region": "Los Lagos",
@@ -206,7 +224,8 @@
     "pcent_elas": 1.285,
     "pcent_votos": 1.044,
     "idh": 0.718,
-    "color": "#DD7368"
+    "color": "#DD7368",
+    "pos": 19
   },
   {
     "region": "Los Ríos",
@@ -217,7 +236,8 @@
     "pcent_elas": 1.252,
     "pcent_votos": 0.927,
     "idh": 0.754,
-    "color": "#785E79"
+    "color": "#785E79",
+    "pos": 20
   },
   {
     "region": "Metropolitana",
@@ -228,7 +248,8 @@
     "pcent_elas": 1.232,
     "pcent_votos": 0.714,
     "idh": 0.723,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 21
   },
   {
     "region": "Metropolitana",
@@ -239,7 +260,8 @@
     "pcent_elas": 1.205,
     "pcent_votos": 1.325,
     "idh": 0.743,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 22
   },
   {
     "region": "Magallanes",
@@ -250,7 +272,8 @@
     "pcent_elas": 1.205,
     "pcent_votos": 0.698,
     "idh": 0.748,
-    "color": "#76809D"
+    "color": "#76809D",
+    "pos": 23
   },
   {
     "region": "Metropolitana",
@@ -261,7 +284,8 @@
     "pcent_elas": 1.192,
     "pcent_votos": 0.885,
     "idh": 0.949,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 24
   },
   {
     "region": "O'Higgins",
@@ -272,7 +296,8 @@
     "pcent_elas": 1.152,
     "pcent_votos": 1.326,
     "idh": 0.732,
-    "color": "#FBCA70"
+    "color": "#FBCA70",
+    "pos": 25
   },
   {
     "region": "Antofagasta",
@@ -283,7 +308,8 @@
     "pcent_elas": 1.105,
     "pcent_votos": 0.677,
     "idh": 0.757,
-    "color": "#544076"
+    "color": "#544076",
+    "pos": 26
   },
   {
     "region": "Biobío",
@@ -294,7 +320,8 @@
     "pcent_elas": 1.072,
     "pcent_votos": 1.116,
     "idh": 0.714,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 27
   },
   {
     "region": "Atacama",
@@ -305,7 +332,8 @@
     "pcent_elas": 1.012,
     "pcent_votos": 0.669,
     "idh": 0.725,
-    "color": "#A92C48"
+    "color": "#A92C48",
+    "pos": 28
   },
   {
     "region": "Los Lagos",
@@ -316,7 +344,8 @@
     "pcent_elas": 0.999,
     "pcent_votos": 0.992,
     "idh": 0.7,
-    "color": "#DD7368"
+    "color": "#DD7368",
+    "pos": 29
   },
   {
     "region": "Metropolitana",
@@ -327,7 +356,8 @@
     "pcent_elas": 0.999,
     "pcent_votos": 0.767,
     "idh": 0.708,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 30
   },
   {
     "region": "Metropolitana",
@@ -338,7 +368,8 @@
     "pcent_elas": 0.992,
     "pcent_votos": 0.792,
     "idh": 0.806,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 31
   },
   {
     "region": "Coquimbo",
@@ -349,7 +380,8 @@
     "pcent_elas": 0.859,
     "pcent_votos": 0.957,
     "idh": 0.731,
-    "color": "#EE2B2A"
+    "color": "#EE2B2A",
+    "pos": 32
   },
   {
     "region": "Maule",
@@ -360,7 +392,8 @@
     "pcent_elas": 0.859,
     "pcent_votos": 0.847,
     "idh": 0.71,
-    "color": "#FEE67E"
+    "color": "#FEE67E",
+    "pos": 33
   },
   {
     "region": "Metropolitana",
@@ -371,7 +404,8 @@
     "pcent_elas": 0.846,
     "pcent_votos": 0.703,
     "idh": 0.765,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 34
   },
   {
     "region": "Metropolitana",
@@ -382,7 +416,8 @@
     "pcent_elas": 0.772,
     "pcent_votos": 0.986,
     "idh": 0.711,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 35
   },
   {
     "region": "Metropolitana",
@@ -393,7 +428,8 @@
     "pcent_elas": 0.766,
     "pcent_votos": 0.685,
     "idh": 0.715,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 36
   },
   {
     "region": "Aisén",
@@ -403,7 +439,8 @@
     "encuentros_10000hab": 26.265,
     "pcent_elas": 0.766,
     "pcent_votos": 0.311,
-    "color": "#A97A82"
+    "color": "#A97A82",
+    "pos": 37
   },
   {
     "region": "Valparaíso",
@@ -414,7 +451,8 @@
     "pcent_elas": 0.712,
     "pcent_votos": 0.857,
     "idh": 0.752,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 38
   },
   {
     "region": "Metropolitana",
@@ -425,7 +463,8 @@
     "pcent_elas": 0.692,
     "pcent_votos": 1.347,
     "idh": 0.712,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 39
   },
   {
     "region": "Metropolitana",
@@ -436,7 +475,8 @@
     "pcent_elas": 0.672,
     "pcent_votos": 0.889,
     "idh": 0.735,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 40
   },
   {
     "region": "Metropolitana",
@@ -447,7 +487,8 @@
     "pcent_elas": 0.659,
     "pcent_votos": 0.618,
     "idh": 0.912,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 41
   },
   {
     "region": "Biobío",
@@ -458,7 +499,8 @@
     "pcent_elas": 0.653,
     "pcent_votos": 1.069,
     "idh": 0.696,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 42
   },
   {
     "region": "Metropolitana",
@@ -469,7 +511,8 @@
     "pcent_elas": 0.639,
     "pcent_votos": 0.884,
     "idh": 0.707,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 43
   },
   {
     "region": "Metropolitana",
@@ -480,7 +523,8 @@
     "pcent_elas": 0.639,
     "pcent_votos": 0.527,
     "idh": 0.709,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 44
   },
   {
     "region": "Valparaíso",
@@ -491,7 +535,8 @@
     "pcent_elas": 0.606,
     "pcent_votos": 0.386,
     "idh": 0.756,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 45
   },
   {
     "region": "Maule",
@@ -502,7 +547,8 @@
     "pcent_elas": 0.533,
     "pcent_votos": 0.606,
     "idh": 0.71,
-    "color": "#FEE67E"
+    "color": "#FEE67E",
+    "pos": 46
   },
   {
     "region": "Valparaíso",
@@ -513,7 +559,8 @@
     "pcent_elas": 0.479,
     "pcent_votos": 0.499,
     "idh": 0.726,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 47
   },
   {
     "region": "Valparaíso",
@@ -524,7 +571,8 @@
     "pcent_elas": 0.473,
     "pcent_votos": 0.413,
     "idh": 0.73,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 48
   },
   {
     "region": "Metropolitana",
@@ -535,7 +583,8 @@
     "pcent_elas": 0.459,
     "pcent_votos": 0.765,
     "idh": 0.782,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 49
   },
   {
     "region": "Metropolitana",
@@ -546,7 +595,8 @@
     "pcent_elas": 0.446,
     "pcent_votos": 0.771,
     "idh": 0.679,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 50
   },
   {
     "region": "Valparaíso",
@@ -557,7 +607,8 @@
     "pcent_elas": 0.446,
     "pcent_votos": 0.574,
     "idh": 0.697,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 51
   },
   {
     "region": "Metropolitana",
@@ -568,7 +619,8 @@
     "pcent_elas": 0.446,
     "pcent_votos": 0.626,
     "idh": 0.719,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 52
   },
   {
     "region": "Metropolitana",
@@ -579,7 +631,8 @@
     "pcent_elas": 0.433,
     "pcent_votos": 1.055,
     "idh": 0.735,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 53
   },
   {
     "region": "Valparaíso",
@@ -590,7 +643,8 @@
     "pcent_elas": 0.433,
     "pcent_votos": 0.607,
     "idh": 0.755,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 54
   },
   {
     "region": "Metropolitana",
@@ -601,7 +655,8 @@
     "pcent_elas": 0.433,
     "pcent_votos": 0.618,
     "idh": 0.775,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 55
   },
   {
     "region": "O'Higgins",
@@ -612,7 +667,8 @@
     "pcent_elas": 0.433,
     "pcent_votos": 0.454,
     "idh": 0.725,
-    "color": "#FBCA70"
+    "color": "#FBCA70",
+    "pos": 56
   },
   {
     "region": "Metropolitana",
@@ -623,7 +679,8 @@
     "pcent_elas": 0.426,
     "pcent_votos": 0.509,
     "idh": 0.726,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 57
   },
   {
     "region": "Metropolitana",
@@ -634,7 +691,8 @@
     "pcent_elas": 0.419,
     "pcent_votos": 0.496,
     "idh": 0.737,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 58
   },
   {
     "region": "Metropolitana",
@@ -645,7 +703,8 @@
     "pcent_elas": 0.406,
     "pcent_votos": 0.66,
     "idh": 0.657,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 59
   },
   {
     "region": "Coquimbo",
@@ -656,7 +715,8 @@
     "pcent_elas": 0.386,
     "pcent_votos": 0.61,
     "idh": 0.725,
-    "color": "#EE2B2A"
+    "color": "#EE2B2A",
+    "pos": 60
   },
   {
     "region": "Maule",
@@ -667,7 +727,8 @@
     "pcent_elas": 0.386,
     "pcent_votos": 0.309,
     "idh": 0.656,
-    "color": "#FEE67E"
+    "color": "#FEE67E",
+    "pos": 61
   },
   {
     "region": "Metropolitana",
@@ -678,7 +739,8 @@
     "pcent_elas": 0.38,
     "pcent_votos": 0.478,
     "idh": 0.743,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 62
   },
   {
     "region": "Maule",
@@ -689,7 +751,8 @@
     "pcent_elas": 0.366,
     "pcent_votos": 0.302,
     "idh": 0.654,
-    "color": "#FEE67E"
+    "color": "#FEE67E",
+    "pos": 63
   },
   {
     "region": "Biobío",
@@ -700,7 +763,8 @@
     "pcent_elas": 0.36,
     "pcent_votos": 0.899,
     "idh": 0.731,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 64
   },
   {
     "region": "Araucanía",
@@ -711,7 +775,8 @@
     "pcent_elas": 0.36,
     "pcent_votos": 0.345,
     "idh": 0.707,
-    "color": "#FC835E"
+    "color": "#FC835E",
+    "pos": 65
   },
   {
     "region": "Metropolitana",
@@ -722,7 +787,8 @@
     "pcent_elas": 0.34,
     "pcent_votos": 0.674,
     "idh": 0.735,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 66
   },
   {
     "region": "Metropolitana",
@@ -733,7 +799,8 @@
     "pcent_elas": 0.333,
     "pcent_votos": 0.697,
     "idh": 0.689,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 67
   },
   {
     "region": "Metropolitana",
@@ -744,7 +811,8 @@
     "pcent_elas": 0.326,
     "pcent_votos": 0.624,
     "idh": 0.679,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 68
   },
   {
     "region": "Metropolitana",
@@ -755,7 +823,8 @@
     "pcent_elas": 0.32,
     "pcent_votos": 0.83,
     "idh": 0.683,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 69
   },
   {
     "region": "Valparaíso",
@@ -766,7 +835,8 @@
     "pcent_elas": 0.32,
     "pcent_votos": 0.276,
     "idh": 0.781,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 70
   },
   {
     "region": "Metropolitana",
@@ -777,7 +847,8 @@
     "pcent_elas": 0.313,
     "pcent_votos": 0.749,
     "idh": 0.709,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 71
   },
   {
     "region": "Biobío",
@@ -788,7 +859,8 @@
     "pcent_elas": 0.306,
     "pcent_votos": 0.618,
     "idh": 0.682,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 72
   },
   {
     "region": "Biobío",
@@ -798,7 +870,8 @@
     "encuentros_10000hab": 6.611,
     "pcent_elas": 0.306,
     "pcent_votos": 0.58,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 73
   },
   {
     "region": "Metropolitana",
@@ -809,7 +882,8 @@
     "pcent_elas": 0.306,
     "pcent_votos": 0.48,
     "idh": 0.753,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 74
   },
   {
     "region": "O'Higgins",
@@ -820,7 +894,8 @@
     "pcent_elas": 0.306,
     "pcent_votos": 0.227,
     "idh": 0.73,
-    "color": "#FBCA70"
+    "color": "#FBCA70",
+    "pos": 75
   },
   {
     "region": "Biobío",
@@ -831,7 +906,8 @@
     "pcent_elas": 0.3,
     "pcent_votos": 0.464,
     "idh": 0.764,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 76
   },
   {
     "region": "Biobío",
@@ -842,7 +918,8 @@
     "pcent_elas": 0.3,
     "pcent_votos": 0.559,
     "idh": 0.787,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 77
   },
   {
     "region": "Atacama",
@@ -853,7 +930,8 @@
     "pcent_elas": 0.28,
     "pcent_votos": 0.292,
     "idh": 0.731,
-    "color": "#A92C48"
+    "color": "#A92C48",
+    "pos": 78
   },
   {
     "region": "Los Ríos",
@@ -864,7 +942,8 @@
     "pcent_elas": 0.28,
     "pcent_votos": 0.255,
     "idh": 0.687,
-    "color": "#785E79"
+    "color": "#785E79",
+    "pos": 79
   },
   {
     "region": "Aisén",
@@ -874,7 +953,8 @@
     "encuentros_10000hab": 18.642,
     "pcent_elas": 0.253,
     "pcent_votos": 0.132,
-    "color": "#A97A82"
+    "color": "#A97A82",
+    "pos": 80
   },
   {
     "region": "Los Lagos",
@@ -885,7 +965,8 @@
     "pcent_elas": 0.246,
     "pcent_votos": 0.272,
     "idh": 0.748,
-    "color": "#DD7368"
+    "color": "#DD7368",
+    "pos": 81
   },
   {
     "region": "Los Ríos",
@@ -896,7 +977,8 @@
     "pcent_elas": 0.246,
     "pcent_votos": 0.15,
     "idh": 0.647,
-    "color": "#785E79"
+    "color": "#785E79",
+    "pos": 82
   },
   {
     "region": "Los Lagos",
@@ -907,7 +989,8 @@
     "pcent_elas": 0.24,
     "pcent_votos": 0.239,
     "idh": 0.72,
-    "color": "#DD7368"
+    "color": "#DD7368",
+    "pos": 83
   },
   {
     "region": "Coquimbo",
@@ -918,7 +1001,8 @@
     "pcent_elas": 0.226,
     "pcent_votos": 0.196,
     "idh": 0.667,
-    "color": "#EE2B2A"
+    "color": "#EE2B2A",
+    "pos": 84
   },
   {
     "region": "Coquimbo",
@@ -929,7 +1013,8 @@
     "pcent_elas": 0.22,
     "pcent_votos": 0.128,
     "idh": 0.675,
-    "color": "#EE2B2A"
+    "color": "#EE2B2A",
+    "pos": 85
   },
   {
     "region": "Metropolitana",
@@ -940,7 +1025,8 @@
     "pcent_elas": 0.213,
     "pcent_votos": 0.43,
     "idh": 0.749,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 86
   },
   {
     "region": "Araucanía",
@@ -951,7 +1037,8 @@
     "pcent_elas": 0.206,
     "pcent_votos": 0.355,
     "idh": 0.662,
-    "color": "#FC835E"
+    "color": "#FC835E",
+    "pos": 87
   },
   {
     "region": "Araucanía",
@@ -962,7 +1049,8 @@
     "pcent_elas": 0.206,
     "pcent_votos": 0.319,
     "idh": 0.698,
-    "color": "#FC835E"
+    "color": "#FC835E",
+    "pos": 88
   },
   {
     "region": "Coquimbo",
@@ -973,7 +1061,8 @@
     "pcent_elas": 0.206,
     "pcent_votos": 0.158,
     "idh": 0.676,
-    "color": "#EE2B2A"
+    "color": "#EE2B2A",
+    "pos": 89
   },
   {
     "region": "Tarapacá",
@@ -983,7 +1072,8 @@
     "encuentros_10000hab": 4.766,
     "pcent_elas": 0.2,
     "pcent_votos": 0.201,
-    "color": "#0054A4"
+    "color": "#0054A4",
+    "pos": 90
   },
   {
     "region": "Valparaíso",
@@ -994,7 +1084,8 @@
     "pcent_elas": 0.2,
     "pcent_votos": 0.26,
     "idh": 0.722,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 91
   },
   {
     "region": "Valparaíso",
@@ -1005,7 +1096,8 @@
     "pcent_elas": 0.2,
     "pcent_votos": 0.235,
     "idh": 0.708,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 92
   },
   {
     "region": "Metropolitana",
@@ -1016,7 +1108,8 @@
     "pcent_elas": 0.193,
     "pcent_votos": 0.304,
     "idh": 0.697,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 93
   },
   {
     "region": "Metropolitana",
@@ -1027,7 +1120,8 @@
     "pcent_elas": 0.186,
     "pcent_votos": 0.466,
     "idh": 0.731,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 94
   },
   {
     "region": "Valparaíso",
@@ -1038,7 +1132,8 @@
     "pcent_elas": 0.186,
     "pcent_votos": 0.327,
     "idh": 0.7,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 95
   },
   {
     "region": "O'Higgins",
@@ -1049,7 +1144,8 @@
     "pcent_elas": 0.186,
     "pcent_votos": 0.229,
     "idh": 0.719,
-    "color": "#FBCA70"
+    "color": "#FBCA70",
+    "pos": 96
   },
   {
     "region": "Biobío",
@@ -1060,7 +1156,8 @@
     "pcent_elas": 0.186,
     "pcent_votos": 0.207,
     "idh": 0.641,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 97
   },
   {
     "region": "Maule",
@@ -1071,7 +1168,8 @@
     "pcent_elas": 0.186,
     "pcent_votos": 0.151,
     "idh": 0.681,
-    "color": "#FEE67E"
+    "color": "#FEE67E",
+    "pos": 98
   },
   {
     "region": "Araucanía",
@@ -1082,7 +1180,8 @@
     "pcent_elas": 0.173,
     "pcent_votos": 0.236,
     "idh": 0.669,
-    "color": "#FC835E"
+    "color": "#FC835E",
+    "pos": 99
   },
   {
     "region": "Coquimbo",
@@ -1093,7 +1192,8 @@
     "pcent_elas": 0.173,
     "pcent_votos": 0.201,
     "idh": 0.653,
-    "color": "#EE2B2A"
+    "color": "#EE2B2A",
+    "pos": 100
   },
   {
     "region": "Metropolitana",
@@ -1104,7 +1204,8 @@
     "pcent_elas": 0.173,
     "pcent_votos": 0.118,
     "idh": 0.759,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 101
   },
   {
     "region": "Biobío",
@@ -1115,7 +1216,8 @@
     "pcent_elas": 0.166,
     "pcent_votos": 0.369,
     "idh": 0.653,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 102
   },
   {
     "region": "O'Higgins",
@@ -1126,7 +1228,8 @@
     "pcent_elas": 0.16,
     "pcent_votos": 0.366,
     "idh": 0.68,
-    "color": "#FBCA70"
+    "color": "#FBCA70",
+    "pos": 103
   },
   {
     "region": "Los Ríos",
@@ -1137,7 +1240,8 @@
     "pcent_elas": 0.16,
     "pcent_votos": 0.222,
     "idh": 0.624,
-    "color": "#785E79"
+    "color": "#785E79",
+    "pos": 104
   },
   {
     "region": "O'Higgins",
@@ -1148,7 +1252,8 @@
     "pcent_elas": 0.16,
     "pcent_votos": 0.206,
     "idh": 0.691,
-    "color": "#FBCA70"
+    "color": "#FBCA70",
+    "pos": 105
   },
   {
     "region": "Biobío",
@@ -1159,7 +1264,8 @@
     "pcent_elas": 0.16,
     "pcent_votos": 0.222,
     "idh": 0.643,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 106
   },
   {
     "region": "Metropolitana",
@@ -1170,7 +1276,8 @@
     "pcent_elas": 0.16,
     "pcent_votos": 0.153,
     "idh": 0.807,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 107
   },
   {
     "region": "Los Lagos",
@@ -1181,7 +1288,8 @@
     "pcent_elas": 0.16,
     "pcent_votos": 0.127,
     "idh": 0.669,
-    "color": "#DD7368"
+    "color": "#DD7368",
+    "pos": 108
   },
   {
     "region": "Los Lagos",
@@ -1192,7 +1300,8 @@
     "pcent_elas": 0.153,
     "pcent_votos": 0.159,
     "idh": 0.627,
-    "color": "#DD7368"
+    "color": "#DD7368",
+    "pos": 109
   },
   {
     "region": "Biobío",
@@ -1203,7 +1312,8 @@
     "pcent_elas": 0.146,
     "pcent_votos": 0.379,
     "idh": 0.668,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 110
   },
   {
     "region": "O'Higgins",
@@ -1213,7 +1323,8 @@
     "encuentros_10000hab": 6.008,
     "pcent_elas": 0.146,
     "pcent_votos": 0.302,
-    "color": "#FBCA70"
+    "color": "#FBCA70",
+    "pos": 111
   },
   {
     "region": "Maule",
@@ -1224,7 +1335,8 @@
     "pcent_elas": 0.146,
     "pcent_votos": 0.112,
     "idh": 0.668,
-    "color": "#FEE67E"
+    "color": "#FEE67E",
+    "pos": 112
   },
   {
     "region": "Maule",
@@ -1235,7 +1347,8 @@
     "pcent_elas": 0.14,
     "pcent_votos": 0.283,
     "idh": 0.659,
-    "color": "#FEE67E"
+    "color": "#FEE67E",
+    "pos": 113
   },
   {
     "region": "O'Higgins",
@@ -1246,7 +1359,8 @@
     "pcent_elas": 0.14,
     "pcent_votos": 0.104,
     "idh": 0.677,
-    "color": "#FBCA70"
+    "color": "#FBCA70",
+    "pos": 114
   },
   {
     "region": "Maule",
@@ -1257,7 +1371,8 @@
     "pcent_elas": 0.133,
     "pcent_votos": 0.322,
     "idh": 0.663,
-    "color": "#FEE67E"
+    "color": "#FEE67E",
+    "pos": 115
   },
   {
     "region": "Maule",
@@ -1268,7 +1383,8 @@
     "pcent_elas": 0.133,
     "pcent_votos": 0.307,
     "idh": 0.656,
-    "color": "#FEE67E"
+    "color": "#FEE67E",
+    "pos": 116
   },
   {
     "region": "Los Lagos",
@@ -1279,7 +1395,8 @@
     "pcent_elas": 0.133,
     "pcent_votos": 0.127,
     "idh": 0.67,
-    "color": "#DD7368"
+    "color": "#DD7368",
+    "pos": 117
   },
   {
     "region": "Biobío",
@@ -1290,7 +1407,8 @@
     "pcent_elas": 0.133,
     "pcent_votos": 0.174,
     "idh": 0.639,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 118
   },
   {
     "region": "Magallanes",
@@ -1301,7 +1419,8 @@
     "pcent_elas": 0.133,
     "pcent_votos": 0.119,
     "idh": 0.699,
-    "color": "#76809D"
+    "color": "#76809D",
+    "pos": 119
   },
   {
     "region": "Metropolitana",
@@ -1312,7 +1431,8 @@
     "pcent_elas": 0.127,
     "pcent_votos": 0.363,
     "idh": 0.718,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 120
   },
   {
     "region": "Araucanía",
@@ -1323,7 +1443,8 @@
     "pcent_elas": 0.127,
     "pcent_votos": 0.232,
     "idh": 0.629,
-    "color": "#FC835E"
+    "color": "#FC835E",
+    "pos": 121
   },
   {
     "region": "Metropolitana",
@@ -1334,7 +1455,8 @@
     "pcent_elas": 0.127,
     "pcent_votos": 0.193,
     "idh": 0.724,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 122
   },
   {
     "region": "O'Higgins",
@@ -1345,7 +1467,8 @@
     "pcent_elas": 0.127,
     "pcent_votos": 0.176,
     "idh": 0.668,
-    "color": "#FBCA70"
+    "color": "#FBCA70",
+    "pos": 123
   },
   {
     "region": "Valparaíso",
@@ -1356,7 +1479,8 @@
     "pcent_elas": 0.127,
     "pcent_votos": 0.136,
     "idh": 0.708,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 124
   },
   {
     "region": "O'Higgins",
@@ -1367,7 +1491,8 @@
     "pcent_elas": 0.127,
     "pcent_votos": 0.138,
     "idh": 0.685,
-    "color": "#FBCA70"
+    "color": "#FBCA70",
+    "pos": 125
   },
   {
     "region": "Los Lagos",
@@ -1378,7 +1503,8 @@
     "pcent_elas": 0.12,
     "pcent_votos": 0.245,
     "idh": 0.705,
-    "color": "#DD7368"
+    "color": "#DD7368",
+    "pos": 126
   },
   {
     "region": "O'Higgins",
@@ -1389,7 +1515,8 @@
     "pcent_elas": 0.12,
     "pcent_votos": 0.224,
     "idh": 0.674,
-    "color": "#FBCA70"
+    "color": "#FBCA70",
+    "pos": 127
   },
   {
     "region": "Araucanía",
@@ -1400,7 +1527,8 @@
     "pcent_elas": 0.12,
     "pcent_votos": 0.231,
     "idh": 0.686,
-    "color": "#FC835E"
+    "color": "#FC835E",
+    "pos": 128
   },
   {
     "region": "Araucanía",
@@ -1411,7 +1539,8 @@
     "pcent_elas": 0.12,
     "pcent_votos": 0.14,
     "idh": 0.767,
-    "color": "#FC835E"
+    "color": "#FC835E",
+    "pos": 129
   },
   {
     "region": "Biobío",
@@ -1422,7 +1551,8 @@
     "pcent_elas": 0.12,
     "pcent_votos": 0.161,
     "idh": 0.633,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 130
   },
   {
     "region": "Los Ríos",
@@ -1433,7 +1563,8 @@
     "pcent_elas": 0.113,
     "pcent_votos": 0.134,
     "idh": 0.658,
-    "color": "#785E79"
+    "color": "#785E79",
+    "pos": 131
   },
   {
     "region": "Valparaíso",
@@ -1444,7 +1575,8 @@
     "pcent_elas": 0.113,
     "pcent_votos": 0.112,
     "idh": 0.701,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 132
   },
   {
     "region": "Metropolitana",
@@ -1454,7 +1586,8 @@
     "encuentros_10000hab": 13.985,
     "pcent_elas": 0.113,
     "pcent_votos": 0.101,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 133
   },
   {
     "region": "Atacama",
@@ -1465,7 +1598,8 @@
     "pcent_elas": 0.113,
     "pcent_votos": 0.077,
     "idh": 0.686,
-    "color": "#A92C48"
+    "color": "#A92C48",
+    "pos": 134
   },
   {
     "region": "Maule",
@@ -1476,7 +1610,8 @@
     "pcent_elas": 0.107,
     "pcent_votos": 0.302,
     "idh": 0.715,
-    "color": "#FEE67E"
+    "color": "#FEE67E",
+    "pos": 135
   },
   {
     "region": "Biobío",
@@ -1487,7 +1622,8 @@
     "pcent_elas": 0.107,
     "pcent_votos": 0.237,
     "idh": 0.704,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 136
   },
   {
     "region": "O'Higgins",
@@ -1498,7 +1634,8 @@
     "pcent_elas": 0.107,
     "pcent_votos": 0.152,
     "idh": 0.661,
-    "color": "#FBCA70"
+    "color": "#FBCA70",
+    "pos": 137
   },
   {
     "region": "Araucanía",
@@ -1509,7 +1646,8 @@
     "pcent_elas": 0.107,
     "pcent_votos": 0.159,
     "idh": 0.652,
-    "color": "#FC835E"
+    "color": "#FC835E",
+    "pos": 138
   },
   {
     "region": "Biobío",
@@ -1520,7 +1658,8 @@
     "pcent_elas": 0.107,
     "pcent_votos": 0.17,
     "idh": 0.626,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 139
   },
   {
     "region": "Tarapacá",
@@ -1531,7 +1670,8 @@
     "pcent_elas": 0.107,
     "pcent_votos": 0.054,
     "idh": 0.722,
-    "color": "#0054A4"
+    "color": "#0054A4",
+    "pos": 140
   },
   {
     "region": "O'Higgins",
@@ -1542,7 +1682,8 @@
     "pcent_elas": 0.107,
     "pcent_votos": 0.121,
     "idh": 0.665,
-    "color": "#FBCA70"
+    "color": "#FBCA70",
+    "pos": 141
   },
   {
     "region": "Metropolitana",
@@ -1553,7 +1694,8 @@
     "pcent_elas": 0.1,
     "pcent_votos": 0.274,
     "idh": 0.728,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 142
   },
   {
     "region": "Biobío",
@@ -1564,7 +1706,8 @@
     "pcent_elas": 0.1,
     "pcent_votos": 0.387,
     "idh": 0.643,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 143
   },
   {
     "region": "Biobío",
@@ -1575,7 +1718,8 @@
     "pcent_elas": 0.1,
     "pcent_votos": 0.2,
     "idh": 0.639,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 144
   },
   {
     "region": "Araucanía",
@@ -1586,7 +1730,8 @@
     "pcent_elas": 0.1,
     "pcent_votos": 0.169,
     "idh": 0.643,
-    "color": "#FC835E"
+    "color": "#FC835E",
+    "pos": 145
   },
   {
     "region": "Araucanía",
@@ -1597,7 +1742,8 @@
     "pcent_elas": 0.1,
     "pcent_votos": 0.168,
     "idh": 0.633,
-    "color": "#FC835E"
+    "color": "#FC835E",
+    "pos": 146
   },
   {
     "region": "Valparaíso",
@@ -1608,7 +1754,8 @@
     "pcent_elas": 0.1,
     "pcent_votos": 0.139,
     "idh": 0.671,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 147
   },
   {
     "region": "Araucanía",
@@ -1619,7 +1766,8 @@
     "pcent_elas": 0.1,
     "pcent_votos": 0.125,
     "idh": 0.657,
-    "color": "#FC835E"
+    "color": "#FC835E",
+    "pos": 148
   },
   {
     "region": "Valparaíso",
@@ -1630,7 +1778,8 @@
     "pcent_elas": 0.1,
     "pcent_votos": 0.094,
     "idh": 0.722,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 149
   },
   {
     "region": "Valparaíso",
@@ -1641,7 +1790,8 @@
     "pcent_elas": 0.093,
     "pcent_votos": 0.164,
     "idh": 0.712,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 150
   },
   {
     "region": "Maule",
@@ -1652,7 +1802,8 @@
     "pcent_elas": 0.093,
     "pcent_votos": 0.175,
     "idh": 0.648,
-    "color": "#FEE67E"
+    "color": "#FEE67E",
+    "pos": 151
   },
   {
     "region": "O'Higgins",
@@ -1663,7 +1814,8 @@
     "pcent_elas": 0.093,
     "pcent_votos": 0.156,
     "idh": 0.691,
-    "color": "#FBCA70"
+    "color": "#FBCA70",
+    "pos": 152
   },
   {
     "region": "Tarapacá",
@@ -1674,7 +1826,8 @@
     "pcent_elas": 0.093,
     "pcent_votos": 0.029,
     "idh": 0.793,
-    "color": "#0054A4"
+    "color": "#0054A4",
+    "pos": 153
   },
   {
     "region": "Araucanía",
@@ -1685,7 +1838,8 @@
     "pcent_elas": 0.093,
     "pcent_votos": 0.148,
     "idh": 0.657,
-    "color": "#FC835E"
+    "color": "#FC835E",
+    "pos": 154
   },
   {
     "region": "Araucanía",
@@ -1696,7 +1850,8 @@
     "pcent_elas": 0.093,
     "pcent_votos": 0.118,
     "idh": 0.644,
-    "color": "#FC835E"
+    "color": "#FC835E",
+    "pos": 155
   },
   {
     "region": "Metropolitana",
@@ -1707,7 +1862,8 @@
     "pcent_elas": 0.087,
     "pcent_votos": 0.209,
     "idh": 0.688,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 156
   },
   {
     "region": "Biobío",
@@ -1718,7 +1874,8 @@
     "pcent_elas": 0.087,
     "pcent_votos": 0.167,
     "idh": 0.732,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 157
   },
   {
     "region": "Coquimbo",
@@ -1729,7 +1886,8 @@
     "pcent_elas": 0.087,
     "pcent_votos": 0.166,
     "idh": 0.716,
-    "color": "#EE2B2A"
+    "color": "#EE2B2A",
+    "pos": 158
   },
   {
     "region": "Valparaíso",
@@ -1740,7 +1898,8 @@
     "pcent_elas": 0.087,
     "pcent_votos": 0.161,
     "idh": 0.733,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 159
   },
   {
     "region": "Antofagasta",
@@ -1751,7 +1910,8 @@
     "pcent_elas": 0.087,
     "pcent_votos": 0.128,
     "idh": 0.69,
-    "color": "#544076"
+    "color": "#544076",
+    "pos": 160
   },
   {
     "region": "Los Lagos",
@@ -1762,7 +1922,8 @@
     "pcent_elas": 0.087,
     "pcent_votos": 0.103,
     "idh": 0.691,
-    "color": "#DD7368"
+    "color": "#DD7368",
+    "pos": 161
   },
   {
     "region": "Metropolitana",
@@ -1773,7 +1934,8 @@
     "pcent_elas": 0.08,
     "pcent_votos": 0.193,
     "idh": 0.71,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 162
   },
   {
     "region": "Maule",
@@ -1784,7 +1946,8 @@
     "pcent_elas": 0.08,
     "pcent_votos": 0.211,
     "idh": 0.626,
-    "color": "#FEE67E"
+    "color": "#FEE67E",
+    "pos": 163
   },
   {
     "region": "Araucanía",
@@ -1795,7 +1958,8 @@
     "pcent_elas": 0.08,
     "pcent_votos": 0.184,
     "idh": 0.604,
-    "color": "#FC835E"
+    "color": "#FC835E",
+    "pos": 164
   },
   {
     "region": "Biobío",
@@ -1806,7 +1970,8 @@
     "pcent_elas": 0.08,
     "pcent_votos": 0.118,
     "idh": 0.669,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 165
   },
   {
     "region": "Los Lagos",
@@ -1817,7 +1982,8 @@
     "pcent_elas": 0.08,
     "pcent_votos": 0.127,
     "idh": 0.695,
-    "color": "#DD7368"
+    "color": "#DD7368",
+    "pos": 166
   },
   {
     "region": "Atacama",
@@ -1828,7 +1994,8 @@
     "pcent_elas": 0.08,
     "pcent_votos": 0.092,
     "idh": 0.741,
-    "color": "#A92C48"
+    "color": "#A92C48",
+    "pos": 167
   },
   {
     "region": "Los Lagos",
@@ -1839,7 +2006,8 @@
     "pcent_elas": 0.073,
     "pcent_votos": 0.18,
     "idh": 0.642,
-    "color": "#DD7368"
+    "color": "#DD7368",
+    "pos": 168
   },
   {
     "region": "Araucanía",
@@ -1850,7 +2018,8 @@
     "pcent_elas": 0.073,
     "pcent_votos": 0.128,
     "idh": 0.659,
-    "color": "#FC835E"
+    "color": "#FC835E",
+    "pos": 169
   },
   {
     "region": "Maule",
@@ -1861,7 +2030,8 @@
     "pcent_elas": 0.073,
     "pcent_votos": 0.136,
     "idh": 0.638,
-    "color": "#FEE67E"
+    "color": "#FEE67E",
+    "pos": 170
   },
   {
     "region": "Araucanía",
@@ -1872,7 +2042,8 @@
     "pcent_elas": 0.073,
     "pcent_votos": 0.117,
     "idh": 0.607,
-    "color": "#FC835E"
+    "color": "#FC835E",
+    "pos": 171
   },
   {
     "region": "Los Lagos",
@@ -1883,7 +2054,8 @@
     "pcent_elas": 0.073,
     "pcent_votos": 0.111,
     "idh": 0.633,
-    "color": "#DD7368"
+    "color": "#DD7368",
+    "pos": 172
   },
   {
     "region": "Biobío",
@@ -1894,7 +2066,8 @@
     "pcent_elas": 0.067,
     "pcent_votos": 0.347,
     "idh": 0.689,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 173
   },
   {
     "region": "Los Ríos",
@@ -1905,7 +2078,8 @@
     "pcent_elas": 0.067,
     "pcent_votos": 0.223,
     "idh": 0.627,
-    "color": "#785E79"
+    "color": "#785E79",
+    "pos": 174
   },
   {
     "region": "Araucanía",
@@ -1916,7 +2090,8 @@
     "pcent_elas": 0.067,
     "pcent_votos": 0.159,
     "idh": 0.614,
-    "color": "#FC835E"
+    "color": "#FC835E",
+    "pos": 175
   },
   {
     "region": "Valparaíso",
@@ -1927,7 +2102,8 @@
     "pcent_elas": 0.067,
     "pcent_votos": 0.154,
     "idh": 0.689,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 176
   },
   {
     "region": "Araucanía",
@@ -1938,7 +2114,8 @@
     "pcent_elas": 0.067,
     "pcent_votos": 0.16,
     "idh": 0.663,
-    "color": "#FC835E"
+    "color": "#FC835E",
+    "pos": 177
   },
   {
     "region": "Valparaíso",
@@ -1949,7 +2126,8 @@
     "pcent_elas": 0.067,
     "pcent_votos": 0.163,
     "idh": 0.676,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 178
   },
   {
     "region": "Biobío",
@@ -1960,7 +2138,8 @@
     "pcent_elas": 0.067,
     "pcent_votos": 0.167,
     "idh": 0.597,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 179
   },
   {
     "region": "Biobío",
@@ -1971,7 +2150,8 @@
     "pcent_elas": 0.067,
     "pcent_votos": 0.14,
     "idh": 0.645,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 180
   },
   {
     "region": "Valparaíso",
@@ -1982,7 +2162,8 @@
     "pcent_elas": 0.067,
     "pcent_votos": 0.116,
     "idh": 0.732,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 181
   },
   {
     "region": "Valparaíso",
@@ -1993,7 +2174,8 @@
     "pcent_elas": 0.067,
     "pcent_votos": 0.104,
     "idh": 0.734,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 182
   },
   {
     "region": "Valparaíso",
@@ -2004,7 +2186,8 @@
     "pcent_elas": 0.067,
     "pcent_votos": 0.106,
     "idh": 0.763,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 183
   },
   {
     "region": "Biobío",
@@ -2015,7 +2198,8 @@
     "pcent_elas": 0.06,
     "pcent_votos": 0.156,
     "idh": 0.665,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 184
   },
   {
     "region": "Los Ríos",
@@ -2026,7 +2210,8 @@
     "pcent_elas": 0.06,
     "pcent_votos": 0.131,
     "idh": 0.653,
-    "color": "#785E79"
+    "color": "#785E79",
+    "pos": 185
   },
   {
     "region": "Maule",
@@ -2037,7 +2222,8 @@
     "pcent_elas": 0.06,
     "pcent_votos": 0.124,
     "idh": 0.64,
-    "color": "#FEE67E"
+    "color": "#FEE67E",
+    "pos": 186
   },
   {
     "region": "Biobío",
@@ -2048,7 +2234,8 @@
     "pcent_elas": 0.06,
     "pcent_votos": 0.139,
     "idh": 0.611,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 187
   },
   {
     "region": "Valparaíso",
@@ -2059,7 +2246,8 @@
     "pcent_elas": 0.06,
     "pcent_votos": 0.094,
     "idh": 0.745,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 188
   },
   {
     "region": "O'Higgins",
@@ -2070,7 +2258,8 @@
     "pcent_elas": 0.06,
     "pcent_votos": 0.107,
     "idh": 0.674,
-    "color": "#FBCA70"
+    "color": "#FBCA70",
+    "pos": 189
   },
   {
     "region": "Valparaíso",
@@ -2081,7 +2270,8 @@
     "pcent_elas": 0.06,
     "pcent_votos": 0.093,
     "idh": 0.669,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 190
   },
   {
     "region": "Biobío",
@@ -2092,7 +2282,8 @@
     "pcent_elas": 0.053,
     "pcent_votos": 0.174,
     "idh": 0.656,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 191
   },
   {
     "region": "Valparaíso",
@@ -2103,7 +2294,8 @@
     "pcent_elas": 0.053,
     "pcent_votos": 0.105,
     "idh": 0.674,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 192
   },
   {
     "region": "Los Lagos",
@@ -2114,7 +2306,8 @@
     "pcent_elas": 0.053,
     "pcent_votos": 0.122,
     "idh": 0.648,
-    "color": "#DD7368"
+    "color": "#DD7368",
+    "pos": 193
   },
   {
     "region": "Los Ríos",
@@ -2125,7 +2318,8 @@
     "pcent_elas": 0.053,
     "pcent_votos": 0.121,
     "idh": 0.648,
-    "color": "#785E79"
+    "color": "#785E79",
+    "pos": 194
   },
   {
     "region": "Los Ríos",
@@ -2136,7 +2330,8 @@
     "pcent_elas": 0.053,
     "pcent_votos": 0.095,
     "idh": 0.637,
-    "color": "#785E79"
+    "color": "#785E79",
+    "pos": 195
   },
   {
     "region": "Biobío",
@@ -2147,7 +2342,8 @@
     "pcent_elas": 0.053,
     "pcent_votos": 0.094,
     "idh": 0.637,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 196
   },
   {
     "region": "Valparaíso",
@@ -2158,7 +2354,8 @@
     "pcent_elas": 0.053,
     "pcent_votos": 0.1,
     "idh": 0.699,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 197
   },
   {
     "region": "Biobío",
@@ -2169,7 +2366,8 @@
     "pcent_elas": 0.047,
     "pcent_votos": 0.19,
     "idh": 0.635,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 198
   },
   {
     "region": "Metropolitana",
@@ -2180,7 +2378,8 @@
     "pcent_elas": 0.047,
     "pcent_votos": 0.174,
     "idh": 0.792,
-    "color": "#717290"
+    "color": "#717290",
+    "pos": 199
   },
   {
     "region": "O'Higgins",
@@ -2191,7 +2390,8 @@
     "pcent_elas": 0.047,
     "pcent_votos": 0.113,
     "idh": 0.644,
-    "color": "#FBCA70"
+    "color": "#FBCA70",
+    "pos": 200
   },
   {
     "region": "Maule",
@@ -2202,7 +2402,8 @@
     "pcent_elas": 0.047,
     "pcent_votos": 0.114,
     "idh": 0.648,
-    "color": "#FEE67E"
+    "color": "#FEE67E",
+    "pos": 201
   },
   {
     "region": "O'Higgins",
@@ -2213,7 +2414,8 @@
     "pcent_elas": 0.047,
     "pcent_votos": 0.105,
     "idh": 0.637,
-    "color": "#FBCA70"
+    "color": "#FBCA70",
+    "pos": 202
   },
   {
     "region": "O'Higgins",
@@ -2224,7 +2426,8 @@
     "pcent_elas": 0.047,
     "pcent_votos": 0.098,
     "idh": 0.661,
-    "color": "#FBCA70"
+    "color": "#FBCA70",
+    "pos": 203
   },
   {
     "region": "Araucanía",
@@ -2235,7 +2438,8 @@
     "pcent_elas": 0.047,
     "pcent_votos": 0.093,
     "idh": 0.574,
-    "color": "#FC835E"
+    "color": "#FC835E",
+    "pos": 204
   },
   {
     "region": "Biobío",
@@ -2246,7 +2450,8 @@
     "pcent_elas": 0.04,
     "pcent_votos": 0.119,
     "idh": 0.59,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 205
   },
   {
     "region": "Los Lagos",
@@ -2257,7 +2462,8 @@
     "pcent_elas": 0.04,
     "pcent_votos": 0.087,
     "idh": 0.641,
-    "color": "#DD7368"
+    "color": "#DD7368",
+    "pos": 206
   },
   {
     "region": "Biobío",
@@ -2268,7 +2474,8 @@
     "pcent_elas": 0.04,
     "pcent_votos": 0.099,
     "idh": 0.655,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 207
   },
   {
     "region": "Biobío",
@@ -2279,7 +2486,8 @@
     "pcent_elas": 0.04,
     "pcent_votos": 0.095,
     "idh": 0.626,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 208
   },
   {
     "region": "O'Higgins",
@@ -2290,7 +2498,8 @@
     "pcent_elas": 0.033,
     "pcent_votos": 0.134,
     "idh": 0.652,
-    "color": "#FBCA70"
+    "color": "#FBCA70",
+    "pos": 209
   },
   {
     "region": "Valparaíso",
@@ -2301,7 +2510,8 @@
     "pcent_elas": 0.033,
     "pcent_votos": 0.114,
     "idh": 0.672,
-    "color": "#F47B4D"
+    "color": "#F47B4D",
+    "pos": 210
   },
   {
     "region": "Biobío",
@@ -2312,7 +2522,8 @@
     "pcent_elas": 0.027,
     "pcent_votos": 0.151,
     "idh": 0.666,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 211
   },
   {
     "region": "Maule",
@@ -2323,7 +2534,8 @@
     "pcent_elas": 0.027,
     "pcent_votos": 0.14,
     "idh": 0.672,
-    "color": "#FEE67E"
+    "color": "#FEE67E",
+    "pos": 212
   },
   {
     "region": "Maule",
@@ -2334,7 +2546,8 @@
     "pcent_elas": 0.027,
     "pcent_votos": 0.134,
     "idh": 0.649,
-    "color": "#FEE67E"
+    "color": "#FEE67E",
+    "pos": 213
   },
   {
     "region": "Biobío",
@@ -2345,7 +2558,8 @@
     "pcent_elas": 0.027,
     "pcent_votos": 0.12,
     "idh": 0.618,
-    "color": "#FDB56E"
+    "color": "#FDB56E",
+    "pos": 214
   },
   {
     "region": "O'Higgins",
@@ -2356,7 +2570,8 @@
     "pcent_elas": 0.027,
     "pcent_votos": 0.104,
     "idh": 0.649,
-    "color": "#FBCA70"
+    "color": "#FBCA70",
+    "pos": 215
   },
   {
     "region": "Maule",
@@ -2367,7 +2582,8 @@
     "pcent_elas": 0.02,
     "pcent_votos": 0.096,
     "idh": 0.671,
-    "color": "#FEE67E"
+    "color": "#FEE67E",
+    "pos": 216
   },
   {
     "region": "Los Lagos",
@@ -2378,6 +2594,7 @@
     "pcent_elas": 0.013,
     "pcent_votos": 0.075,
     "idh": 0.69,
-    "color": "#DD7368"
+    "color": "#DD7368",
+    "pos": 217
   }
 ]
