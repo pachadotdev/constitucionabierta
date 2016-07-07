@@ -11,8 +11,7 @@ setwd("~/constitucionabierta/archivos")
 
 datos_finales <- read.csv("sintesis_datos_pacha.csv")
 
-datos_finales_metropolitana = readWorksheetFromFile("participacion_rm.xlsx", sheet = "Sheet1", region = "A1:D53")
-
+encuentros_participacion_metropolitana = readWorksheetFromFile("participacion_rm.xlsx", sheet = "Sheet1", region = "A1:D53")
 #encuentros_participacion_metropolitana = subset(datos_finales_metropolitana, poblacion > 10000)
 encuentros_participacion_metropolitana$color = "#717290"
 
@@ -27,6 +26,7 @@ datos_10000hab$comuna = ifelse(datos_10000hab$comuna == "Aisén","Aisén ",as.ch
 datos_10000hab$comuna = ifelse(datos_10000hab$comuna == "Valparaíso","Valparaíso ",as.character(datos_10000hab$comuna))
 datos_10000hab$comuna = as.factor(datos_10000hab$comuna)
 datos_10000hab$region = as.factor(datos_10000hab$region)
+datos_10000hab$pos = c(1:nrow(datos_10000hab))
 write.xlsx(datos_10000hab[1:20,],"20_comunas_mas_grandes.xlsx")
 
 datos_totales <- datos_finales[,c("region","comuna","poblacion","encuentros","encuentros_10000hab","pcent_elas","pcent_votos","idh","color")]
@@ -68,3 +68,6 @@ write(datos_totales_json, "datos_totales.json")
 
 cuenta_actas_json <- toJSON(cuenta_actas, pretty=TRUE)
 write(cuenta_actas_json, "cuenta_actas.json")
+
+comunas_mas_grandes_json <- toJSON(datos_10000hab[1:20,], pretty=TRUE)
+write(comunas_mas_grandes_json, "comunas_mas_grandes.json")

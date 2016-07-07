@@ -1,14 +1,16 @@
-var data = "datos_totales.json";
+var data = "comunas_mas_grandes.json";
 var visualization = d3plus.viz()
-.container("#encuentros_por_regiones_pob")
+.container("#comunas_mas_grandes")
 .data(data)
-.type("treemap")
+.type("bar")
 .width(false)
 .height(false)
 .resize(true)
-.id(["region","comuna"])
-.size("poblacion")
+.id(["pos","comuna"])
+.x("comuna")
+.y("encuentros")
 .color("color")
+.depth(1)
 .format({
   "text": function(text, params) {
     if (text === "poblacion") {
@@ -59,10 +61,10 @@ var visualization = d3plus.viz()
 })
 .font({"family": "Roboto"})
 .title("Encuentros locales por región")
-.title({"sub": "Divisiones de acuerdo a la población por zona geográfica respecto del total del país"})
+.title({"sub": "Divisiones de acuerdo al número de encuentros por cada 10.000 habitantes por zona geográfica"})
 .tooltip(["encuentros"])
 .tooltip({"share": false})
-.labels({"align": "left", "valign": "top"})
+/*.labels({"align": "left", "valign": "top"})*/
 .legend(false)
 .messages({"branding":true})
 .draw();
