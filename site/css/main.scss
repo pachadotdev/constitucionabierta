@@ -10,7 +10,9 @@ $baseurl: '{{ site.baseurl }}/images';
 @import 'font-awesome.min.css';
 @import 'custom.css';
 @import 'reset.css';
-@import url('https://fonts.googleapis.com/css?family=Ubuntu+Condensed');
+@import 'bootstrap.min.css';
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:400,700');
 
 /*
 	Spectral by HTML5 UP
@@ -815,7 +817,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		border-radius: 3px;
 		border: 0;
 		box-shadow: inset 0 0 0 2px _palette(border);
-		color: _palette(fg-bold);
+		color: #5585d0;
 		cursor: pointer;
 		display: inline-block;
 		font-size: 0.8em;
@@ -832,11 +834,11 @@ $baseurl: '{{ site.baseurl }}/images';
 		text-overflow: ellipsis;
 
 		&:hover {
-			background-color: _palette(border-bg);
+			background-color: #5585d0;
 		}
 
 		&:active {
-			background-color: _palette(border2-bg);
+			background-color: #5585d0;
 		}
 
 		&.icon {
@@ -860,16 +862,17 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 
 		&.special {
-			background-color: _palette(accent6, bg);
+			background-color: darken(transparentize(#006699, 0.1), 8);
 			box-shadow: none !important;
-			color: _palette(accent6, fg-bold) !important;
+			color: white !important;
+			text-decoration: none;
 
 			&:hover {
-				background-color: lighten(_palette(accent6, bg), 5) !important;
+				background-color: darken(transparentize(#4c93b7, 0.1), 8) !important;
 			}
 
 			&:active {
-				background-color: darken(_palette(accent6, bg), 5) !important;
+				background-color: darken(transparentize(#4c93b7, 0.1), 8) !important;
 			}
 		}
 
@@ -1295,7 +1298,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		@include vendor('transform', 'translateX(20em)');
 		@include vendor('transition', 'transform #{_duration(menu)} ease');
 		-webkit-overflow-scrolling: touch;
-		background: _palette(accent1, bg);
+		background-color: darken(transparentize(#006699, 0.1), 8);
 		color: _palette(accent1, fg-bold);
 		height: 100%;
 		max-width: 80%;
@@ -1377,7 +1380,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 	#header {
 		@include vendor('transition', 'background-color #{_duration(transitions)} ease');
-		background-color: darken(transparentize(#00004d, 0.1), 8);
+		background-color: darken(transparentize(#006699, 0.1), 8);
 		height: 3em;
 		left: 0;
 		line-height: 3em;
@@ -1677,7 +1680,7 @@ $baseurl: '{{ site.baseurl }}/images';
 	#main {
 		> header {
 			@include padding(12em, 0);
-			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,77,0.5), rgba(0,0,77,0.5))', 'url("images/fondo.jpg")'));
+			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7))', 'url("images/fondo.jpg")'));
 			background-attachment: fixed;
 			background-position: center center;
 			background-repeat: no-repeat;
@@ -1735,7 +1738,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 	#footer {
 		@include padding(6em, 0);
-		background-color: darken(_palette(bg), 8);
+		background-color: darken(transparentize(#006699, 0.1), 8);
 		text-align: center;
 
 		.icons {
@@ -1802,7 +1805,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 	body.landing {
 		#page-wrapper {
-			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,77,0.5), rgba(0,0,77,0.5))', 'url("/images/fondo.jpg")'));
+			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7))', 'url("/images/fondo.jpg")'));
 			background-attachment: fixed;
 			background-position: center center;
 			background-repeat: no-repeat;
@@ -1811,7 +1814,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 
 		#footer {
-			background-color: darken(transparentize(#00004d, 0.1), 8);
+			background-color: darken(transparentize(#006699, 0.1), 8);
 		}
 	}
 
