@@ -2323,7 +2323,9 @@ body.is-menu-visible #menu {
       border: 0;
       display: block;
       height: inherit;
-      line-height: inherit; }
+      line-height: inherit;
+      color: white;
+      text-decoration: none !important; }
       @media screen and (max-width: 736px) {
         #header h1 a {
           font-size: 0.8em; } }
@@ -2575,10 +2577,10 @@ body.is-loading #banner:after {
 /* Main */
 #main > header {
   padding: 12em 0 10em 0 ;
-  background-image: -moz-linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7)), url("images/fondo.jpg");
-  background-image: -webkit-linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7)), url("images/fondo.jpg");
-  background-image: -ms-linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7)), url("images/fondo.jpg");
-  background-image: linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7)), url("images/fondo.jpg");
+  background-image: -moz-linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7)), url("../images/fondo.jpg");
+  background-image: -webkit-linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7)), url("../images/fondo.jpg");
+  background-image: -ms-linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7)), url("../images/fondo.jpg");
+  background-image: linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7)), url("../images/fondo.jpg");
   background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repeat;
@@ -2661,10 +2663,10 @@ body.is-mobile #main > header {
 
 /* Landing */
 body.landing #page-wrapper {
-  background-image: -moz-linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7)), url("/images/fondo.jpg");
-  background-image: -webkit-linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7)), url("/images/fondo.jpg");
-  background-image: -ms-linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7)), url("/images/fondo.jpg");
-  background-image: linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7)), url("/images/fondo.jpg");
+  background-image: -moz-linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7)), url("../images/fondo.jpg");
+  background-image: -webkit-linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7)), url("../images/fondo.jpg");
+  background-image: -ms-linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7)), url("../images/fondo.jpg");
+  background-image: linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7)), url("../images/fondo.jpg");
   background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repeat;
