@@ -1,7 +1,9 @@
 @import url(font-awesome.min.css);
 @import url(custom.css);
 @import url(reset.css);
-@import url("https://fonts.googleapis.com/css?family=Ubuntu+Condensed");
+@import url(bootstrap.min.css);
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700");
+@import url("https://fonts.googleapis.com/css?family=Roboto+Mono:400,700");
 /*
 	Spectral by HTML5 UP
 	html5up.net | @n33co
@@ -1669,7 +1671,7 @@ button,
   border-radius: 3px;
   border: 0;
   box-shadow: inset 0 0 0 2px #fff;
-  color: #fff;
+  color: #5585d0;
   cursor: pointer;
   display: inline-block;
   font-size: 0.8em;
@@ -1689,13 +1691,13 @@ button,
   input[type="button"]:hover,
   button:hover,
   .button:hover {
-    background-color: rgba(144, 144, 144, 0.25); }
+    background-color: #5585d0; }
   input[type="submit"]:active,
   input[type="reset"]:active,
   input[type="button"]:active,
   button:active,
   .button:active {
-    background-color: rgba(144, 144, 144, 0.5); }
+    background-color: #5585d0; }
   input[type="submit"].icon:before,
   input[type="reset"].icon:before,
   input[type="button"].icon:before,
@@ -1727,21 +1729,22 @@ button,
   input[type="button"].special,
   button.special,
   .button.special {
-    background-color: #ed4933;
+    background-color: rgba(0, 75, 112, 0.9);
     box-shadow: none !important;
-    color: #ffffff !important; }
+    color: white !important;
+    text-decoration: none; }
     input[type="submit"].special:hover,
     input[type="reset"].special:hover,
     input[type="button"].special:hover,
     button.special:hover,
     .button.special:hover {
-      background-color: #ef5e4a !important; }
+      background-color: rgba(63, 124, 156, 0.9) !important; }
     input[type="submit"].special:active,
     input[type="reset"].special:active,
     input[type="button"].special:active,
     button.special:active,
     .button.special:active {
-      background-color: #eb341c !important; }
+      background-color: rgba(63, 124, 156, 0.9) !important; }
   input[type="submit"].disabled, input[type="submit"]:disabled,
   input[type="reset"].disabled,
   input[type="reset"]:disabled,
@@ -2231,7 +2234,7 @@ button,
   -ms-transition: -ms-transform 0.5s ease;
   transition: transform 0.5s ease;
   -webkit-overflow-scrolling: touch;
-  background: #21b2a6;
+  background-color: rgba(0, 75, 112, 0.9);
   color: #ffffff;
   height: 100%;
   max-width: 80%;
@@ -2298,7 +2301,7 @@ body.is-menu-visible #menu {
   -webkit-transition: background-color 0.2s ease;
   -ms-transition: background-color 0.2s ease;
   transition: background-color 0.2s ease;
-  background-color: rgba(0, 0, 36, 0.9);
+  background-color: rgba(0, 75, 112, 0.9);
   height: 3em;
   left: 0;
   line-height: 3em;
@@ -2572,10 +2575,10 @@ body.is-loading #banner:after {
 /* Main */
 #main > header {
   padding: 12em 0 10em 0 ;
-  background-image: -moz-linear-gradient(top, rgba(0,0,77,0.5), rgba(0,0,77,0.5)), url("images/fondo.jpg");
-  background-image: -webkit-linear-gradient(top, rgba(0,0,77,0.5), rgba(0,0,77,0.5)), url("images/fondo.jpg");
-  background-image: -ms-linear-gradient(top, rgba(0,0,77,0.5), rgba(0,0,77,0.5)), url("images/fondo.jpg");
-  background-image: linear-gradient(top, rgba(0,0,77,0.5), rgba(0,0,77,0.5)), url("images/fondo.jpg");
+  background-image: -moz-linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7)), url("images/fondo.jpg");
+  background-image: -webkit-linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7)), url("images/fondo.jpg");
+  background-image: -ms-linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7)), url("images/fondo.jpg");
+  background-image: linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7)), url("images/fondo.jpg");
   background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repeat;
@@ -2613,7 +2616,7 @@ body.is-mobile #main > header {
 /* Footer */
 #footer {
   padding: 6em 0 4em 0 ;
-  background-color: #1d242a;
+  background-color: rgba(0, 75, 112, 0.9);
   text-align: center; }
   #footer .icons {
     font-size: 1.25em; }
@@ -2658,17 +2661,17 @@ body.is-mobile #main > header {
 
 /* Landing */
 body.landing #page-wrapper {
-  background-image: -moz-linear-gradient(top, rgba(0,0,77,0.5), rgba(0,0,77,0.5)), url("/images/fondo.jpg");
-  background-image: -webkit-linear-gradient(top, rgba(0,0,77,0.5), rgba(0,0,77,0.5)), url("/images/fondo.jpg");
-  background-image: -ms-linear-gradient(top, rgba(0,0,77,0.5), rgba(0,0,77,0.5)), url("/images/fondo.jpg");
-  background-image: linear-gradient(top, rgba(0,0,77,0.5), rgba(0,0,77,0.5)), url("/images/fondo.jpg");
+  background-image: -moz-linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7)), url("/images/fondo.jpg");
+  background-image: -webkit-linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7)), url("/images/fondo.jpg");
+  background-image: -ms-linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7)), url("/images/fondo.jpg");
+  background-image: linear-gradient(top, rgba(0,0,77,0.3), rgba(0,0,24,0.7)), url("/images/fondo.jpg");
   background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 0; }
 body.landing #footer {
-  background-color: rgba(0, 0, 36, 0.9); }
+  background-color: rgba(0, 75, 112, 0.9); }
 
 body.is-mobile.landing #page-wrapper {
   background: none; }
