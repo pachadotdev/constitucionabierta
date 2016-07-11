@@ -61,12 +61,20 @@
 <h5 class="header col s12 light">Puedes subir un documento en cualquier formato. Nos encargaremos de anonimizar todos los datos personales antes de publicarla.</h5>
         
 <form method="post" action="#">
+          <div class="6u 12u$(xsmall)">
+					  <span>Seleccionar Archivo</span>
+            <input type="file" id="myfileinput" name="file">
+          </div> 
 					<div class="row uniform">
 						<div class="6u 12u$(xsmall)">
 							<input type="text" name="demo-name" id="demo-name" value="" placeholder="Nombre (opcional)" />
 						</div>
 						<div class="6u$ 12u$(xsmall)">
 							<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
+						</div>
+						<div class="6u 12u$(small)">
+							<input type="checkbox" id="demo-copy" name="demo-copy">
+							<label for="demo-copy">Enviar una copia a mi mail</label>
 						</div>
 						<div class="12u$">
 							<div class="select-wrapper">
@@ -769,22 +777,15 @@
 								</select>
 							</div>
 						</div>
-						<div class="6u 12u$(small)">
-							<input type="checkbox" id="demo-copy" name="demo-copy">
-							<label for="demo-copy">Enviar una copia a mi mail</label>
-						</div>
-						<div class="6u$ 12u$(small)">
-							<input type="checkbox" id="demo-human" name="demo-human">
-							<label for="demo-human">No soy un robot</label>
-						</div>
 						<div class="12u$">
-							<textarea name="demo-message" id="demo-message" placeholder="Comentarios (opcional)" rows="6"></textarea>
+						  <textarea name="demo-message" id="demo-message" placeholder="Comentarios (opcional)" rows="6"></textarea>
 						</div>
-						<div class="12u$">
-							<ul class="actions">
-								<li><input type="submit" value="Enviar" class="special" /></li>
-								<li><input type="reset" value="Reiniciar" /></li>
-							</ul>
+					  <div class="g-recaptcha" data-sitekey="6LcIbCMTAAAAANq4BSzbRwDzH-XyusQ3h7m1bmzK"></div>
+					  <div class="12u$">
+						  <ul class="actions">
+							  <li><input type="submit" value="Enviar" class="special" /></li>
+							  <li><input type="reset" value="Reiniciar" /></li>
+						  </ul>
 						</div>
 					</div>
 </form>
