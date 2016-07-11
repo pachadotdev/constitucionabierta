@@ -1,0 +1,9 @@
+.content p {
+  color: #333333;
+  text-align: left;
+}
+
+viz {
+  width: 0;
+  height: 0;
+}
