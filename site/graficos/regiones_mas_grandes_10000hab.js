@@ -68,4 +68,7 @@ var visualization = d3plus.viz()
 .legend(false)
 .messages({"branding":true})
 .aggs({"encuentros_10000hab":"mean"})
+.order(function(d) {
+    return ["Biobío","Araucanía","Valparaíso","Los Ríos","O'Higgins","Los Lagos","Maule","Antofagasta","Metropolitana","Atacama","Tarapacá","Coquimbo","Magallanes","Arica y Parinacota","Aisén"].indexOf(d.region);
+})
 .draw();

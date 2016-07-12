@@ -6,7 +6,7 @@ var visualization = d3plus.viz()
 .width(800)
 .height(500)
 .resize(true)
-.id(["pos","comuna"])
+.id(["comuna"])
 .x("comuna")
 .y("encuentros")
 .color("color")
@@ -60,11 +60,14 @@ var visualization = d3plus.viz()
   "locale": "es_ES"
 })
 .font({"family": "Roboto"})
-.title("Encuentros locales por región")
+.title("Encuentros locales por comuna")
 .title({"sub": "Divisiones de acuerdo al número de encuentros por zona geográfica"})
 .tooltip(["encuentros"])
 .tooltip({"share": false})
 /*.labels({"align": "left", "valign": "top"})*/
 .legend(false)
 .messages({"branding":true})
+.order(function(d) {
+    return ["Valdivia","Puerto Montt","Talca","Arica","La Serena","Maipú","Iquique","Viña del Mar","Antofagasta ","La Reina","Recoleta","Temuco","Concepción","La Florida","Valparaíso ","Puente Alto","Las Condes","Ñuñoa","Providencia","Santiago"].indexOf(d.comuna);
+})
 .draw();
