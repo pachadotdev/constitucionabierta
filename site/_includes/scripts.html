@@ -25,6 +25,87 @@
 <script src='graficos/cuenta_encuentros.js'></script>
 <script src='graficos/cuenta_acumulada_encuentros.js'></script>
 
+<script type="text/javascript">
+
+    var validateFile = function(){
+      var fileInput = document.getElementById("myfileinput");
+      var files = fileInput.files;
+      var maxSize = 20*1024*1024;
+
+      var isOk = true;
+      for (var i = 0; i < files.length; i++) {
+        if(files[i].size > maxSize){
+          isOk = false;
+        }
+      }
+      var errorspan = document.getElementById("error");
+      if (isOk){
+        errorspan.style.display = 'none';
+      } else {
+        errorspan.style.display = 'inline';
+      }
+
+      var errorspan = document.getElementById("error3");
+      if(files.length != 0){
+        errorspan.style.display = 'none';
+      } else {
+        errorspan.style.display = 'inline';
+        isOk=false;
+      }
+      return isOk;
+    };
+
+
+    var validateCaptcha = function(){
+      var isOk = true;
+      var response = grecaptcha.getResponse();
+      var errorspan = document.getElementById("error2");
+      if(response.length != 0){
+        errorspan.style.display = 'none';
+      } else {
+        errorspan.style.display = 'inline';
+        isOK=false;
+      }
+      return isOk;
+    };
+
+    var validateForm = function () {
+      var ok = true;
+      ok = validateFile();
+      ok = validateCaptcha() && ok;
+      return ok;
+    };
+
+    window.onload = function(e) {
+      document.getElementById("myfileinput").onchange = validateFile;
+      jQuery.extend( jQuery.fn.pickadate.defaults, {
+          monthsFull: [ 'enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre' ],
+          monthsShort: [ 'ene', 'feb', 'mar', 'abr', 'may', 'jun', 'jul', 'ago', 'sep', 'oct', 'nov', 'dic' ],
+          weekdaysFull: [ 'domingo', 'lunes', 'martes', 'miércoles', 'jueves', 'viernes', 'sábado' ],
+          weekdaysShort: [ 'dom', 'lun', 'mar', 'mié', 'jue', 'vie', 'sáb' ],
+          today: 'hoy',
+          clear: 'borrar',
+          close: 'cerrar',
+          firstDay: 1,
+          format: 'd !de mmmm !de yyyy',
+          formatSubmit: 'yyyy-mm-dd',
+          hiddenName: true
+      });
+      $('.datepicker').pickadate({
+        selectMonths: true, // Creates a dropdown to control month
+        selectYears: 1 // Creates a dropdown of 15 years to control year
+      });
+      $(document).ready(function() {
+        $('select').material_select();
+      });
+
+
+    };
+
+  </script>
+
+<script src='https://www.google.com/recaptcha/api.js?hl=es'></script>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -33,5 +114,4 @@
 
   ga('create', 'UA-22180528-3', 'auto');
   ga('send', 'pageview');
-
 </script>
