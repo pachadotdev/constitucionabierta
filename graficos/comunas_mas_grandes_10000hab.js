@@ -60,11 +60,14 @@ var visualization = d3plus.viz()
   "locale": "es_ES"
 })
 .font({"family": "Roboto"})
-.title("Encuentros locales por región")
+.title("Encuentros locales por comuna")
 .title({"sub": "Divisiones de acuerdo al número de encuentros por cada 10.000 habitantes por zona geográfica"})
 .tooltip(["encuentros"])
 .tooltip({"share": false})
 /*.labels({"align": "left", "valign": "top"})*/
 .legend(false)
 .messages({"branding":true})
+.order(function(d) {
+    return ["Maipú","Puente Alto","La Florida","Antofagasta ","Viña del Mar","Talca","Puerto Montt","Temuco","La Serena","Arica","Valdivia","Concepción","Iquique","Valparaíso ","Las Condes","Recoleta","La Reina","Ñuñoa","Providencia","Santiago"].indexOf(d.comuna);
+})
 .draw();

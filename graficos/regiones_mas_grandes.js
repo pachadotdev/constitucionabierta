@@ -6,7 +6,7 @@ var visualization = d3plus.viz()
 .width(800)
 .height(500)
 .resize(true)
-.id(["region","comuna"])
+.id(["region"])
 .x("region")
 .y("encuentros")
 .color("color")
@@ -68,4 +68,7 @@ var visualization = d3plus.viz()
 .legend(false)
 .messages({"branding":true})
 .aggs({"encuentros_10000hab":"mean"})
+.order(function(d) {
+    return ["Aisén","Arica y Parinacota","Magallanes","Atacama","Tarapacá","Los Ríos","Antofagasta","Coquimbo","O'Higgins","Los Lagos","Araucanía","Maule","Biobío","Valparaíso","Metropolitana"].indexOf(d.region);
+})
 .draw();
