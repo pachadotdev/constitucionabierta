@@ -3,13 +3,15 @@ var visualization = d3plus.viz()
 .container("#comunas_mas_grandes")
 .data(data)
 .type("bar")
-.width(800)
+.width(false)
 .height(500)
 .resize(true)
 .id(["comuna"])
 .x("comuna")
 .y("encuentros")
-.color("color")
+.color(function(d){
+      return d.encuentros_10000hab > 0 ? "#3689a3":"#3689a3";
+    })
 .depth(1)
 .format({
   "text": function(text, params) {
