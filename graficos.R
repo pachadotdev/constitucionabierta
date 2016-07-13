@@ -15,6 +15,8 @@ encuentros_participacion_metropolitana = readWorksheetFromFile("participacion_rm
 #encuentros_participacion_metropolitana = subset(datos_finales_metropolitana, poblacion > 10000)
 encuentros_participacion_metropolitana$color = "#717290"
 
+ranking_regiones_10000hab = read.csv("ranking_regiones_10000hab.csv")
+
 datos_10000hab <- datos_finales[,c("region","comuna","poblacion","encuentros","encuentros_10000hab","pcent_elas","pcent_votos","idh","color")]
 datos_10000hab = subset(datos_10000hab, poblacion > 10000)
 datos_10000hab = datos_10000hab[order(datos_10000hab$poblacion,decreasing = TRUE),]
@@ -52,7 +54,10 @@ cuenta_actas$color = "#0054A4"
 
 #################
 
-setwd("~/constitucionabierta/gh-pages")
+setwd("~/constitucionabierta/gh-pages/graficos")
+
+ranking_regiones_10000hab_json <- toJSON(ranking_regiones_10000hab, pretty=TRUE)
+write(ranking_regiones_10000hab_json, "ranking_regiones_10000hab.json")
 
 encuentros_participacion_metropolitana_json <- toJSON(encuentros_participacion_metropolitana, pretty=TRUE)
 write(encuentros_participacion_metropolitana_json, "encuentros_participacion_metropolitana.json")
