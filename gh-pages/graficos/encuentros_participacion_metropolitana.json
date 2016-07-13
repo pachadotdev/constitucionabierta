@@ -2,365 +2,365 @@
   {
     "comuna": "Santiago",
     "poblacion": 139180,
+    "encuentros_10000hab": 69.335,
     "indice_participacion": 68.6176,
-    "encuentros_10000hab": 66.8918,
     "color": "#717290"
   },
   {
     "comuna": "Cerrillos",
     "poblacion": 51997,
+    "encuentros_10000hab": 10.962,
     "indice_participacion": 51.4703,
-    "encuentros_10000hab": 9.8083,
     "color": "#717290"
   },
   {
     "comuna": "Cerro Navia",
     "poblacion": 103064,
+    "encuentros_10000hab": 4.657,
     "indice_participacion": 45.1292,
-    "encuentros_10000hab": 4.4632,
     "color": "#717290"
   },
   {
     "comuna": "Conchalí",
     "poblacion": 86984,
+    "encuentros_10000hab": 11.037,
     "indice_participacion": 56.8633,
-    "encuentros_10000hab": 10.9215,
     "color": "#717290"
   },
   {
     "comuna": "El Bosque",
     "poblacion": 132573,
+    "encuentros_10000hab": 8.75,
     "indice_participacion": 41.6299,
-    "encuentros_10000hab": 8.6745,
     "color": "#717290"
   },
   {
     "comuna": "Estación Central",
     "poblacion": 91416,
+    "encuentros_10000hab": 11.048,
     "indice_participacion": 54.3231,
-    "encuentros_10000hab": 10.1733,
     "color": "#717290"
   },
   {
     "comuna": "Huechuraba",
     "poblacion": 64436,
+    "encuentros_10000hab": 9.777,
     "indice_participacion": 42.7913,
-    "encuentros_10000hab": 9.4668,
     "color": "#717290"
   },
   {
     "comuna": "Independencia",
     "poblacion": 42814,
+    "encuentros_10000hab": 22.423,
     "indice_participacion": 68.5593,
-    "encuentros_10000hab": 19.6198,
     "color": "#717290"
   },
   {
     "comuna": "La Cisterna",
     "poblacion": 58255,
+    "encuentros_10000hab": 11.158,
     "indice_participacion": 59.2876,
-    "encuentros_10000hab": 9.6129,
     "color": "#717290"
   },
   {
     "comuna": "La Florida",
     "poblacion": 323562,
+    "encuentros_10000hab": 8.932,
     "indice_participacion": 37.4942,
-    "encuentros_10000hab": 8.7155,
     "color": "#717290"
   },
   {
     "comuna": "La Granja",
     "poblacion": 97086,
+    "encuentros_10000hab": 5.15,
     "indice_participacion": 40.1757,
-    "encuentros_10000hab": 4.8411,
     "color": "#717290"
   },
   {
     "comuna": "La Pintana",
     "poblacion": 152565,
+    "encuentros_10000hab": 4.392,
     "indice_participacion": 28.2778,
-    "encuentros_10000hab": 3.9327,
     "color": "#717290"
   },
   {
     "comuna": "La Reina",
     "poblacion": 77244,
+    "encuentros_10000hab": 35.472,
     "indice_participacion": 56.5843,
-    "encuentros_10000hab": 33.4007,
     "color": "#717290"
   },
   {
     "comuna": "Las Condes",
     "poblacion": 238274,
+    "encuentros_10000hab": 19.851,
     "indice_participacion": 53.0658,
-    "encuentros_10000hab": 19.3894,
     "color": "#717290"
   },
   {
     "comuna": "Lo Barnechea",
     "poblacion": 83064,
+    "encuentros_10000hab": 11.919,
     "indice_participacion": 41.5005,
-    "encuentros_10000hab": 10.5942,
     "color": "#717290"
   },
   {
     "comuna": "Lo Espejo",
     "poblacion": 77441,
+    "encuentros_10000hab": 7.877,
     "indice_participacion": 47.7925,
-    "encuentros_10000hab": 7.2313,
     "color": "#717290"
   },
   {
     "comuna": "Lo Prado",
     "poblacion": 73017,
+    "encuentros_10000hab": 15.75,
     "indice_participacion": 52.4933,
-    "encuentros_10000hab": 15.065,
     "color": "#717290"
   },
   {
     "comuna": "Macul",
     "poblacion": 80607,
+    "encuentros_10000hab": 18.485,
     "indice_participacion": 54.566,
-    "encuentros_10000hab": 17.9885,
     "color": "#717290"
   },
   {
     "comuna": "Maipú",
     "poblacion": 654544,
+    "encuentros_10000hab": 3.376,
     "indice_participacion": 20.488,
-    "encuentros_10000hab": 3.0861,
     "color": "#717290"
   },
   {
     "comuna": "Ñuñoa",
     "poblacion": 123519,
+    "encuentros_10000hab": 40.399,
     "indice_participacion": 71.7064,
-    "encuentros_10000hab": 38.0508,
     "color": "#717290"
   },
   {
     "comuna": "Pedro Aguirre Cerda",
     "poblacion": 75873,
+    "encuentros_10000hab": 19.77,
     "indice_participacion": 56.5603,
-    "encuentros_10000hab": 18.8473,
     "color": "#717290"
   },
   {
     "comuna": "Peñalolén",
     "poblacion": 192217,
+    "encuentros_10000hab": 9.416,
     "indice_participacion": 38.1891,
-    "encuentros_10000hab": 8.6361,
     "color": "#717290"
   },
   {
     "comuna": "Providencia",
     "poblacion": 108741,
+    "encuentros_10000hab": 60.327,
     "indice_participacion": 64.2545,
-    "encuentros_10000hab": 58.9474,
     "color": "#717290"
   },
   {
     "comuna": "Pudahuel",
     "poblacion": 206973,
+    "encuentros_10000hab": 3.141,
     "indice_participacion": 28.4467,
-    "encuentros_10000hab": 2.8023,
     "color": "#717290"
   },
   {
     "comuna": "Quilicura",
     "poblacion": 154585,
+    "encuentros_10000hab": 4.464,
     "indice_participacion": 27.6637,
-    "encuentros_10000hab": 4.2048,
     "color": "#717290"
   },
   {
     "comuna": "Quinta Normal",
     "poblacion": 70949,
+    "encuentros_10000hab": 26.075,
     "indice_participacion": 56.2305,
-    "encuentros_10000hab": 26.357,
     "color": "#717290"
   },
   {
     "comuna": "Recoleta",
     "poblacion": 100228,
+    "encuentros_10000hab": 27.837,
     "indice_participacion": 54.0867,
-    "encuentros_10000hab": 26.6393,
     "color": "#717290"
   },
   {
     "comuna": "Renca",
     "poblacion": 100676,
+    "encuentros_10000hab": 4.668,
     "indice_participacion": 41.6266,
-    "encuentros_10000hab": 4.0725,
     "color": "#717290"
   },
   {
     "comuna": "San Joaquín",
     "poblacion": 64226,
+    "encuentros_10000hab": 10.432,
     "indice_participacion": 54.4764,
-    "encuentros_10000hab": 10.1205,
     "color": "#717290"
   },
   {
     "comuna": "San Miguel",
     "poblacion": 58490,
+    "encuentros_10000hab": 21.713,
     "indice_participacion": 66.6234,
-    "encuentros_10000hab": 21.5421,
     "color": "#717290"
   },
   {
     "comuna": "San Ramón",
     "poblacion": 65385,
+    "encuentros_10000hab": 7.494,
     "indice_participacion": 53.4649,
-    "encuentros_10000hab": 6.7294,
     "color": "#717290"
   },
   {
     "comuna": "Vitacura",
     "poblacion": 65275,
+    "encuentros_10000hab": 27.422,
     "indice_participacion": 75.0303,
-    "encuentros_10000hab": 27.4224,
     "color": "#717290"
   },
   {
     "comuna": "Puente Alto",
     "poblacion": 561464,
+    "encuentros_10000hab": 7.605,
     "indice_participacion": 19.1647,
-    "encuentros_10000hab": 7.1777,
     "color": "#717290"
   },
   {
     "comuna": "Pirque",
     "poblacion": 17991,
+    "encuentros_10000hab": 13.34,
     "indice_participacion": 47.3848,
-    "encuentros_10000hab": 12.2283,
     "color": "#717290"
   },
   {
     "comuna": "San José De Maipo",
     "poblacion": 11632,
+    "encuentros_10000hab": 22.352,
     "indice_participacion": 56.4993,
-    "encuentros_10000hab": 20.6327,
     "color": "#717290"
   },
   {
     "comuna": "Colina",
     "poblacion": 84107,
+    "encuentros_10000hab": 7.609,
     "indice_participacion": 33.9508,
-    "encuentros_10000hab": 7.3716,
     "color": "#717290"
   },
   {
     "comuna": "Lampa",
     "poblacion": 46979,
+    "encuentros_10000hab": 6.173,
     "indice_participacion": 36.3567,
-    "encuentros_10000hab": 5.5344,
     "color": "#717290"
   },
   {
     "comuna": "Tiltil",
     "poblacion": 12156,
+    "encuentros_10000hab": 13.985,
     "indice_participacion": 46.693,
-    "encuentros_10000hab": 13.9849,
     "color": "#717290"
   },
   {
     "comuna": "San Bernardo",
     "poblacion": 232557,
+    "encuentros_10000hab": 4.472,
     "indice_participacion": 32.3955,
-    "encuentros_10000hab": 3.913,
     "color": "#717290"
   },
   {
     "comuna": "Buin",
     "poblacion": 56534,
+    "encuentros_10000hab": 4.953,
     "indice_participacion": 45.9829,
-    "encuentros_10000hab": 4.4221,
     "color": "#717290"
   },
   {
     "comuna": "Calera De Tango",
     "poblacion": 20746,
+    "encuentros_10000hab": 3.374,
     "indice_participacion": 46.5777,
-    "encuentros_10000hab": 3.3741,
     "color": "#717290"
   },
   {
     "comuna": "Paine",
     "poblacion": 48929,
+    "encuentros_10000hab": 3.883,
     "indice_participacion": 41.5337,
-    "encuentros_10000hab": 4.0876,
     "color": "#717290"
   },
   {
     "comuna": "Melipilla",
     "poblacion": 81778,
+    "encuentros_10000hab": 6.236,
     "indice_participacion": 46.2092,
-    "encuentros_10000hab": 5.625,
     "color": "#717290"
   },
   {
     "comuna": "Alhué",
     "poblacion": 3664,
+    "encuentros_10000hab": 8.188,
     "indice_participacion": 58.0513,
-    "encuentros_10000hab": 8.1878,
     "color": "#717290"
   },
   {
     "comuna": "Curacaví",
     "poblacion": 23008,
+    "encuentros_10000hab": 5.216,
     "indice_participacion": 47.0315,
-    "encuentros_10000hab": 4.7809,
     "color": "#717290"
   },
   {
     "comuna": "María Pinto",
     "poblacion": 9081,
+    "encuentros_10000hab": 5.506,
     "indice_participacion": 50.3138,
-    "encuentros_10000hab": 6.6072,
     "color": "#717290"
   },
   {
     "comuna": "San Pedro",
     "poblacion": 6155,
+    "encuentros_10000hab": 4.874,
     "indice_participacion": 58.2453,
-    "encuentros_10000hab": 6.4988,
     "color": "#717290"
   },
   {
     "comuna": "Talagante",
     "poblacion": 57975,
+    "encuentros_10000hab": 5.52,
     "indice_participacion": 41.323,
-    "encuentros_10000hab": 5.3471,
     "color": "#717290"
   },
   {
     "comuna": "El Monte",
     "poblacion": 23389,
+    "encuentros_10000hab": 5.558,
     "indice_participacion": 50.0321,
-    "encuentros_10000hab": 5.1306,
     "color": "#717290"
   },
   {
     "comuna": "Isla De Maipo",
     "poblacion": 24250,
+    "encuentros_10000hab": 7.835,
     "indice_participacion": 44.7175,
-    "encuentros_10000hab": 7.0103,
     "color": "#717290"
   },
   {
     "comuna": "Padre Hurtado",
     "poblacion": 37634,
+    "encuentros_10000hab": 3.986,
     "indice_participacion": 40.7424,
-    "encuentros_10000hab": 3.72,
     "color": "#717290"
   },
   {
     "comuna": "Peñaflor",
     "poblacion": 64961,
+    "encuentros_10000hab": 7.081,
     "indice_participacion": 41.2878,
-    "encuentros_10000hab": 6.7733,
     "color": "#717290"
   }
 ]
