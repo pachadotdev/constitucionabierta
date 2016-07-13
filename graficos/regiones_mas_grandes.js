@@ -1,4 +1,4 @@
-var data = "graficos/datos_totales.json";
+var data = "graficos/ranking_regiones_10000hab.json";
 var visualization = d3plus.viz()
 .container("#regiones_mas_grandes")
 .data(data)
@@ -69,7 +69,6 @@ var visualization = d3plus.viz()
 /*.labels({"align": "left", "valign": "top"})*/
 .legend(false)
 .messages({"branding":true})
-.aggs({"encuentros_10000hab":"mean"})
 .order(function(d) {
     return ["Aisén","Arica y Parinacota","Magallanes","Atacama","Tarapacá","Los Ríos","Antofagasta","Coquimbo","O'Higgins","Los Lagos","Araucanía","Maule","Biobío","Valparaíso","Metropolitana"].indexOf(d.region);
 })
