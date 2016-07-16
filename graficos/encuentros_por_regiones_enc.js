@@ -58,7 +58,7 @@ var visualization = d3plus.viz()
   "locale": "es_ES"
 })
 .font({"family": "Roboto"})
-.title("Encuentros locales por región")
+.title("Cantidad total de encuentros locales por región y comuna")
 .title({"sub": "Divisiones de acuerdo al número de encuentros por zona geográfica"})
 .tooltip(["encuentros"])
 .tooltip({"share": false})
