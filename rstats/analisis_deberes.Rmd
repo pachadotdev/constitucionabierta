@@ -1,0 +1,102 @@
+---
+title: "Análisis Capítulo de Deberes"
+author: "Pachá"
+date: '`r Sys.Date()`'
+output: html_document
+---
+  
+  ```{r setup, echo = FALSE}
+knitr::opts_chunk$set(echo = TRUE, fig.path = '/Users/pacha/constitucionabierta/graficos/')
+knitr::opts_knit$set(root.dir = '/Users/pacha/constitucionabierta/archivos/')
+knitr::opts_knit$set(cache.dir = '/Users/pacha/constitucionabierta/cache/')
+```
+
+# Análisis de unigramas
+
+```{r unigramas_deberes_1, cache=TRUE, message = FALSE, dev='png', fig.width=8, fig.height=6}
+#setwd('/Users/pacha/constitucionabierta/archivos/')
+library(tm)
+library(SnowballC)
+library(dplyr)
+
+deberes <- readLines("respuestas_actas/RespuestaDeberes.txt")
+deberes <- gsub("*\\###.*?\\### *", "", deberes)
+deberes <- iconv(deberes)
+
+deberes <- gsub("[[:cntrl:]]", " ", deberes)
+deberes <- tolower(deberes)
+deberes <- removeWords(deberes, words = stopwords("spanish"))
+deberes <- removePunctuation(deberes)
+deberes <- removeNumbers(deberes)
+deberes <- stripWhitespace(deberes)
+
+deberes <- Corpus(VectorSource(deberes))
+
+deberes_ptd <- tm_map(deberes, PlainTextDocument)
+
+save(deberes_ptd, file = "deberes_ptd.RData")
+```
+
+```{r unigramas_deberes_2, cache=TRUE, message = FALSE, dev='png', fig.width=8, fig.height=6}
+deberes_tdm <- TermDocumentMatrix(deberes_ptd, control=list(bounds = list(global = c(2000,Inf))))
+deberes_tdm <- removeSparseTerms(deberes_tdm, sparse = .95)
+
+m <- as.matrix(deberes_tdm)
+v <- sort(rowSums(m), decreasing=TRUE)
+head(v, 20)
+
+deberes_unigramas_ptd <- tm_map(deberes_ptd, removeWords, c("debe","deber","ser","deben","derecho","fundamental","debemos", "cada", "que"))
+
+deberes_tdm <- TermDocumentMatrix(deberes_unigramas_ptd, control=list(bounds = list(global = c(2000,Inf))))
+deberes_tdm <- removeSparseTerms(deberes_tdm, sparse = .95)
+
+m <- as.matrix(deberes_tdm)
+v <- sort(rowSums(m), decreasing=TRUE)
+head(v, 20)
+
+deberes_df <- data.frame(word = names(v), freq=v)
+```
+
+```{r unigramas_deberes_3, cache=TRUE, message = FALSE, dev='png', fig.width=8, fig.height=6}
+library(cluster)  
+library(fpc)  
+library(ggplot2)
+
+#findAssocs(deberes_tdm, terms = as.vector(deberes_df[1:20,]$word), corlimit = .1)
+
+deberes_df %>%
+  ggplot(aes(word, freq)) +
+  geom_bar(stat = "identity", color = "black", fill = "#87CEFA") + 
+  geom_text(aes(hjust = 1.3, label = freq)) +
+  coord_flip() + 
+  labs(title = "Palabras más frecuentes en Deberes", x = "Palabras", y = "Número de uso")
+
+deberes_df %>%
+  mutate(percent = (freq/sum(freq))*100) %>%
+  ggplot(aes(word, percent)) +
+  geom_bar(stat = "identity", color = "black", fill = "#87CEFA") +
+  geom_text(aes(hjust = 1.3, label = paste0(round(percent, 2),"%"))) + 
+  coord_flip() +
+  labs(title = "Palabras más frecuentes en Deberes", x = "Palabras", y = "Porcentaje de uso")
+```
+
+```{r unigramas_deberes_4, cache=TRUE, message = FALSE, dev='png', fig.width=8, fig.height=6}
+deberes_dtm <- DocumentTermMatrix(deberes_unigramas_ptd, control=list(bounds = list(global = c(2000,Inf))))
+
+d <- dist(t(deberes_dtm), method="manhattan")   
+fit <- hclust(d=d, method="ward.D")   
+fit  
+```
+
+```{r unigramas_deberes_5, cache=TRUE, message = FALSE, dev='png', fig.width=8, fig.height=8}
+library(ape)
+
+plot(fit, hang=-1)
+groups <- cutree(fit, k=5)
+rect.hclust(fit, k=5, border="red")
+
+colors = c("red", "blue", "green", "black", "purple")
+clus = cutree(fit, 5)
+plot(as.phylo(fit), type = "fan", tip.color = colors[clus],
+     label.offset = 1, cex = 1)
+```
