@@ -1,0 +1,94 @@
+.entries {
+  margin: 5% 5% 5% 5%;
+}
+
+.statement {
+  font-family: 'Charter', 'Lora', serif;
+  font-size: 24px;
+  line-height: 1.5;
+  letter-spacing: -.004em;
+  margin: 5% 10% 5% 10%;
+  color: #333333;
+  text-align: left;
+}
+
+@media only screen and (max-width: 1023px) {
+  .statement {
+    font-size: 18px;
+  }
+}
+
+.numbers {
+  font-family: font-family: 'Kievit', 'Open Sans', sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  letter-spacing: -.004em;
+  margin: 5% 10% 5% 10%;
+  color: #333333;
+  text-align: left;
+}
+
+.images_text {
+  margin: auto;
+  width: 80%;
+  text-align: left;
+}
+
+.images_text p, .images_text a {
+  font-family: 'Kievit', 'Open Sans', sans-serif;
+  font-size: 18px;
+  line-height: 1.5em;
+}
+
+viz {
+  width: 0;
+  height: 0;
+}
+
+img {
+  height: auto;
+  width: auto;
+  max-width: 100%;
+  display: block;
+  text-decoration: none;
+}
+
+.wrapper ul{
+  margin-bottom: 20px;
+  overflow: hidden;
+  border-top: 0;
+}
+
+.wrapper li{
+  line-height: 1.5em;
+  border-bottom: 0;
+  float: left;
+  display: inline;
+}
+
+.wrapper  #double li  { width:50%;}
+.wrapper  #triple li  { width:33.333%; }
+.wrapper  #quad li    { width:25%; } 
+.wrapper  #six li     { width:16.666%; }
+
+.major h1 {font-size: 36px; font-family: 'Kievit', 'Open Sans', sans-serif;}
+.major h2 {font-size: 32px; font-family: 'Kievit', 'Open Sans', sans-serif;}
+.major h3 {font-size: 28px; border-bottom: none !important; font-family: 'Kievit', 'Open Sans', sans-serif;}
+.major h4 {font-size: 24px; border-bottom: none !important; font-family: 'Kievit', 'Open Sans', sans-serif;}
+
+@media only screen and (max-width: 1023px) {
+  .major h1 {font-size: 28px; font-family: 'Kievit', 'Open Sans', sans-serif;}
+  .major h2 {font-size: 24px; font-family: 'Kievit', 'Open Sans', sans-serif;}
+  .major h3 {font-size: 22px; border-bottom: none !important; font-family: 'Kievit', 'Open Sans', sans-serif;}
+  .major h4 {font-size: 20px; border-bottom: none !important; font-family: 'Kievit', 'Open Sans', sans-serif;}
+}
+
+#banner .inner {
+  padding: 3em;
+  padding-bottom: 1em;
+  background: rgba(52, 27, 43, 0.35);
+}
+
+#footer *:before, *:after {
+  color:  white;
+}
