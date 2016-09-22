@@ -1,0 +1,252 @@
+[
+  {
+    "comuna": "Lo Prado",
+    "x": -5.0321,
+    "y": -4.5055
+  },
+  {
+    "comuna": "Tiltil",
+    "x": -4.6975,
+    "y": -4.1946
+  },
+  {
+    "comuna": "Isla de Maipo",
+    "x": -4.6123,
+    "y": -3.4754
+  },
+  {
+    "comuna": "Quinta Normal",
+    "x": -5.8047,
+    "y": -3.6466
+  },
+  {
+    "comuna": "Talagante",
+    "x": -4.8212,
+    "y": -3.6335
+  },
+  {
+    "comuna": "Paine",
+    "x": -4.8608,
+    "y": -2.5085
+  },
+  {
+    "comuna": "San José de Maipo",
+    "x": -4.3174,
+    "y": -2.9895
+  },
+  {
+    "comuna": "San Pedro",
+    "x": -4.7101,
+    "y": -2.9079
+  },
+  {
+    "comuna": "Padre Hurtado",
+    "x": -5.322,
+    "y": -3.7082
+  },
+  {
+    "comuna": "Conchalí",
+    "x": -5.6757,
+    "y": -3.2042
+  },
+  {
+    "comuna": "San Ramón",
+    "x": -5.6542,
+    "y": -3.1365
+  },
+  {
+    "comuna": "Melipilla",
+    "x": -5.0022,
+    "y": -2.3747
+  },
+  {
+    "comuna": "Peñaflor",
+    "x": -4.7513,
+    "y": -2.4455
+  },
+  {
+    "comuna": "Lampa",
+    "x": -4.3629,
+    "y": -3.1135
+  },
+  {
+    "comuna": "Curacaví",
+    "x": -5.4868,
+    "y": -3.873
+  },
+  {
+    "comuna": "La Granja",
+    "x": -5.2498,
+    "y": -4.1628
+  },
+  {
+    "comuna": "María Pinto",
+    "x": -4.9759,
+    "y": -3.7652
+  },
+  {
+    "comuna": "Cerrillos",
+    "x": -4.9181,
+    "y": -2.8199
+  },
+  {
+    "comuna": "Cerro Navia",
+    "x": -5.2375,
+    "y": -3.7093
+  },
+  {
+    "comuna": "Recoleta",
+    "x": -5.1795,
+    "y": -2.2713
+  },
+  {
+    "comuna": "Independencia",
+    "x": -4.9542,
+    "y": -2.5064
+  },
+  {
+    "comuna": "Pudahuel",
+    "x": -5.2925,
+    "y": -2.8288
+  },
+  {
+    "comuna": "Calera de Tango",
+    "x": -4.9556,
+    "y": -3.6918
+  },
+  {
+    "comuna": "Pedro Aguirre Cerda",
+    "x": -4.8373,
+    "y": -2.6045
+  },
+  {
+    "comuna": "San Joaquín",
+    "x": -4.8355,
+    "y": -2.1596
+  },
+  {
+    "comuna": "El Monte",
+    "x": -4.7812,
+    "y": -2.7393
+  },
+  {
+    "comuna": "Las Condes",
+    "x": -6.3627,
+    "y": -3.2155
+  },
+  {
+    "comuna": "Macul",
+    "x": -5.3539,
+    "y": -2.0852
+  },
+  {
+    "comuna": "San Bernardo",
+    "x": -5.7989,
+    "y": -2.626
+  },
+  {
+    "comuna": "Maipú",
+    "x": -5.5306,
+    "y": -2.7422
+  },
+  {
+    "comuna": "Santiago",
+    "x": -5.2571,
+    "y": -2.0326
+  },
+  {
+    "comuna": "La Cisterna",
+    "x": -5.3814,
+    "y": -2.563
+  },
+  {
+    "comuna": "La Pintana",
+    "x": -5.6006,
+    "y": -2.9763
+  },
+  {
+    "comuna": "Quilicura",
+    "x": -5.398,
+    "y": -3.4879
+  },
+  {
+    "comuna": "Huechuraba",
+    "x": -4.8243,
+    "y": -2.277
+  },
+  {
+    "comuna": "La Florida",
+    "x": -5.434,
+    "y": -2.3723
+  },
+  {
+    "comuna": "Estación Central",
+    "x": -4.6058,
+    "y": -2.2447
+  },
+  {
+    "comuna": "La Reina",
+    "x": -5.8282,
+    "y": -2.3245
+  },
+  {
+    "comuna": "Providencia",
+    "x": -6.2977,
+    "y": -2.4376
+  },
+  {
+    "comuna": "Puente Alto",
+    "x": -6.1826,
+    "y": -3.3365
+  },
+  {
+    "comuna": "Renca",
+    "x": -5.1862,
+    "y": -3.1776
+  },
+  {
+    "comuna": "Peñalolén",
+    "x": -5.6418,
+    "y": -2.4523
+  },
+  {
+    "comuna": "Lo Espejo",
+    "x": -5.2911,
+    "y": -3.0166
+  },
+  {
+    "comuna": "Ñuñoa",
+    "x": -5.5508,
+    "y": -2.0851
+  },
+  {
+    "comuna": "Pirque",
+    "x": -5.4266,
+    "y": -3.2496
+  },
+  {
+    "comuna": "Colina",
+    "x": -6.5256,
+    "y": -3.3257
+  },
+  {
+    "comuna": "Vitacura",
+    "x": -6.4486,
+    "y": -3.6055
+  },
+  {
+    "comuna": "El Bosque",
+    "x": -4.079,
+    "y": -2.7074
+  },
+  {
+    "comuna": "Lo Barnechea",
+    "x": -6.4595,
+    "y": -3.8834
+  },
+  {
+    "comuna": "San Miguel",
+    "x": -5.5387,
+    "y": -2.2904
+  }
+]

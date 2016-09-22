@@ -1,0 +1,2506 @@
+[
+  {
+    "source": "Conchalí",
+    "target": "San Miguel"
+  },
+  {
+    "source": "San Ramón",
+    "target": "San Miguel"
+  },
+  {
+    "source": "San Joaquín",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Melipilla",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Peñaflor",
+    "target": "San Miguel"
+  },
+  {
+    "source": "El Monte",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Las Condes",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Macul",
+    "target": "San Miguel"
+  },
+  {
+    "source": "San Bernardo",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Maipú",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Santiago",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Curacaví",
+    "target": "San Miguel"
+  },
+  {
+    "source": "La Cisterna",
+    "target": "San Miguel"
+  },
+  {
+    "source": "La Pintana",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Quilicura",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Huechuraba",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Paine",
+    "target": "San Miguel"
+  },
+  {
+    "source": "La Florida",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Cerrillos",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Cerro Navia",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Estación Central",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Recoleta",
+    "target": "San Miguel"
+  },
+  {
+    "source": "La Reina",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Providencia",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Puente Alto",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Renca",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Peñalolén",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Lo Espejo",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Ñuñoa",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Independencia",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Pudahuel",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Calera de Tango",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Pirque",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Pedro Aguirre Cerda",
+    "target": "San Miguel"
+  },
+  {
+    "source": "Quinta Normal",
+    "target": "Padre Hurtado"
+  },
+  {
+    "source": "Padre Hurtado",
+    "target": "Colina"
+  },
+  {
+    "source": "Lo Prado",
+    "target": "Padre Hurtado"
+  },
+  {
+    "source": "Padre Hurtado",
+    "target": "Las Condes"
+  },
+  {
+    "source": "Padre Hurtado",
+    "target": "Curacaví"
+  },
+  {
+    "source": "Padre Hurtado",
+    "target": "La Granja"
+  },
+  {
+    "source": "Padre Hurtado",
+    "target": "María Pinto"
+  },
+  {
+    "source": "Padre Hurtado",
+    "target": "La Cisterna"
+  },
+  {
+    "source": "Talagante",
+    "target": "Padre Hurtado"
+  },
+  {
+    "source": "Padre Hurtado",
+    "target": "Quilicura"
+  },
+  {
+    "source": "Paine",
+    "target": "Padre Hurtado"
+  },
+  {
+    "source": "Padre Hurtado",
+    "target": "La Florida"
+  },
+  {
+    "source": "Padre Hurtado",
+    "target": "Cerro Navia"
+  },
+  {
+    "source": "Padre Hurtado",
+    "target": "Estación Central"
+  },
+  {
+    "source": "Padre Hurtado",
+    "target": "Recoleta"
+  },
+  {
+    "source": "Padre Hurtado",
+    "target": "La Reina"
+  },
+  {
+    "source": "Padre Hurtado",
+    "target": "Providencia"
+  },
+  {
+    "source": "Padre Hurtado",
+    "target": "Puente Alto"
+  },
+  {
+    "source": "San Pedro",
+    "target": "Padre Hurtado"
+  },
+  {
+    "source": "Padre Hurtado",
+    "target": "Lo Barnechea"
+  },
+  {
+    "source": "Tiltil",
+    "target": "Padre Hurtado"
+  },
+  {
+    "source": "Padre Hurtado",
+    "target": "Calera de Tango"
+  },
+  {
+    "source": "Padre Hurtado",
+    "target": "Pirque"
+  },
+  {
+    "source": "Padre Hurtado",
+    "target": "Vitacura"
+  },
+  {
+    "source": "Conchalí",
+    "target": "San Ramón"
+  },
+  {
+    "source": "Conchalí",
+    "target": "Colina"
+  },
+  {
+    "source": "Conchalí",
+    "target": "Melipilla"
+  },
+  {
+    "source": "Conchalí",
+    "target": "Peñaflor"
+  },
+  {
+    "source": "Conchalí",
+    "target": "Lampa"
+  },
+  {
+    "source": "Conchalí",
+    "target": "Las Condes"
+  },
+  {
+    "source": "Conchalí",
+    "target": "Macul"
+  },
+  {
+    "source": "Conchalí",
+    "target": "Maipú"
+  },
+  {
+    "source": "Conchalí",
+    "target": "Santiago"
+  },
+  {
+    "source": "Conchalí",
+    "target": "Curacaví"
+  },
+  {
+    "source": "Conchalí",
+    "target": "María Pinto"
+  },
+  {
+    "source": "Conchalí",
+    "target": "La Cisterna"
+  },
+  {
+    "source": "Conchalí",
+    "target": "Quilicura"
+  },
+  {
+    "source": "Conchalí",
+    "target": "Huechuraba"
+  },
+  {
+    "source": "Paine",
+    "target": "Conchalí"
+  },
+  {
+    "source": "Conchalí",
+    "target": "La Florida"
+  },
+  {
+    "source": "San José de Maipo",
+    "target": "Conchalí"
+  },
+  {
+    "source": "Conchalí",
+    "target": "Cerrillos"
+  },
+  {
+    "source": "Conchalí",
+    "target": "Recoleta"
+  },
+  {
+    "source": "Conchalí",
+    "target": "La Reina"
+  },
+  {
+    "source": "Conchalí",
+    "target": "Puente Alto"
+  },
+  {
+    "source": "Conchalí",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "Conchalí",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "Conchalí",
+    "target": "Lo Barnechea"
+  },
+  {
+    "source": "Conchalí",
+    "target": "Independencia"
+  },
+  {
+    "source": "Conchalí",
+    "target": "Pudahuel"
+  },
+  {
+    "source": "Conchalí",
+    "target": "Calera de Tango"
+  },
+  {
+    "source": "Conchalí",
+    "target": "Vitacura"
+  },
+  {
+    "source": "Isla de Maipo",
+    "target": "San Ramón"
+  },
+  {
+    "source": "Lo Prado",
+    "target": "Isla de Maipo"
+  },
+  {
+    "source": "Isla de Maipo",
+    "target": "Lampa"
+  },
+  {
+    "source": "Isla de Maipo",
+    "target": "Santiago"
+  },
+  {
+    "source": "Isla de Maipo",
+    "target": "Curacaví"
+  },
+  {
+    "source": "Isla de Maipo",
+    "target": "María Pinto"
+  },
+  {
+    "source": "Isla de Maipo",
+    "target": "Talagante"
+  },
+  {
+    "source": "Isla de Maipo",
+    "target": "Quilicura"
+  },
+  {
+    "source": "Isla de Maipo",
+    "target": "Paine"
+  },
+  {
+    "source": "Isla de Maipo",
+    "target": "Recoleta"
+  },
+  {
+    "source": "Isla de Maipo",
+    "target": "Renca"
+  },
+  {
+    "source": "Isla de Maipo",
+    "target": "Lo Espejo"
+  },
+  {
+    "source": "Tiltil",
+    "target": "Isla de Maipo"
+  },
+  {
+    "source": "Isla de Maipo",
+    "target": "Pudahuel"
+  },
+  {
+    "source": "Isla de Maipo",
+    "target": "Calera de Tango"
+  },
+  {
+    "source": "Isla de Maipo",
+    "target": "Pirque"
+  },
+  {
+    "source": "Isla de Maipo",
+    "target": "Pedro Aguirre Cerda"
+  },
+  {
+    "source": "San Ramón",
+    "target": "Colina"
+  },
+  {
+    "source": "San Ramón",
+    "target": "Melipilla"
+  },
+  {
+    "source": "San Ramón",
+    "target": "Peñaflor"
+  },
+  {
+    "source": "San Ramón",
+    "target": "El Monte"
+  },
+  {
+    "source": "San Ramón",
+    "target": "Lampa"
+  },
+  {
+    "source": "San Ramón",
+    "target": "Las Condes"
+  },
+  {
+    "source": "San Ramón",
+    "target": "San Bernardo"
+  },
+  {
+    "source": "San Ramón",
+    "target": "Santiago"
+  },
+  {
+    "source": "San Ramón",
+    "target": "Curacaví"
+  },
+  {
+    "source": "San Ramón",
+    "target": "María Pinto"
+  },
+  {
+    "source": "San Ramón",
+    "target": "La Cisterna"
+  },
+  {
+    "source": "San Ramón",
+    "target": "Quilicura"
+  },
+  {
+    "source": "San Ramón",
+    "target": "Huechuraba"
+  },
+  {
+    "source": "San José de Maipo",
+    "target": "San Ramón"
+  },
+  {
+    "source": "San Ramón",
+    "target": "Cerrillos"
+  },
+  {
+    "source": "San Ramón",
+    "target": "Recoleta"
+  },
+  {
+    "source": "San Ramón",
+    "target": "Puente Alto"
+  },
+  {
+    "source": "San Ramón",
+    "target": "Renca"
+  },
+  {
+    "source": "San Ramón",
+    "target": "Lo Espejo"
+  },
+  {
+    "source": "San Ramón",
+    "target": "Lo Barnechea"
+  },
+  {
+    "source": "San Ramón",
+    "target": "Independencia"
+  },
+  {
+    "source": "San Ramón",
+    "target": "Pudahuel"
+  },
+  {
+    "source": "San Ramón",
+    "target": "Pirque"
+  },
+  {
+    "source": "San Ramón",
+    "target": "Vitacura"
+  },
+  {
+    "source": "Quinta Normal",
+    "target": "Colina"
+  },
+  {
+    "source": "Lo Prado",
+    "target": "Quinta Normal"
+  },
+  {
+    "source": "Quinta Normal",
+    "target": "Las Condes"
+  },
+  {
+    "source": "Quinta Normal",
+    "target": "Macul"
+  },
+  {
+    "source": "Quinta Normal",
+    "target": "San Bernardo"
+  },
+  {
+    "source": "Quinta Normal",
+    "target": "La Granja"
+  },
+  {
+    "source": "Quinta Normal",
+    "target": "Talagante"
+  },
+  {
+    "source": "Quinta Normal",
+    "target": "Cerrillos"
+  },
+  {
+    "source": "Quinta Normal",
+    "target": "Estación Central"
+  },
+  {
+    "source": "Quinta Normal",
+    "target": "Puente Alto"
+  },
+  {
+    "source": "Quinta Normal",
+    "target": "Renca"
+  },
+  {
+    "source": "Quinta Normal",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "Quinta Normal",
+    "target": "Vitacura"
+  },
+  {
+    "source": "Las Condes",
+    "target": "Colina"
+  },
+  {
+    "source": "La Cisterna",
+    "target": "Colina"
+  },
+  {
+    "source": "Talagante",
+    "target": "Colina"
+  },
+  {
+    "source": "Quilicura",
+    "target": "Colina"
+  },
+  {
+    "source": "La Reina",
+    "target": "Colina"
+  },
+  {
+    "source": "Providencia",
+    "target": "Colina"
+  },
+  {
+    "source": "Puente Alto",
+    "target": "Colina"
+  },
+  {
+    "source": "Peñalolén",
+    "target": "Colina"
+  },
+  {
+    "source": "Ñuñoa",
+    "target": "Colina"
+  },
+  {
+    "source": "Colina",
+    "target": "Lo Barnechea"
+  },
+  {
+    "source": "Colina",
+    "target": "Vitacura"
+  },
+  {
+    "source": "Melipilla",
+    "target": "San Joaquín"
+  },
+  {
+    "source": "Peñaflor",
+    "target": "San Joaquín"
+  },
+  {
+    "source": "San Joaquín",
+    "target": "Macul"
+  },
+  {
+    "source": "San Joaquín",
+    "target": "San Bernardo"
+  },
+  {
+    "source": "San Joaquín",
+    "target": "Maipú"
+  },
+  {
+    "source": "San Joaquín",
+    "target": "El Bosque"
+  },
+  {
+    "source": "San Joaquín",
+    "target": "Santiago"
+  },
+  {
+    "source": "Curacaví",
+    "target": "San Joaquín"
+  },
+  {
+    "source": "María Pinto",
+    "target": "San Joaquín"
+  },
+  {
+    "source": "San Joaquín",
+    "target": "La Cisterna"
+  },
+  {
+    "source": "San Joaquín",
+    "target": "La Pintana"
+  },
+  {
+    "source": "San Joaquín",
+    "target": "Quilicura"
+  },
+  {
+    "source": "San Joaquín",
+    "target": "Huechuraba"
+  },
+  {
+    "source": "Paine",
+    "target": "San Joaquín"
+  },
+  {
+    "source": "San Joaquín",
+    "target": "La Florida"
+  },
+  {
+    "source": "Cerrillos",
+    "target": "San Joaquín"
+  },
+  {
+    "source": "Cerro Navia",
+    "target": "San Joaquín"
+  },
+  {
+    "source": "San Joaquín",
+    "target": "Estación Central"
+  },
+  {
+    "source": "Recoleta",
+    "target": "San Joaquín"
+  },
+  {
+    "source": "San Joaquín",
+    "target": "La Reina"
+  },
+  {
+    "source": "San Joaquín",
+    "target": "Providencia"
+  },
+  {
+    "source": "San Joaquín",
+    "target": "Renca"
+  },
+  {
+    "source": "San Joaquín",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "San Joaquín",
+    "target": "Lo Espejo"
+  },
+  {
+    "source": "San Joaquín",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "Independencia",
+    "target": "San Joaquín"
+  },
+  {
+    "source": "Pudahuel",
+    "target": "San Joaquín"
+  },
+  {
+    "source": "Pedro Aguirre Cerda",
+    "target": "San Joaquín"
+  },
+  {
+    "source": "Melipilla",
+    "target": "Peñaflor"
+  },
+  {
+    "source": "Melipilla",
+    "target": "El Monte"
+  },
+  {
+    "source": "Melipilla",
+    "target": "Lampa"
+  },
+  {
+    "source": "Melipilla",
+    "target": "Las Condes"
+  },
+  {
+    "source": "Melipilla",
+    "target": "Macul"
+  },
+  {
+    "source": "Melipilla",
+    "target": "San Bernardo"
+  },
+  {
+    "source": "Melipilla",
+    "target": "Maipú"
+  },
+  {
+    "source": "Melipilla",
+    "target": "El Bosque"
+  },
+  {
+    "source": "Melipilla",
+    "target": "Santiago"
+  },
+  {
+    "source": "Melipilla",
+    "target": "Curacaví"
+  },
+  {
+    "source": "Melipilla",
+    "target": "María Pinto"
+  },
+  {
+    "source": "Melipilla",
+    "target": "La Cisterna"
+  },
+  {
+    "source": "Melipilla",
+    "target": "La Pintana"
+  },
+  {
+    "source": "Melipilla",
+    "target": "Quilicura"
+  },
+  {
+    "source": "Melipilla",
+    "target": "Huechuraba"
+  },
+  {
+    "source": "Paine",
+    "target": "Melipilla"
+  },
+  {
+    "source": "Melipilla",
+    "target": "La Florida"
+  },
+  {
+    "source": "San José de Maipo",
+    "target": "Melipilla"
+  },
+  {
+    "source": "Melipilla",
+    "target": "Cerrillos"
+  },
+  {
+    "source": "Melipilla",
+    "target": "Cerro Navia"
+  },
+  {
+    "source": "Melipilla",
+    "target": "Estación Central"
+  },
+  {
+    "source": "Melipilla",
+    "target": "Recoleta"
+  },
+  {
+    "source": "Melipilla",
+    "target": "La Reina"
+  },
+  {
+    "source": "Melipilla",
+    "target": "Providencia"
+  },
+  {
+    "source": "Melipilla",
+    "target": "Renca"
+  },
+  {
+    "source": "Melipilla",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "Melipilla",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "Melipilla",
+    "target": "Independencia"
+  },
+  {
+    "source": "Melipilla",
+    "target": "Pudahuel"
+  },
+  {
+    "source": "Melipilla",
+    "target": "Calera de Tango"
+  },
+  {
+    "source": "Melipilla",
+    "target": "Pedro Aguirre Cerda"
+  },
+  {
+    "source": "Peñaflor",
+    "target": "Lampa"
+  },
+  {
+    "source": "Peñaflor",
+    "target": "Macul"
+  },
+  {
+    "source": "Peñaflor",
+    "target": "San Bernardo"
+  },
+  {
+    "source": "Peñaflor",
+    "target": "Maipú"
+  },
+  {
+    "source": "Peñaflor",
+    "target": "Santiago"
+  },
+  {
+    "source": "Peñaflor",
+    "target": "María Pinto"
+  },
+  {
+    "source": "Peñaflor",
+    "target": "La Cisterna"
+  },
+  {
+    "source": "Peñaflor",
+    "target": "La Pintana"
+  },
+  {
+    "source": "Paine",
+    "target": "Peñaflor"
+  },
+  {
+    "source": "Peñaflor",
+    "target": "La Florida"
+  },
+  {
+    "source": "San José de Maipo",
+    "target": "Peñaflor"
+  },
+  {
+    "source": "Peñaflor",
+    "target": "Cerrillos"
+  },
+  {
+    "source": "Peñaflor",
+    "target": "Cerro Navia"
+  },
+  {
+    "source": "Peñaflor",
+    "target": "Estación Central"
+  },
+  {
+    "source": "Peñaflor",
+    "target": "Recoleta"
+  },
+  {
+    "source": "Peñaflor",
+    "target": "La Reina"
+  },
+  {
+    "source": "Peñaflor",
+    "target": "Providencia"
+  },
+  {
+    "source": "Peñaflor",
+    "target": "Renca"
+  },
+  {
+    "source": "Peñaflor",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "Peñaflor",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "Peñaflor",
+    "target": "Independencia"
+  },
+  {
+    "source": "Peñaflor",
+    "target": "Pudahuel"
+  },
+  {
+    "source": "Peñaflor",
+    "target": "Pedro Aguirre Cerda"
+  },
+  {
+    "source": "El Monte",
+    "target": "Las Condes"
+  },
+  {
+    "source": "El Monte",
+    "target": "Macul"
+  },
+  {
+    "source": "El Monte",
+    "target": "El Bosque"
+  },
+  {
+    "source": "El Monte",
+    "target": "Huechuraba"
+  },
+  {
+    "source": "El Monte",
+    "target": "La Reina"
+  },
+  {
+    "source": "El Monte",
+    "target": "Providencia"
+  },
+  {
+    "source": "El Monte",
+    "target": "Renca"
+  },
+  {
+    "source": "El Monte",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "El Monte",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "San Pedro",
+    "target": "El Monte"
+  },
+  {
+    "source": "Independencia",
+    "target": "El Monte"
+  },
+  {
+    "source": "Calera de Tango",
+    "target": "El Monte"
+  },
+  {
+    "source": "Lo Prado",
+    "target": "El Bosque"
+  },
+  {
+    "source": "Lo Prado",
+    "target": "Curacaví"
+  },
+  {
+    "source": "Lo Prado",
+    "target": "La Granja"
+  },
+  {
+    "source": "Lo Prado",
+    "target": "María Pinto"
+  },
+  {
+    "source": "Lo Prado",
+    "target": "Talagante"
+  },
+  {
+    "source": "Lo Prado",
+    "target": "La Pintana"
+  },
+  {
+    "source": "Lo Prado",
+    "target": "Quilicura"
+  },
+  {
+    "source": "Lo Prado",
+    "target": "Cerro Navia"
+  },
+  {
+    "source": "Lo Prado",
+    "target": "Renca"
+  },
+  {
+    "source": "Lo Prado",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "Lo Prado",
+    "target": "Tiltil"
+  },
+  {
+    "source": "Lo Prado",
+    "target": "Calera de Tango"
+  },
+  {
+    "source": "Lampa",
+    "target": "La Granja"
+  },
+  {
+    "source": "Lampa",
+    "target": "María Pinto"
+  },
+  {
+    "source": "Talagante",
+    "target": "Lampa"
+  },
+  {
+    "source": "Lampa",
+    "target": "Huechuraba"
+  },
+  {
+    "source": "San José de Maipo",
+    "target": "Lampa"
+  },
+  {
+    "source": "Lampa",
+    "target": "Cerrillos"
+  },
+  {
+    "source": "Lampa",
+    "target": "Recoleta"
+  },
+  {
+    "source": "Lampa",
+    "target": "Lo Espejo"
+  },
+  {
+    "source": "San Pedro",
+    "target": "Lampa"
+  },
+  {
+    "source": "Lampa",
+    "target": "Independencia"
+  },
+  {
+    "source": "Tiltil",
+    "target": "Lampa"
+  },
+  {
+    "source": "Lampa",
+    "target": "Pudahuel"
+  },
+  {
+    "source": "Lampa",
+    "target": "Pedro Aguirre Cerda"
+  },
+  {
+    "source": "Las Condes",
+    "target": "Macul"
+  },
+  {
+    "source": "Las Condes",
+    "target": "San Bernardo"
+  },
+  {
+    "source": "Curacaví",
+    "target": "Las Condes"
+  },
+  {
+    "source": "Las Condes",
+    "target": "La Cisterna"
+  },
+  {
+    "source": "Talagante",
+    "target": "Las Condes"
+  },
+  {
+    "source": "Las Condes",
+    "target": "Quilicura"
+  },
+  {
+    "source": "Las Condes",
+    "target": "Huechuraba"
+  },
+  {
+    "source": "Las Condes",
+    "target": "La Reina"
+  },
+  {
+    "source": "Las Condes",
+    "target": "Providencia"
+  },
+  {
+    "source": "Las Condes",
+    "target": "Puente Alto"
+  },
+  {
+    "source": "Las Condes",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "Las Condes",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "Las Condes",
+    "target": "Lo Barnechea"
+  },
+  {
+    "source": "Calera de Tango",
+    "target": "Las Condes"
+  },
+  {
+    "source": "Las Condes",
+    "target": "Vitacura"
+  },
+  {
+    "source": "Macul",
+    "target": "San Bernardo"
+  },
+  {
+    "source": "Macul",
+    "target": "Maipú"
+  },
+  {
+    "source": "Macul",
+    "target": "Santiago"
+  },
+  {
+    "source": "Curacaví",
+    "target": "Macul"
+  },
+  {
+    "source": "Macul",
+    "target": "La Cisterna"
+  },
+  {
+    "source": "Macul",
+    "target": "La Pintana"
+  },
+  {
+    "source": "Macul",
+    "target": "Huechuraba"
+  },
+  {
+    "source": "Paine",
+    "target": "Macul"
+  },
+  {
+    "source": "Macul",
+    "target": "La Florida"
+  },
+  {
+    "source": "Macul",
+    "target": "Estación Central"
+  },
+  {
+    "source": "Recoleta",
+    "target": "Macul"
+  },
+  {
+    "source": "Macul",
+    "target": "La Reina"
+  },
+  {
+    "source": "Macul",
+    "target": "Providencia"
+  },
+  {
+    "source": "Macul",
+    "target": "Renca"
+  },
+  {
+    "source": "Macul",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "Macul",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "Independencia",
+    "target": "Macul"
+  },
+  {
+    "source": "Pudahuel",
+    "target": "Macul"
+  },
+  {
+    "source": "Calera de Tango",
+    "target": "Macul"
+  },
+  {
+    "source": "Pedro Aguirre Cerda",
+    "target": "Macul"
+  },
+  {
+    "source": "San Bernardo",
+    "target": "Maipú"
+  },
+  {
+    "source": "San Bernardo",
+    "target": "Santiago"
+  },
+  {
+    "source": "Curacaví",
+    "target": "San Bernardo"
+  },
+  {
+    "source": "María Pinto",
+    "target": "San Bernardo"
+  },
+  {
+    "source": "San Bernardo",
+    "target": "La Cisterna"
+  },
+  {
+    "source": "San Bernardo",
+    "target": "La Pintana"
+  },
+  {
+    "source": "Paine",
+    "target": "San Bernardo"
+  },
+  {
+    "source": "San Bernardo",
+    "target": "La Florida"
+  },
+  {
+    "source": "Cerrillos",
+    "target": "San Bernardo"
+  },
+  {
+    "source": "San Bernardo",
+    "target": "Estación Central"
+  },
+  {
+    "source": "Recoleta",
+    "target": "San Bernardo"
+  },
+  {
+    "source": "San Bernardo",
+    "target": "La Reina"
+  },
+  {
+    "source": "San Bernardo",
+    "target": "Providencia"
+  },
+  {
+    "source": "San Bernardo",
+    "target": "Renca"
+  },
+  {
+    "source": "San Bernardo",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "San Bernardo",
+    "target": "Lo Espejo"
+  },
+  {
+    "source": "San Bernardo",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "San Bernardo",
+    "target": "Lo Barnechea"
+  },
+  {
+    "source": "Independencia",
+    "target": "San Bernardo"
+  },
+  {
+    "source": "Pudahuel",
+    "target": "San Bernardo"
+  },
+  {
+    "source": "San Bernardo",
+    "target": "Pirque"
+  },
+  {
+    "source": "San Bernardo",
+    "target": "Vitacura"
+  },
+  {
+    "source": "Pedro Aguirre Cerda",
+    "target": "San Bernardo"
+  },
+  {
+    "source": "Maipú",
+    "target": "El Bosque"
+  },
+  {
+    "source": "Maipú",
+    "target": "Santiago"
+  },
+  {
+    "source": "Curacaví",
+    "target": "Maipú"
+  },
+  {
+    "source": "La Granja",
+    "target": "Maipú"
+  },
+  {
+    "source": "Maipú",
+    "target": "La Cisterna"
+  },
+  {
+    "source": "Maipú",
+    "target": "La Pintana"
+  },
+  {
+    "source": "Maipú",
+    "target": "Huechuraba"
+  },
+  {
+    "source": "Paine",
+    "target": "Maipú"
+  },
+  {
+    "source": "Maipú",
+    "target": "La Florida"
+  },
+  {
+    "source": "Cerrillos",
+    "target": "Maipú"
+  },
+  {
+    "source": "Maipú",
+    "target": "Estación Central"
+  },
+  {
+    "source": "Recoleta",
+    "target": "Maipú"
+  },
+  {
+    "source": "Maipú",
+    "target": "La Reina"
+  },
+  {
+    "source": "Maipú",
+    "target": "Providencia"
+  },
+  {
+    "source": "Maipú",
+    "target": "Puente Alto"
+  },
+  {
+    "source": "Maipú",
+    "target": "Renca"
+  },
+  {
+    "source": "Maipú",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "Maipú",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "Maipú",
+    "target": "Lo Barnechea"
+  },
+  {
+    "source": "Independencia",
+    "target": "Maipú"
+  },
+  {
+    "source": "Pudahuel",
+    "target": "Maipú"
+  },
+  {
+    "source": "Calera de Tango",
+    "target": "Maipú"
+  },
+  {
+    "source": "Maipú",
+    "target": "Pirque"
+  },
+  {
+    "source": "Pedro Aguirre Cerda",
+    "target": "Maipú"
+  },
+  {
+    "source": "La Pintana",
+    "target": "El Bosque"
+  },
+  {
+    "source": "Quilicura",
+    "target": "El Bosque"
+  },
+  {
+    "source": "Huechuraba",
+    "target": "El Bosque"
+  },
+  {
+    "source": "Cerrillos",
+    "target": "El Bosque"
+  },
+  {
+    "source": "Cerro Navia",
+    "target": "El Bosque"
+  },
+  {
+    "source": "Peñalolén",
+    "target": "El Bosque"
+  },
+  {
+    "source": "Lo Espejo",
+    "target": "El Bosque"
+  },
+  {
+    "source": "Independencia",
+    "target": "El Bosque"
+  },
+  {
+    "source": "Calera de Tango",
+    "target": "El Bosque"
+  },
+  {
+    "source": "Curacaví",
+    "target": "Santiago"
+  },
+  {
+    "source": "Santiago",
+    "target": "La Cisterna"
+  },
+  {
+    "source": "Santiago",
+    "target": "La Pintana"
+  },
+  {
+    "source": "Santiago",
+    "target": "Huechuraba"
+  },
+  {
+    "source": "Paine",
+    "target": "Santiago"
+  },
+  {
+    "source": "Santiago",
+    "target": "La Florida"
+  },
+  {
+    "source": "Santiago",
+    "target": "Estación Central"
+  },
+  {
+    "source": "Recoleta",
+    "target": "Santiago"
+  },
+  {
+    "source": "Santiago",
+    "target": "La Reina"
+  },
+  {
+    "source": "Santiago",
+    "target": "Providencia"
+  },
+  {
+    "source": "Santiago",
+    "target": "Renca"
+  },
+  {
+    "source": "Santiago",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "Santiago",
+    "target": "Lo Espejo"
+  },
+  {
+    "source": "Santiago",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "Independencia",
+    "target": "Santiago"
+  },
+  {
+    "source": "Pudahuel",
+    "target": "Santiago"
+  },
+  {
+    "source": "Pedro Aguirre Cerda",
+    "target": "Santiago"
+  },
+  {
+    "source": "Curacaví",
+    "target": "La Granja"
+  },
+  {
+    "source": "Curacaví",
+    "target": "María Pinto"
+  },
+  {
+    "source": "Talagante",
+    "target": "Curacaví"
+  },
+  {
+    "source": "Curacaví",
+    "target": "Quilicura"
+  },
+  {
+    "source": "Curacaví",
+    "target": "La Florida"
+  },
+  {
+    "source": "Curacaví",
+    "target": "Cerrillos"
+  },
+  {
+    "source": "Curacaví",
+    "target": "Cerro Navia"
+  },
+  {
+    "source": "Curacaví",
+    "target": "La Reina"
+  },
+  {
+    "source": "Curacaví",
+    "target": "Providencia"
+  },
+  {
+    "source": "Curacaví",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "Curacaví",
+    "target": "Lo Espejo"
+  },
+  {
+    "source": "Curacaví",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "Curacaví",
+    "target": "Lo Barnechea"
+  },
+  {
+    "source": "Tiltil",
+    "target": "Curacaví"
+  },
+  {
+    "source": "Curacaví",
+    "target": "Pudahuel"
+  },
+  {
+    "source": "Curacaví",
+    "target": "Calera de Tango"
+  },
+  {
+    "source": "Curacaví",
+    "target": "Pirque"
+  },
+  {
+    "source": "Curacaví",
+    "target": "Vitacura"
+  },
+  {
+    "source": "La Granja",
+    "target": "María Pinto"
+  },
+  {
+    "source": "La Granja",
+    "target": "La Cisterna"
+  },
+  {
+    "source": "Talagante",
+    "target": "La Granja"
+  },
+  {
+    "source": "La Granja",
+    "target": "La Pintana"
+  },
+  {
+    "source": "La Granja",
+    "target": "La Florida"
+  },
+  {
+    "source": "San José de Maipo",
+    "target": "La Granja"
+  },
+  {
+    "source": "La Granja",
+    "target": "Cerro Navia"
+  },
+  {
+    "source": "La Granja",
+    "target": "Renca"
+  },
+  {
+    "source": "La Granja",
+    "target": "Lo Espejo"
+  },
+  {
+    "source": "Tiltil",
+    "target": "La Granja"
+  },
+  {
+    "source": "La Granja",
+    "target": "Calera de Tango"
+  },
+  {
+    "source": "La Granja",
+    "target": "Pedro Aguirre Cerda"
+  },
+  {
+    "source": "Talagante",
+    "target": "María Pinto"
+  },
+  {
+    "source": "María Pinto",
+    "target": "La Pintana"
+  },
+  {
+    "source": "María Pinto",
+    "target": "Quilicura"
+  },
+  {
+    "source": "Paine",
+    "target": "María Pinto"
+  },
+  {
+    "source": "María Pinto",
+    "target": "La Florida"
+  },
+  {
+    "source": "San José de Maipo",
+    "target": "María Pinto"
+  },
+  {
+    "source": "María Pinto",
+    "target": "Cerrillos"
+  },
+  {
+    "source": "María Pinto",
+    "target": "Cerro Navia"
+  },
+  {
+    "source": "María Pinto",
+    "target": "Recoleta"
+  },
+  {
+    "source": "María Pinto",
+    "target": "Renca"
+  },
+  {
+    "source": "María Pinto",
+    "target": "Lo Espejo"
+  },
+  {
+    "source": "María Pinto",
+    "target": "Independencia"
+  },
+  {
+    "source": "Tiltil",
+    "target": "María Pinto"
+  },
+  {
+    "source": "María Pinto",
+    "target": "Pudahuel"
+  },
+  {
+    "source": "María Pinto",
+    "target": "Calera de Tango"
+  },
+  {
+    "source": "María Pinto",
+    "target": "Pedro Aguirre Cerda"
+  },
+  {
+    "source": "La Cisterna",
+    "target": "La Pintana"
+  },
+  {
+    "source": "La Cisterna",
+    "target": "Quilicura"
+  },
+  {
+    "source": "La Cisterna",
+    "target": "Huechuraba"
+  },
+  {
+    "source": "Paine",
+    "target": "La Cisterna"
+  },
+  {
+    "source": "La Cisterna",
+    "target": "La Florida"
+  },
+  {
+    "source": "Cerro Navia",
+    "target": "La Cisterna"
+  },
+  {
+    "source": "La Cisterna",
+    "target": "Estación Central"
+  },
+  {
+    "source": "Recoleta",
+    "target": "La Cisterna"
+  },
+  {
+    "source": "La Cisterna",
+    "target": "La Reina"
+  },
+  {
+    "source": "La Cisterna",
+    "target": "Puente Alto"
+  },
+  {
+    "source": "La Cisterna",
+    "target": "Renca"
+  },
+  {
+    "source": "La Cisterna",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "La Cisterna",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "San Pedro",
+    "target": "La Cisterna"
+  },
+  {
+    "source": "La Cisterna",
+    "target": "Lo Barnechea"
+  },
+  {
+    "source": "Independencia",
+    "target": "La Cisterna"
+  },
+  {
+    "source": "Pudahuel",
+    "target": "La Cisterna"
+  },
+  {
+    "source": "La Cisterna",
+    "target": "Pirque"
+  },
+  {
+    "source": "La Cisterna",
+    "target": "Vitacura"
+  },
+  {
+    "source": "Pedro Aguirre Cerda",
+    "target": "La Cisterna"
+  },
+  {
+    "source": "Talagante",
+    "target": "Paine"
+  },
+  {
+    "source": "Talagante",
+    "target": "Cerrillos"
+  },
+  {
+    "source": "Talagante",
+    "target": "Cerro Navia"
+  },
+  {
+    "source": "Talagante",
+    "target": "Puente Alto"
+  },
+  {
+    "source": "Talagante",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "Tiltil",
+    "target": "Talagante"
+  },
+  {
+    "source": "Talagante",
+    "target": "Pudahuel"
+  },
+  {
+    "source": "Talagante",
+    "target": "Calera de Tango"
+  },
+  {
+    "source": "Talagante",
+    "target": "Pirque"
+  },
+  {
+    "source": "Talagante",
+    "target": "Vitacura"
+  },
+  {
+    "source": "Talagante",
+    "target": "Pedro Aguirre Cerda"
+  },
+  {
+    "source": "La Pintana",
+    "target": "Quilicura"
+  },
+  {
+    "source": "Paine",
+    "target": "La Pintana"
+  },
+  {
+    "source": "La Pintana",
+    "target": "La Florida"
+  },
+  {
+    "source": "Cerrillos",
+    "target": "La Pintana"
+  },
+  {
+    "source": "Cerro Navia",
+    "target": "La Pintana"
+  },
+  {
+    "source": "La Pintana",
+    "target": "Estación Central"
+  },
+  {
+    "source": "Recoleta",
+    "target": "La Pintana"
+  },
+  {
+    "source": "La Pintana",
+    "target": "La Reina"
+  },
+  {
+    "source": "La Pintana",
+    "target": "Renca"
+  },
+  {
+    "source": "La Pintana",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "La Pintana",
+    "target": "Lo Espejo"
+  },
+  {
+    "source": "La Pintana",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "Independencia",
+    "target": "La Pintana"
+  },
+  {
+    "source": "Pudahuel",
+    "target": "La Pintana"
+  },
+  {
+    "source": "Pedro Aguirre Cerda",
+    "target": "La Pintana"
+  },
+  {
+    "source": "Paine",
+    "target": "Quilicura"
+  },
+  {
+    "source": "Quilicura",
+    "target": "La Florida"
+  },
+  {
+    "source": "Cerrillos",
+    "target": "Quilicura"
+  },
+  {
+    "source": "Cerro Navia",
+    "target": "Quilicura"
+  },
+  {
+    "source": "Recoleta",
+    "target": "Quilicura"
+  },
+  {
+    "source": "Quilicura",
+    "target": "Puente Alto"
+  },
+  {
+    "source": "Quilicura",
+    "target": "Renca"
+  },
+  {
+    "source": "Quilicura",
+    "target": "Lo Espejo"
+  },
+  {
+    "source": "San Pedro",
+    "target": "Quilicura"
+  },
+  {
+    "source": "Quilicura",
+    "target": "Lo Barnechea"
+  },
+  {
+    "source": "Tiltil",
+    "target": "Quilicura"
+  },
+  {
+    "source": "Quilicura",
+    "target": "Pirque"
+  },
+  {
+    "source": "Quilicura",
+    "target": "Vitacura"
+  },
+  {
+    "source": "Paine",
+    "target": "Huechuraba"
+  },
+  {
+    "source": "Huechuraba",
+    "target": "La Florida"
+  },
+  {
+    "source": "Cerrillos",
+    "target": "Huechuraba"
+  },
+  {
+    "source": "Huechuraba",
+    "target": "Estación Central"
+  },
+  {
+    "source": "Recoleta",
+    "target": "Huechuraba"
+  },
+  {
+    "source": "Huechuraba",
+    "target": "La Reina"
+  },
+  {
+    "source": "Huechuraba",
+    "target": "Providencia"
+  },
+  {
+    "source": "Huechuraba",
+    "target": "Renca"
+  },
+  {
+    "source": "Huechuraba",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "Huechuraba",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "San Pedro",
+    "target": "Huechuraba"
+  },
+  {
+    "source": "Independencia",
+    "target": "Huechuraba"
+  },
+  {
+    "source": "Pudahuel",
+    "target": "Huechuraba"
+  },
+  {
+    "source": "Calera de Tango",
+    "target": "Huechuraba"
+  },
+  {
+    "source": "Paine",
+    "target": "La Florida"
+  },
+  {
+    "source": "Paine",
+    "target": "Cerrillos"
+  },
+  {
+    "source": "Paine",
+    "target": "Cerro Navia"
+  },
+  {
+    "source": "Paine",
+    "target": "Estación Central"
+  },
+  {
+    "source": "Paine",
+    "target": "Recoleta"
+  },
+  {
+    "source": "Paine",
+    "target": "La Reina"
+  },
+  {
+    "source": "Paine",
+    "target": "Puente Alto"
+  },
+  {
+    "source": "Paine",
+    "target": "Renca"
+  },
+  {
+    "source": "Paine",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "Paine",
+    "target": "Lo Espejo"
+  },
+  {
+    "source": "Paine",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "Paine",
+    "target": "San Pedro"
+  },
+  {
+    "source": "Paine",
+    "target": "Independencia"
+  },
+  {
+    "source": "Tiltil",
+    "target": "Paine"
+  },
+  {
+    "source": "Paine",
+    "target": "Pudahuel"
+  },
+  {
+    "source": "Paine",
+    "target": "Pirque"
+  },
+  {
+    "source": "Paine",
+    "target": "Pedro Aguirre Cerda"
+  },
+  {
+    "source": "Cerrillos",
+    "target": "La Florida"
+  },
+  {
+    "source": "Cerro Navia",
+    "target": "La Florida"
+  },
+  {
+    "source": "La Florida",
+    "target": "Estación Central"
+  },
+  {
+    "source": "Recoleta",
+    "target": "La Florida"
+  },
+  {
+    "source": "La Florida",
+    "target": "La Reina"
+  },
+  {
+    "source": "La Florida",
+    "target": "Providencia"
+  },
+  {
+    "source": "La Florida",
+    "target": "Puente Alto"
+  },
+  {
+    "source": "La Florida",
+    "target": "Renca"
+  },
+  {
+    "source": "La Florida",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "La Florida",
+    "target": "Lo Espejo"
+  },
+  {
+    "source": "La Florida",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "San Pedro",
+    "target": "La Florida"
+  },
+  {
+    "source": "Independencia",
+    "target": "La Florida"
+  },
+  {
+    "source": "Pudahuel",
+    "target": "La Florida"
+  },
+  {
+    "source": "La Florida",
+    "target": "Pirque"
+  },
+  {
+    "source": "Pedro Aguirre Cerda",
+    "target": "La Florida"
+  },
+  {
+    "source": "San José de Maipo",
+    "target": "Cerrillos"
+  },
+  {
+    "source": "San José de Maipo",
+    "target": "Recoleta"
+  },
+  {
+    "source": "San José de Maipo",
+    "target": "Lo Espejo"
+  },
+  {
+    "source": "San José de Maipo",
+    "target": "San Pedro"
+  },
+  {
+    "source": "San José de Maipo",
+    "target": "Independencia"
+  },
+  {
+    "source": "San José de Maipo",
+    "target": "Pudahuel"
+  },
+  {
+    "source": "Cerrillos",
+    "target": "Cerro Navia"
+  },
+  {
+    "source": "Cerrillos",
+    "target": "Recoleta"
+  },
+  {
+    "source": "Cerrillos",
+    "target": "Renca"
+  },
+  {
+    "source": "Cerrillos",
+    "target": "Lo Espejo"
+  },
+  {
+    "source": "Cerrillos",
+    "target": "Independencia"
+  },
+  {
+    "source": "Cerrillos",
+    "target": "Pudahuel"
+  },
+  {
+    "source": "Cerrillos",
+    "target": "Calera de Tango"
+  },
+  {
+    "source": "Cerrillos",
+    "target": "Pirque"
+  },
+  {
+    "source": "Cerrillos",
+    "target": "Pedro Aguirre Cerda"
+  },
+  {
+    "source": "Cerro Navia",
+    "target": "Recoleta"
+  },
+  {
+    "source": "Cerro Navia",
+    "target": "Puente Alto"
+  },
+  {
+    "source": "Cerro Navia",
+    "target": "Renca"
+  },
+  {
+    "source": "San Pedro",
+    "target": "Cerro Navia"
+  },
+  {
+    "source": "Tiltil",
+    "target": "Cerro Navia"
+  },
+  {
+    "source": "Cerro Navia",
+    "target": "Calera de Tango"
+  },
+  {
+    "source": "Cerro Navia",
+    "target": "Pirque"
+  },
+  {
+    "source": "Cerro Navia",
+    "target": "Pedro Aguirre Cerda"
+  },
+  {
+    "source": "Recoleta",
+    "target": "Estación Central"
+  },
+  {
+    "source": "Estación Central",
+    "target": "La Reina"
+  },
+  {
+    "source": "Estación Central",
+    "target": "Renca"
+  },
+  {
+    "source": "Estación Central",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "Estación Central",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "Independencia",
+    "target": "Estación Central"
+  },
+  {
+    "source": "Pudahuel",
+    "target": "Estación Central"
+  },
+  {
+    "source": "Pedro Aguirre Cerda",
+    "target": "Estación Central"
+  },
+  {
+    "source": "Recoleta",
+    "target": "La Reina"
+  },
+  {
+    "source": "Recoleta",
+    "target": "Puente Alto"
+  },
+  {
+    "source": "Recoleta",
+    "target": "Renca"
+  },
+  {
+    "source": "Recoleta",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "Recoleta",
+    "target": "Lo Espejo"
+  },
+  {
+    "source": "Recoleta",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "San Pedro",
+    "target": "Recoleta"
+  },
+  {
+    "source": "Recoleta",
+    "target": "Independencia"
+  },
+  {
+    "source": "Recoleta",
+    "target": "Pudahuel"
+  },
+  {
+    "source": "Recoleta",
+    "target": "Pirque"
+  },
+  {
+    "source": "Recoleta",
+    "target": "Pedro Aguirre Cerda"
+  },
+  {
+    "source": "La Reina",
+    "target": "Providencia"
+  },
+  {
+    "source": "La Reina",
+    "target": "Renca"
+  },
+  {
+    "source": "La Reina",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "La Reina",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "La Reina",
+    "target": "Lo Barnechea"
+  },
+  {
+    "source": "Independencia",
+    "target": "La Reina"
+  },
+  {
+    "source": "Pudahuel",
+    "target": "La Reina"
+  },
+  {
+    "source": "Calera de Tango",
+    "target": "La Reina"
+  },
+  {
+    "source": "La Reina",
+    "target": "Vitacura"
+  },
+  {
+    "source": "Pedro Aguirre Cerda",
+    "target": "La Reina"
+  },
+  {
+    "source": "Providencia",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "Providencia",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "Providencia",
+    "target": "Lo Barnechea"
+  },
+  {
+    "source": "Pudahuel",
+    "target": "Providencia"
+  },
+  {
+    "source": "Calera de Tango",
+    "target": "Providencia"
+  },
+  {
+    "source": "Providencia",
+    "target": "Vitacura"
+  },
+  {
+    "source": "Puente Alto",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "San Pedro",
+    "target": "Puente Alto"
+  },
+  {
+    "source": "Puente Alto",
+    "target": "Lo Barnechea"
+  },
+  {
+    "source": "Puente Alto",
+    "target": "Pirque"
+  },
+  {
+    "source": "Puente Alto",
+    "target": "Vitacura"
+  },
+  {
+    "source": "Pedro Aguirre Cerda",
+    "target": "Puente Alto"
+  },
+  {
+    "source": "Renca",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "Renca",
+    "target": "Lo Espejo"
+  },
+  {
+    "source": "Renca",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "Independencia",
+    "target": "Renca"
+  },
+  {
+    "source": "Tiltil",
+    "target": "Renca"
+  },
+  {
+    "source": "Pudahuel",
+    "target": "Renca"
+  },
+  {
+    "source": "Pedro Aguirre Cerda",
+    "target": "Renca"
+  },
+  {
+    "source": "Peñalolén",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "Independencia",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "Pudahuel",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "Calera de Tango",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "Peñalolén",
+    "target": "Vitacura"
+  },
+  {
+    "source": "Pedro Aguirre Cerda",
+    "target": "Peñalolén"
+  },
+  {
+    "source": "Pudahuel",
+    "target": "Lo Espejo"
+  },
+  {
+    "source": "Lo Espejo",
+    "target": "Pirque"
+  },
+  {
+    "source": "Pedro Aguirre Cerda",
+    "target": "Lo Espejo"
+  },
+  {
+    "source": "Independencia",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "Pudahuel",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "Calera de Tango",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "Pedro Aguirre Cerda",
+    "target": "Ñuñoa"
+  },
+  {
+    "source": "San Pedro",
+    "target": "Pirque"
+  },
+  {
+    "source": "Vitacura",
+    "target": "Lo Barnechea"
+  },
+  {
+    "source": "Independencia",
+    "target": "Pudahuel"
+  },
+  {
+    "source": "Independencia",
+    "target": "Calera de Tango"
+  },
+  {
+    "source": "Independencia",
+    "target": "Pedro Aguirre Cerda"
+  },
+  {
+    "source": "Tiltil",
+    "target": "Pudahuel"
+  },
+  {
+    "source": "Tiltil",
+    "target": "Calera de Tango"
+  },
+  {
+    "source": "Tiltil",
+    "target": "Pirque"
+  },
+  {
+    "source": "Tiltil",
+    "target": "Pedro Aguirre Cerda"
+  },
+  {
+    "source": "Pudahuel",
+    "target": "Pirque"
+  },
+  {
+    "source": "Pudahuel",
+    "target": "Pedro Aguirre Cerda"
+  },
+  {
+    "source": "Calera de Tango",
+    "target": "Pirque"
+  }
+]

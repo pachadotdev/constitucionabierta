@@ -1,0 +1,63 @@
+<!doctype html>
+  <meta charset="utf-8">
+    <script src="d3plus/d3.min.js"></script>
+    <script src="d3plus/d3plus.min.js"></script>
+    <link rel="stylesheet" href="css/fonts.css" />
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico?">
+          <div id="siete_conceptos"></div>
+          <script>
+          var visualization = d3plus.viz()
+          .container("#siete_conceptos")
+          .data("graficos/7conceptos_data.json")
+          .edges("graficos/7conceptos_edges_reducido_2.json")
+          .type("network")
+          .width(false)
+          .height(false)
+          .resize(true)
+          .id(["comuna"])
+          .size(false)
+          .font({"family": "Kievit, Open Sans, sans-serif"})
+          .labels({"align": "center", "valign": "middle"})
+          .depth(0)
+          .format({
+            "text": function(text, params) {
+              
+              if (text === "concepto1") {
+                return "Concepto 1";
+              }
+              if (text === "concepto2") {
+                return "Concepto 2";
+              }
+              if (text === "concepto3") {
+                return "Concepto 3";
+              }
+              if (text === "concepto4") {
+                return "Concepto 4";
+              }
+              if (text === "concepto5") {
+                return "Concepto 5";
+              }
+              else {
+                return d3plus.string.title(text, params);
+              }
+            },
+            "number": function(number, params) {
+              
+              var formatted = d3plus.number.format(number, params);
+              
+              if (params.key === "value") {
+                return formatted;
+              }
+              else {
+                return formatted;
+              }
+            }
+          })
+          .color(["color3"])
+          .legend({"tooltip":false, "value":false})
+          .tooltip(["concepto1","concepto2","concepto3","concepto4","concepto5"])
+          .title("Comunas de la Región Metropolitana")
+          .title({"sub":"Grupos obtenidos usando k-means con 3 centroides (Hartigan y Wong, 1979)"})
+                    .footer({"value":"Removiendo conceptos comunes de menor peso relativo antes de realizar cálculos"})
+          .draw();
+          </script>
