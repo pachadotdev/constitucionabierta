@@ -2,3 +2,11 @@
 .Rhistory
 .RData
 .Ruserdata
+
+TFIDF/
+archivos/
+dumpSQL/
+CSVdata/
+rstats/
+archivos/deberes_ptd.RData
+rstats/analisis_deberes.html
