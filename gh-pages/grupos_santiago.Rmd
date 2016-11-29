@@ -14,54 +14,96 @@ output:
 
 Lo que hacemos en [Constitución Abierta](www.constitucionabierta.cl) es tomar datos en bruto y a partir de ellos desarrollamos una plataforma de visualización de datos abiertos. 
 
-Hemos explorado los datos y una vez que llegamos a entenderlos comenzamos a analizar patrones o tendencias que no se observan a simple vista. Hemos segmentado, dividido y agrupado los datos disponibles de las más diversas formas con el objetivo de poder comunicar resultados simples y fáciles de entender. 
+Hemos explorado los datos y una vez que llegamos a entenderlos comenzamos a analizar patrones o tendencias que no se observan a simple vista. 
 
-Ante todo nos preguntamos ¿Cuál es la mejor manera de presentar nuestra información? Para esto hemos decido usar las mejores herramientas disponibles para presentar datos accesibles, esclarecedores y transparentes.
+Lo que buscamos es presentar datos accesibles, esclarecedores y transparentes.
 
 # El caso de Santiago.
 
 Las comunas de Santiago, al igual que todas las comunas de Chile, tienen una caracterización demográfica y socio-económica que les dan características distintivas. 
 
-¿Qué se puede decir respecto de las comunas de Santiago y lo que sus habitantes opinan respecto del proceso consultivo de reforma constitucional impulsado por el Gobierno? Hemos analizados los datos con el objetivo de generar grupos de comunas en base a los siete valores y conceptos mencionados en los ELAs y que resultan identitarios y separan a cada comuna de las demás.
+Hemos analizados los datos con el objetivo de generar grupos de comunas en base a los valores y conceptos mencionados en los Encuentros Locales y Consulta Individual y que resultan identitarios y separan a cada comuna de las demás.
 
-Nuestro análisis, que incluye técnicas bastante recientes y las ya tradicionales, nos permite identificar valores y conceptos comunes entre las comunas de Santiago y formar grupos.
+# Encuentros Locales 
 
-Tenemos los siguientes grupos de comunas:
+Tomando todos los conceptos mencionados tenemos los siguientes grupos de comunas.
 
-## Grupo 1
+### Grupo 1
 
 Quinta Normal, Lo Prado, Pudahuel, La Granja y Conchalí.
 
-## Grupo 2
+### Grupo 2
 
 Renca, La Pintana, Pedro Aguirre Cerda, El Bosque, Cerro Navia, Lo Espejo, San Ramón, Independencia, Quilicura y Cerrillos.
 
-## Grupo 3
+### Grupo 3
 
 Recoleta, Maipú, San Miguel, La Florida, La Cisterna, Huechuraba, San Joaquín y Estación Central.
 
-## Grupo 4
+### Grupo 4
 
 Vitacura, Las Condes y Lo Barnechea.
 
-## Grupo 5
+### Grupo 5
 
 Macul, La Reina, Peñalolén, Santiago, Providencia y Ñuñoa.
 
-## ¿Cómo se relacionan estos grupos?
+Los cinco conceptos más representativos de cada grupo los siguientes.
 
-El siguiente dendrograma muestra como se agrupan las comunas.
+|Concepto|Grupo 1                      |Grupo 2                               |Grupo 3                               |Grupo 4                |Grupo 5                 |
+|--------|-----------------------------|--------------------------------------|--------------------------------------|-----------------------|------------------------|
+|1       |Cambio/Reforma Constitucional|Dignidad                              |Asamblea Constituyente                |Banco Central          |Voto Obligatorio        |
+|2       |Protección de los Derechos   |Sindicalizarse y Negociación Colectiva|Estado Laico                          |Propiedad              |Democracia Participativa|
+|3       |Estado Laico                 |Cambio/Reforma Constitucional         |Sindicalizarse y Negociación Colectiva|Familia                |Asamblea Constituyente  |
+|4       |Igualdad                     |Salud                                 |Régimen de Gobierno                   |Libre Empresa          |Estado Laico            |
+|5       |Defensor del Ciudadano       |Educación                             |Seguridad Social                      |Tribunal Constitucional|Equidad                 |
 
-![](images/dendrograma_santiago.png)
+El siguiente dendrograma muestra como se agrupan las considerando todos los conceptos mencionados.
 
-## ¿Cómo se obtuvo este resultado?
+![](images/ConceptosPorComunasTFIDF_dendrograma_santiago.png)
 
-Como ya se mencionó, buscamos los valores y conceptos comunes entre las comunas de Santiago, siendo los siete más representativos de cada grupo los siguientes:
+# Consulta Individual
 
-|Concepto|Grupo 1                            |Grupo 2                                      |Grupo3                                                          |Grupo4                                  |Grupo5                  |
-|--------|-----------------------------------|---------------------------------------------|----------------------------------------------------------------|----------------------------------------|------------------------|
-|1       |Cambio/Reforma Constitucional    |Dignidad                                     |Asamblea Constituyente                                          |Banco Central                           |Voto Obligatorio        |
-|2       |Proteccion de los Derechos|Sindicalizarse y Negociación Colectiva|Estado Laico                                                    |Propiedad                               |Democracia Participativa|
-|3       |Estado Laico                       |Cambio/Reforma Constitucional              |Sindicalizarse y Negociación Colectiva                   |Familia                                 |Asamblea Constituyente  |
-|4       |Igualdad                           |Salud                                   |Régimen de Gobierno|Libre Empresa|Estado Laico            |
-|5       |Defensor del Ciudadano      |Educación                               |Seguridad Social                                           |Tribunal Constitucional                 |Equidad                 |
+Tomando todos los conceptos mencionados tenemos los siguientes grupos de comunas.
+
+### Grupo 1
+
+Renca, Conchalí, Estación Central, Recoleta y Lo Espejo.
+
+### Grupo 2
+
+San Ramón, Huechuraba, Lo Prado, Quinta Normal, La Granja, Cerillos, Cerro Navia, La Pintana y Quilicura.
+
+### Grupo 3
+
+Pedro Aguirre Cerda, El Bosque y La Cisterna.
+
+### Grupo 4
+
+Vitacura, Las Condes y Lo Barnechea.
+
+### Grupo 5
+
+Pudahuel, Peñalolén, La Florida, Santiago y Maipú.
+
+### Grupo 6
+
+San Joaquín, Macul, San Miguel e Independencia.
+
+### Grupo 7
+
+Providencia, Ñuñoa, La Reina, Vitacura y Lo Barnechea.
+
+Los cinco conceptos más representativos de cada grupo los siguientes.
+
+|Concepto|Grupo 1                        |Grupo 2                        |Grupo 3                        |Grupo 4                        |Grupo 5                                 |Grupo 6                 |
+|--------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|----------------------------------------|------------------------|
+|1       |Familia de Padre, Madre e Hijos|Familia de Padre, Madre e Hijos|Familia de Padre, Madre e Hijos|Familia de Padre, Madre e Hijos|Salud                                   |Tribunal Constitucional |
+|2       |Subsidiaridad                  |Subsidiaridad                  |Subsidiaridad                  |Derechos de los Animales       |Derechos Humanos                        |Banco Central           |
+|3       |Libre Empresa                  |Salud                          |Libre Empresa                  |Asamblea Constituyente         |Educación                               |Derechos de los Animales|
+|4       |Propiedad                      |Educación                      |Propiedad                      |Subsidiaridad                  |Protección/Conservación de la Naturaleza|Propiedad               |
+|5       |Salud                          |Cumplimiento de Leyes y Normas |Emprendimiento Libre           |Salud                          |Asamblea Constituyente                  |Libre Empresa           |
+
+El siguiente dendrograma muestra como se agrupan las considerando todos los conceptos mencionados.
+
+![](images/CIConceptosTFIDF_dendrograma_santiago.png)
