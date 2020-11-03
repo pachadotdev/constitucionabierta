@@ -149,9 +149,7 @@ constitucion_estado <- function(msg = TRUE) {
 }
 
 constitucion_tables <- function() {
-  c("comunas", "hogares", "mapa_comunas", "mapa_provincias",
-    "mapa_regiones", "mapa_zonas", "personas", "provincias",
-    "regiones", "viviendas", "zonas")
+  c("conceptos","ela","memoria","participante")
 }
 
 constitucion_cache <- new.env()
