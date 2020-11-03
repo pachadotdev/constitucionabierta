@@ -11,7 +11,7 @@ test_that("constitucion_datos returns tbl_df", {
   
   expect_is(constitucion_bbdd(), "SQLiteConnection")
   
-  for (t in c("comunas", "regiones")) {
+  for (t in c("ela", "participante")) {
     expect_is(constitucion_tabla(t), "tbl_df")
   }
 })
@@ -22,7 +22,7 @@ test_that("constitucion_datos returns tbl_lazy", {
   
   expect_is(constitucion_bbdd(), "SQLiteConnection")
   
-  for (t in c("comunas", "regiones")) {
+  for (t in c("ela", "participante")) {
     expect_is(dplyr::tbl(constitucion_bbdd(), t), "tbl_lazy")
   }
 })
