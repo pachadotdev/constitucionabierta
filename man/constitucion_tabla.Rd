@@ -20,6 +20,6 @@ tm o ggplot2, sin necesidad de transformar las columnas de geometrias.
 }
 \examples{
 if (constitucion_estado()) {
-  constitucion_tabla("comunas")
+  constitucion_tabla("conceptos")
 }
 }

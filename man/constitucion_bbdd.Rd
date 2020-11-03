@@ -24,7 +24,7 @@ if (constitucion_estado()) {
 
  DBI::dbGetQuery(
   constitucion_bbdd(),
-  'SELECT * FROM comunas WHERE provincia_ref_id = 1'
+  'SELECT * FROM conceptos'
  )
 }
 }

@@ -46,3 +46,40 @@ for (table in tables) {
 
 dbDisconnect(con)
 dbDisconnect(con2)
+
+comunas2$comuna[!comunas2$comuna %in% comunas$nombre_comuna]
+
+comunas2 <- comunas2 %>% 
+  mutate(
+    comunaok = case_when(
+      comunaok == "La Calera" ~ "Calera",
+      comunaok == "Coyhaique" ~ "Coihaique",
+      comunaok == "Padre Las Casas" ~ "Padre las Casas",
+      comunaok == "Aysen" ~ "Aisen",
+      comunaok == "San Vicente de Tagua Tagua" ~ "San Vicente",
+      comunaok == "San Pedro de La Paz" ~ "San Pedro de la Paz",
+      comunaok == "Paihuano" ~ "Paiguano",
+      comunaok == "O'higgins" ~ "OHiggins",
+      TRUE ~ comunaok
+    )
+  )
+
+# arregla comunas ----
+
+ela <- constitucion_tabla("ela")
+
+comunas <- chilemapas::codigos_territoriales %>% select(nombre_comuna, codigo_comuna)
+
+comunas2 <- tibble(comuna = unique(ela$comuna), comunaok = unique(ela$comuna))
+
+comunas2$comunaok[!comunas2$comunaok %in% comunas$nombre_comuna]
+
+ela <- ela %>% 
+  left_join(comunas2)
+
+ela <- ela %>% 
+  select(-comuna) %>% 
+  rename(comuna = comunaok) %>% 
+  left_join(comunas, by = c("comuna" = "nombre_comuna"))
+
+dbWriteTable(constitucion_bbdd(), "ela", ela, overwrite = T)
