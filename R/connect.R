@@ -88,11 +88,7 @@ constitucion_bbdd <- function(dir = constitucion_path()) {
 #'   constitucion_tabla("comunas")
 #' }
 constitucion_tabla <- function(tabla) {
-  if (any(tabla %in% grep("mapa_", constitucion_tables(), value = T))) {
-    df <- sf::st_read(constitucion_bbdd(), tabla)
-  } else {
-    df <- tibble::as_tibble(DBI::dbReadTable(constitucion_bbdd(), tabla)) 
-  }
+  df <- tibble::as_tibble(DBI::dbReadTable(constitucion_bbdd(), tabla)) 
   return(df)
 }
 
