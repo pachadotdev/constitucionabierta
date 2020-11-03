@@ -1,3 +1,3 @@
 library(testthat)
-library(censo2017)
-test_check("censo2017")
+library(constitucionabierta)
+test_check("constitucionabierta")
