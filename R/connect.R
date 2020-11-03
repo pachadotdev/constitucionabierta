@@ -35,7 +35,7 @@ constitucion_check_status <- function() {
 #'
 #'  DBI::dbGetQuery(
 #'   constitucion_bbdd(),
-#'   'SELECT * FROM comunas WHERE provincia_ref_id = 1'
+#'   'SELECT * FROM conceptos'
 #'  )
 #' }
 constitucion_bbdd <- function(dir = constitucion_path()) {
@@ -85,7 +85,7 @@ constitucion_bbdd <- function(dir = constitucion_path()) {
 #'
 #' @examples
 #' if (constitucion_estado()) {
-#'   constitucion_tabla("comunas")
+#'   constitucion_tabla("conceptos")
 #' }
 constitucion_tabla <- function(tabla) {
   df <- tibble::as_tibble(DBI::dbReadTable(constitucion_bbdd(), tabla)) 
