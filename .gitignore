@@ -1,12 +1,6 @@
 .Rproj.user
 .Rhistory
 .RData
-.Ruserdata
-
-TFIDF/
-archivos/
-dumpSQL/
-CSVdata/
-rstats/
-archivos/deberes_ptd.RData
-rstats/analisis_deberes.html
+data-raw/*.sqlite
+data-raw/*.sqlite.bz2
+data-raw/*.zip
